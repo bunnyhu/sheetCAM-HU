@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-01 21:55+0100\n"
-"PO-Revision-Date: 2021-03-07 11:42+0100\n"
+"PO-Revision-Date: 2021-03-07 20:11+0100\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -705,7 +705,7 @@ msgstr "A rajz nevét használd a termék nevének"
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\toolpanel.cpp:111
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\camlib\operations.cpp:3908
 msgid "Drill"
-msgstr "Maró"
+msgstr "Fúró"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\EstimateDialog.cpp:165
 msgid "Tool not found"
@@ -1008,7 +1008,7 @@ msgstr "Eseménypontok szerkesztés"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\funcmode.cpp:3405
 msgid "Edit contours"
-msgstr "Kontúr szerkesztés"
+msgstr "Termék kontúr szerkesztés"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\funcmode.cpp:3406
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\joboptionsdialog.cpp:151
@@ -2309,29 +2309,29 @@ msgstr "Új sugaras vágás művelet készítés"
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\operationpanel.cpp:410
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\processpanel.cpp:23
 msgid "&Tapping"
-msgstr "&Csapolás"
+msgstr "&Beütő"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\operationpanel.cpp:410
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\processpanel.cpp:23
 msgid "Create a new tapping operation"
-msgstr "Új csapolás művelet"
+msgstr "Új beütő művelet"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\operationpanel.cpp:411
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\tapdialog.cpp:88
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\toolpanel.cpp:115
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\camlib\operations.cpp:4540
 msgid "Thread mill"
-msgstr "Menetes maró"
+msgstr "Menetfúró"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\operationpanel.cpp:412
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\processpanel.cpp:22
 msgid "&Drilling"
-msgstr "&Marás"
+msgstr "&Fúrás"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\operationpanel.cpp:412
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\processpanel.cpp:22
 msgid "Create a new drilling operation"
-msgstr "Új maró művelet készítése"
+msgstr "Új Fúró művelet készítése"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\operationpanel.cpp:413
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\processpanel.cpp:24
@@ -2461,7 +2461,7 @@ msgstr "Kör felismerési határ"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\optionsdialog.cpp:190
 msgid "Maximum drawing deviation from a true circle. Used for drilling."
-msgstr "Maximális rajz eltérés a valódi körtől. Maráskor használt."
+msgstr "Maximális rajz eltérés a valódi körtől. Fúráskor használt."
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\optionsdialog.cpp:192
 msgid "Arc fitting tolerance"
@@ -2497,11 +2497,11 @@ msgstr "Mindíg az alapértelmezett szerszámos használata"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\optionsdialog.cpp:248
 msgid "Drill hole tolerance"
-msgstr "Maró furat tűrés"
+msgstr "Fúró furat tűrés"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\optionsdialog.cpp:251
 msgid "This is the default drill hole size range"
-msgstr "Ez az alapértelmezett maró furat méret tartománya"
+msgstr "Ez az alapértelmezett fúró furatméret tartománya"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\optionsdialog.cpp:253
 msgid "Auto backup interval"
@@ -3474,11 +3474,11 @@ msgstr "V vágó"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\toolpanel.cpp:113
 msgid "Rigid tap"
-msgstr "Merev csap"
+msgstr "Pontozó"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\toolpanel.cpp:114
 msgid "Tapping head"
-msgstr "Csapolófej"
+msgstr "Beütő fej"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\toolpanel.cpp:116
 msgid "New &jet cutting tool"
@@ -4130,7 +4130,7 @@ msgstr "Sarkok hurok"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\camlib\operations.cpp:3427
 msgid "Max chain length"
-msgstr "Max lánc hossz"
+msgstr "Max összekötés hossz"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\camlib\operations.cpp:3627
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\camlib\Tools.cpp:652
@@ -4232,7 +4232,7 @@ msgstr "Réteg használata"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\camlib\operations.cpp:4523
 msgid "Thread diameter"
-msgstr "Menetátmérő"
+msgstr "Menet átmérő"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\camlib\operations.cpp:4527
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\SDK\laser\LaserOperation.cpp:29
