@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-01 21:55+0100\n"
-"PO-Revision-Date: 2021-03-07 20:11+0100\n"
+"PO-Revision-Date: 2021-03-07 22:08+0100\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -4185,19 +4185,19 @@ msgstr "A szerszám valószínűleg nem képes ezt a mélységet kivágni"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\camlib\operations.cpp:3756
 msgid "Min hole size"
-msgstr "Min furat mélység"
+msgstr "Min furat szélesség"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\camlib\operations.cpp:3758
 msgid "Max hole size"
-msgstr "Max furat mélység"
+msgstr "Max furat szélesség"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\camlib\operations.cpp:3868
 msgid "Peck retract"
-msgstr "Kicsípés visszahúzás"
+msgstr "Merülés visszahúzás"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\camlib\operations.cpp:3878
 msgid "Peck depth"
-msgstr "Kicsípés mélység"
+msgstr "Merülés mélység"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\camlib\operations.cpp:3947
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\camlib\toolvalues.h:58
@@ -4674,7 +4674,7 @@ msgstr "Átmérő"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\camlib\Tools.cpp:628
 msgid "Flute length"
-msgstr "Fúvóka hossz"
+msgstr "Szerszám hossza"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\camlib\Tools.cpp:630
 msgid "Spindle direction"
@@ -4696,7 +4696,7 @@ msgstr "átmérő"
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\camlib\Tools.cpp:783
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\camlib\Tools.cpp:849
 msgid "Pitch"
-msgstr "Pich"
+msgstr "Menet emelkedés"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\camlib\Tools.cpp:784
 msgid "Underfeed"
