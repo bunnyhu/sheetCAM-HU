@@ -1,3 +1,5 @@
+# SheetCAM TNG Magyarítás
+
 A version 6 a Sheetcam v6.x.x verziókhoz való magyarítást tartalmazza.
 A version 7 a Sheetcam v7.x.x verziókhoz való magyarítást tartalmazza. Ez elkészülte után hivatalosan is bekerül a programba, tehát nem lesz szükség külön telepíteni.
 
