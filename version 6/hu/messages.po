@@ -8,13 +8,13 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-01 21:55+0100\n"
-"PO-Revision-Date: 2021-03-07 23:10+0100\n"
+"PO-Revision-Date: 2021-03-09 14:52+0100\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.8.6\n"
-"Last-Translator: \n"
+"Last-Translator: Szabó Károly\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Language: hu\n"
 
@@ -24,7 +24,9 @@ msgstr "Az új generációs CAM."
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\About.cpp:72
 msgid "(C) 2007-2013 Stable Design"
-msgstr "(C) 2007-2013 Stabil verzió"
+msgstr ""
+"(C) 2007-2013 Stabil verzió\n"
+"Magyar fordítás: Szabó Károly"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\About.cpp:96
 msgid "Copy ID to clipboard"
@@ -32,7 +34,7 @@ msgstr "Kulcs másolása a vágólapra"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\About.cpp:104
 msgid "Show licence"
-msgstr "Mutasd a licenszt"
+msgstr "Mutasd a licenszet"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\About.cpp:130
 #, c-format
@@ -143,7 +145,7 @@ msgstr "Sorok száma"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\arraydialog.cpp:105
 msgid "Array area"
-msgstr "terület tömb"
+msgstr "Tömb terület"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\arraydialog.cpp:108
 msgid "X2"
@@ -289,7 +291,7 @@ msgstr "Kiszámítás"
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\LuaEditor.cpp:411
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\camlib\Part.cpp:2579
 msgid "Do you want to save your changes?"
-msgstr "El akarja menteni a változásokat?"
+msgstr "El akarod menteni a változásokat?"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\codeeditor.cpp:121
 msgid ""
@@ -300,8 +302,8 @@ msgid ""
 msgstr ""
 "Megváltoztattad a kódot a szerkesztőben.\n"
 "\n"
-"Biztosan futtatni szeretnéd a vezérlőkód készítőt és felülírni a "
-"változásokat?"
+"Biztosan futtatni szeretnéd a vezérlőkód készítőt \n"
+"és felülírni a változásokat?"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\codeeditor.cpp:122
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\LocalPlugin.cpp:28
@@ -932,7 +934,7 @@ msgstr "Többszörös duplikálás"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\funcmode.cpp:2528
 msgid "Array parts"
-msgstr "Termék tömb"
+msgstr "Tömb termékek"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\funcmode.cpp:2539
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\PartPanel.cpp:435
@@ -1192,7 +1194,7 @@ msgstr "Szín"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\griddialog.cpp:70
 msgid "Bump increment"
-msgstr "Domborzat növelés"
+msgstr "Módosítás lépésközei"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\griddialog.cpp:80
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\nestdialog.cpp:543
@@ -1346,7 +1348,7 @@ msgid ""
 "Please use a different name"
 msgstr ""
 "Ez a név már használatban van.\n"
-"Kérem használjon más nevet"
+"Kérlek használj más nevet"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\layerpanel.cpp:13
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\operationpanel.cpp:70
@@ -1468,7 +1470,7 @@ msgstr ""
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\LuaEditor.cpp:555
 msgid "Do you want to run the plugin again?"
-msgstr "Újra szeretné a bővítményt futtatni?"
+msgstr "Újra szeretnéd a bővítményt futtatni?"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\LuaStack.cpp:189
 #, c-format
@@ -1561,7 +1563,7 @@ msgstr "Üdvözöl a ..."
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\mainframe.cpp:23
 msgid "Evaluation limit reached"
-msgstr "Elérted a próba határát"
+msgstr "Elérted a próbaverzió korlátot"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\mainframe.cpp:181
 msgid "Run post processor"
@@ -1920,7 +1922,7 @@ msgstr ""
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\mainframe.cpp:781
 msgid "Do you want to import a drawing into this part?"
-msgstr "Szeretne egy rajzot importálni ebbe a termékbe?"
+msgstr "Szeretnél egy rajzot importálni ebbe a termékbe?"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\mainframe.cpp:781
 msgid "Import drawing into new part"
@@ -1947,7 +1949,7 @@ msgstr "Újra kell indítani a változás érvényesítéséhez"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\mainframe.cpp:1391
 msgid "Do you want to save the default tool set?"
-msgstr "El akarja menteni az alapértelmezett szerszámost?"
+msgstr "El akarod menteni az alapértelmezett szerszámost?"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\mergeToolsdialog.cpp:38
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\camlib\Part.cpp:3347
@@ -2040,7 +2042,7 @@ msgstr "Előtolás használata"
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\SDK\MyNesting\nestdialog.cpp:112
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\SDK\MyNesting\NestImportDialog.cpp:246
 msgid "Qty"
-msgstr "Menny"
+msgstr "Darab"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\nestdialog.cpp:548
 msgid "Fixed"
@@ -2757,7 +2759,7 @@ msgstr "Ha ezen belül %s átszúrja %s"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\PathRules.cpp:533
 msgid "Include leadout"
-msgstr "Kivezetéssel együt"
+msgstr "Kivezetéssel együtt"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\PathRules.cpp:587
 #, c-format
@@ -2882,7 +2884,7 @@ msgstr "Alkalmazza a periférikus előtolást"
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\PathRules.cpp:1668
 #, c-format
 msgid "Advanced cutting rule set '%s'"
-msgstr "Bovített vágási szabály állítása '%s'"
+msgstr "Bővített vágási szabály állítása '%s'"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\PathRules.cpp:1670
 msgid "This set has no active rules"
@@ -3055,7 +3057,7 @@ msgstr "Asztal teteje"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\PostPanel.cpp:66
 msgid "Z zero"
-msgstr "Z tengely nullpont"
+msgstr "Z nullpont"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\PostPanel.cpp:69
 msgid "Output folder"
@@ -3090,7 +3092,7 @@ msgid ""
 "Do you want to overwrite it?"
 msgstr ""
 "A Vezérlő neve már létezik.\n"
-"Szeretné felülírni?"
+"Szeretnéd felülírni?"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\PostPanel.cpp:293
 msgid "Post installed successfully"
@@ -3319,7 +3321,7 @@ msgstr "Napló"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\supportdialog.cpp:159
 msgid "Please enter any information you think may help"
-msgstr "Kérlek írja le minden információt, amit hasznosnak gondolsz"
+msgstr "Kérlek írj le minden információt, amit hasznosnak gondolsz"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\supportdialog.cpp:163
 msgid "Enter your email address if you want a reply"
@@ -3418,7 +3420,7 @@ msgstr "Bővítmények"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\toolbareditor.cpp:209
 msgid "Do you want to save your changes to this toolbar?"
-msgstr "El akarja menteni a változtatásait ehez a eszközsávhoz?"
+msgstr "El akarod menteni a változtatásait ehez a eszközsávhoz?"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\toolbareditor.cpp:227
 msgid "You must have at least one tool in the toolbar"
@@ -4278,8 +4280,8 @@ msgid ""
 "No paths were generated. The tool may be too big\n"
 "or there may be a problem with the drawing."
 msgstr ""
-"Nincs útvonal generálva. A szerszám valószínűleg túl nagy\n"
-"vagy más gond van  a rajzzal."
+"Nincs útvonal generálva. A szerszám valószínűleg túl nagy,\n"
+"vagy más gond van a rajzzal."
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\camlib\operations.cpp:5091
 msgid "The tool will hit the table"
@@ -4473,7 +4475,7 @@ msgid ""
 msgstr ""
 "Ez a vezérlő hibát dobott:\n"
 "%s\n"
-"Szeretné szerkeszteni?"
+"Szeretnéd szerkeszteni?"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\camlib\PluginServer.cpp:791
 #, c-format
@@ -4484,7 +4486,7 @@ msgid ""
 msgstr ""
 "Ez a bővítmény hibát dobott:\n"
 "%s\n"
-"Szeretné a makrót szerkeszteni?"
+"Szeretnéd a makrót szerkeszteni?"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\camlib\PluginServer.cpp:937
 msgid "This plugin failed to load: "
@@ -4942,7 +4944,7 @@ msgstr "Sablon betöltés"
 
 #: tmp.cpp:7 tmp.cpp:6
 msgid "Keep existing parts"
-msgstr "Tarts a termékeket együtt"
+msgstr "Tartsd a termékeket együtt"
 
 #: tmp.cpp:8 tmp.cpp:7
 msgid "Automatically disable unused operations"
@@ -5196,7 +5198,7 @@ msgid ""
 "The plugin can be enabled by going to Config->Config plugins."
 msgstr ""
 "Mach3 telepítve van, de a SheetCamRemote bővítményt nem találom.\n"
-"Kérem telepítse a SheetCamRemote bővítményt és engedélyezze a Mach3-ban.\n"
+"Kérlek telepítsd a SheetCamRemote bővítményt és engedélyezd a Mach3-ban.\n"
 "A bővítmény engedélyezése a Config->Config plugins menüben történik."
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\plugins\mach\options.lua:103
@@ -5634,7 +5636,7 @@ msgstr "Igazítás"
 
 #: tmp.cpp:20
 msgid "Enter your text here"
-msgstr "írd ide a szöveget"
+msgstr "Írd ide a szöveget"
 
 #: tmp.cpp:21
 msgid "Add to current part"
@@ -5798,12 +5800,12 @@ msgstr ""
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\SDK\DGNestPro\nestdialog.cpp:815
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\SDK\MyNesting\nestdialog.cpp:696
 msgid "Waiting for NestFab"
-msgstr "Várunk a NestFab-ra"
+msgstr "Várok a NestFab-ra"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\SDK\DGNestPro\nestdialog.cpp:818
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\SDK\MyNesting\nestdialog.cpp:699
 msgid "Waiting for MyNesting"
-msgstr "Várunk a MyNesting-re"
+msgstr "Várok a MyNesting-re"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\SDK\DGNestPro\NestImportDialog.cpp:92
 msgid "Parts not in job file"
@@ -6022,7 +6024,7 @@ msgstr "Terminálban futtatás"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\SDK\DNC\optionspanel.cpp:207
 msgid "Keep open when command finishes"
-msgstr "Tartsd nyitva ha a parancs befejeződött"
+msgstr "Tartsd nyitva, ha a parancs befejeződött"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\SDK\DNC\optionspanel.cpp:211
 msgid "Wait for command to finish"
@@ -6227,7 +6229,7 @@ msgstr "Nem tért haza."
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\SDK\USBCNC\USBCNCplugin.cpp:1459
 #, python-format
 msgid "Z to %.3f\n"
-msgstr "Z to %.3f\n"
+msgstr "Z ide %.3f\n"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\SDK\USBCNC\USBCNCplugin.cpp:1457
 #, python-format
