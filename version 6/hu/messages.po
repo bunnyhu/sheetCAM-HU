@@ -8,12 +8,12 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-01 21:55+0100\n"
-"PO-Revision-Date: 2021-03-09 14:52+0100\n"
+"PO-Revision-Date: 2021-03-09 19:18+0100\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.6\n"
+"X-Generator: Poedit 2.4.2\n"
 "Last-Translator: Szabó Károly\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Language: hu\n"
@@ -129,7 +129,7 @@ msgid ""
 msgstr ""
 "Sajnáljuk, de %s belső hiba történt. Nagy nagy segítség lenne, ha elküldenéd "
 "a hibakereső riportot számunkra, hogy kideríthessük, mi okozza a "
-"meghibásodást."
+"meghibásodást"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\arraydialog.cpp:92
 msgid "Array"
@@ -771,7 +771,7 @@ msgstr "Ellentétes vágási oldal"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\funcmode.cpp:736
 msgid "Corner snap distance"
-msgstr "sarok kapocs távolsága"
+msgstr "Sarok kapocs távolsága"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\funcmode.cpp:740
 msgid "Copy start points from"
@@ -957,7 +957,7 @@ msgstr "Válassz egy terméket és duplikáld"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\funcmode.cpp:2604
 msgid "Copy of "
-msgstr "Másolata"
+msgstr "Másolata "
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\funcmode.cpp:2976
 msgid ""
@@ -2020,7 +2020,7 @@ msgstr "Új"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\movedialog.cpp:345
 msgid "Single move"
-msgstr "egy mozgás"
+msgstr "Egy mozgás"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\movedialog.cpp:346
 msgid "Multiple move"
@@ -2410,7 +2410,7 @@ msgstr "Fekete séma használata"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\optionsdialog.cpp:136
 msgid "Use white scheme"
-msgstr "fehér séma használata"
+msgstr "Fehér séma használata"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\optionsdialog.cpp:139
 msgid "Change"
@@ -2610,7 +2610,7 @@ msgstr "Kézi terítékezett rajzra bontás"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\partpospanel.cpp:27
 msgid "Pos X"
-msgstr "poz X"
+msgstr "Poz X"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\partpospanel.cpp:35
 #: tmp.cpp:17
@@ -2635,7 +2635,7 @@ msgstr "Rajz fájlnév:"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\partpropertiesdialog.cpp:42
 msgid "Number of outlines:"
-msgstr "körvonalak száma:"
+msgstr "Körvonalak száma:"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\partpropertiesdialog.cpp:46
 msgid "Number of layers:"
@@ -2667,7 +2667,7 @@ msgstr "Vége előtt"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\PathRules.cpp:202
 msgid "On lead in"
-msgstr "bevezetéskor"
+msgstr "Bevezetéskor"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\PathRules.cpp:203
 msgid "On lead out"
@@ -2717,11 +2717,11 @@ msgstr "változtat %s -ről %s -re"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\PathRules.cpp:278
 msgid "feed"
-msgstr "Előtolás"
+msgstr "előtolás"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\PathRules.cpp:290
 msgid " and "
-msgstr "és"
+msgstr " és "
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\PathRules.cpp:298
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\PathRules.cpp:644
@@ -2731,7 +2731,7 @@ msgstr "és"
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\PathRules.cpp:1082
 #, c-format
 msgid "output %s"
-msgstr "Kimenet %s"
+msgstr "kimenet %s"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\PathRules.cpp:305
 msgid "do nothing"
@@ -2773,7 +2773,7 @@ msgstr "Távolság utána"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\PathRules.cpp:646
 msgid "set feed to 100%"
-msgstr "Előtolás 100%-ra"
+msgstr "előtolást 100%-ra"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\PathRules.cpp:649
 #, c-format
@@ -2787,7 +2787,7 @@ msgstr "Távolság mielőtt"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\PathRules.cpp:708
 msgid " then "
-msgstr "azután"
+msgstr " azután "
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\PathRules.cpp:714
 #, c-format
@@ -3084,7 +3084,7 @@ msgstr "Vezérlő dokumentáció"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\PostPanel.cpp:119
 msgid " (Edited)"
-msgstr "(szerkesztett)"
+msgstr " (szerkesztett)"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\PostPanel.cpp:284
 msgid ""
@@ -4020,7 +4020,7 @@ msgstr "{Nincs változó beállítás}"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\camlib\operations.cpp:1354
 msgid "Set variable "
-msgstr "Változó beállítás"
+msgstr "Változó beállítás "
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\camlib\operations.cpp:1516
 msgid "Code snippet not found"
@@ -4032,11 +4032,11 @@ msgstr "{Nincs kód}"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\camlib\operations.cpp:1543
 msgid "Insert code "
-msgstr "Kód beszúrás"
+msgstr "Kód beszúrás "
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\camlib\operations.cpp:1547
 msgid "Insert code snippet "
-msgstr "Kód részlet beszúrás"
+msgstr "Kód részlet beszúrás "
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\camlib\operations.cpp:1556
 msgid "Minimum X size"
@@ -4285,7 +4285,7 @@ msgstr ""
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\camlib\operations.cpp:5091
 msgid "The tool will hit the table"
-msgstr "a szerszám beleér az asztalba"
+msgstr "A szerszám beleér az asztalba"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\camlib\operations.cpp:5097
 msgid "Open paths were not offset."
@@ -4592,7 +4592,7 @@ msgstr "Vezérlőkódolás..."
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\camlib\Post.cpp:721
 msgid "Part:"
-msgstr "termék:"
+msgstr "Termék:"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\camlib\Post.cpp:769
 #, c-format
@@ -4763,7 +4763,7 @@ msgstr "Kivágás szélesség"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\camlib\Tools.cpp:1129
 msgid "kerf"
-msgstr "Kivágás"
+msgstr "kivágás"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\camlib\Tools.cpp:1156
 msgid "Power"
@@ -4775,7 +4775,7 @@ msgstr "Előmelegít"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\camlib\Tools.cpp:1239
 msgid "Code: "
-msgstr "Kód:"
+msgstr "Kód: "
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\camlib\Tools.cpp:1383
 msgid "New tool"
@@ -4818,7 +4818,7 @@ msgstr "A munka nincs betöltve."
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\camlib\vertexes.cpp:2333
 msgid "Removing duplicate vectors"
-msgstr "Duplázott vektorok eltávolítása."
+msgstr "Duplázott vektorok eltávolítása"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\Languages\..\camlib\vertexes.cpp:2348
 msgid ""
@@ -4886,7 +4886,7 @@ msgstr "Könyvtár átvizsgálás"
 
 #: tmp.cpp:6 tmp.cpp:7
 msgid "Timing"
-msgstr "időzítés"
+msgstr "Időzítés"
 
 #: tmp.cpp:7 tmp.cpp:8
 msgid "Delay before loading"
@@ -4912,7 +4912,7 @@ msgstr "Gyorsan böngészhetsz és betölthetsz fájlokat."
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\plugins\BatchProcessing\Quickload.lua:158
 msgid "File name"
-msgstr "fájl név"
+msgstr "Fájl név"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\plugins\BatchProcessing\Quickload.lua:159
 msgid "Date"
@@ -5274,7 +5274,7 @@ msgstr "Stop"
 
 #: tmp.cpp:15 tmp.cpp:22
 msgid "Rewind"
-msgstr "visszatekerés"
+msgstr "Visszatekerés"
 
 #: tmp.cpp:16 tmp.cpp:23
 msgid "Block delete"
@@ -5693,7 +5693,7 @@ msgstr "Mozgások szimulálása a gép mozgatása nélkül"
 
 #: tmp.cpp:17
 msgid "Spindle"
-msgstr "orsó"
+msgstr "Orsó"
 
 #: tmp.cpp:45
 msgid "Sync tool table"
@@ -6307,7 +6307,7 @@ msgstr "Vége itt"
 #: Copy.cpp:110
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\SDK\Wire\WireOperation.cpp:44
 msgid "Wire cut"
-msgstr "huzal vágás"
+msgstr "Huzal vágás"
 
 #: c:\Users\gw\Documents\SheetCam\Stable\SheetCamTNG\SDK\Wire\WireOperation.cpp:113
 msgid "Cut route is not complete."

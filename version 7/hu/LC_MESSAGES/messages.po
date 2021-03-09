@@ -1,0 +1,5338 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-09 07:51+0000\n"
+"PO-Revision-Date: 2021-03-09 17:20+0100\n"
+"Last-Translator: Szabó Károly\n"
+"Language-Team: \n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "The new generation of CAM."
+msgstr "Az új generációs CAM."
+
+msgid "(C) 2007-2016 Stable Design"
+msgstr "(C) 2007-2016 Stabil verzió"
+
+msgid "Copy ID to clipboard"
+msgstr "Kulcs másolása a vágólapra"
+
+msgid "Show licence"
+msgstr "Mutasd a licenszet"
+
+#, c-format
+msgid "Registered to: %s"
+msgstr "Regisztrálva: %s"
+
+#, c-format
+msgid "License ID: %s"
+msgstr "Licensz kulcs: %s"
+
+#, c-format
+msgid "%i days remaining"
+msgstr "%i nap van hátra"
+
+msgid "This product is unregistered"
+msgstr "A program nincs regisztrálva"
+
+msgid "This file no longer exists"
+msgstr "A fájl már nem létezik"
+
+msgid "Length"
+msgstr "Hossz"
+
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireTool.cpp:8
+msgid "Feed rate"
+msgstr "Előtolás"
+
+msgid "Start code"
+msgstr "Indító kód"
+
+msgid "End code"
+msgstr "Záró kód"
+
+msgid "Don't ask me again"
+msgstr "Ne kérdezze többször"
+
+msgid ""
+"An automatic backup has been found\n"
+"Do you want to load it?"
+msgstr ""
+"Egy automatikus mentést találtam.\n"
+"Szeretnéd betölteni?"
+
+msgid "Auto backup"
+msgstr "Automatikus mentés"
+
+msgid "Restored backup"
+msgstr "Mentés visszaállítása"
+
+#, c-format
+msgid ""
+"We are very sorry but %s has encountered an internal error. It would be very "
+"helpful if you could send a debug report so we can try to find out what went "
+"wrong"
+msgstr ""
+"Sajnáljuk, de %s belső hiba történt. Nagy nagy segítség lenne, ha elküldenéd "
+"a hibakereső riportot számunkra, hogy kideríthessük, mi okozza a "
+"meghibásodást"
+
+msgid "Array"
+msgstr "Tömb"
+
+msgid "Number of columns"
+msgstr "Oszlopok száma"
+
+msgid "Number of rows"
+msgstr "Sorok száma"
+
+msgid "Array area"
+msgstr "Tömb terület"
+
+msgid "X2"
+msgstr "X2"
+
+msgid "Y2"
+msgstr "Y2"
+
+msgid "X1"
+msgstr "X1"
+
+msgid "Y1"
+msgstr "Y1"
+
+msgid "Fit to material"
+msgstr "Anyaghoz igazítva"
+
+msgid "Part spacing"
+msgstr "Termék távolság"
+
+#: tmp.cpp:2 tmp.cpp:41 tmp.cpp:1 tmp.cpp:3 tmp.cpp:9 tmp.cpp:14 tmp.cpp:26
+#: tmp.cpp:20
+msgid "X"
+msgstr "X"
+
+#: tmp.cpp:5 tmp.cpp:43 tmp.cpp:2 tmp.cpp:3 tmp.cpp:10 tmp.cpp:15 tmp.cpp:27
+#: tmp.cpp:21
+msgid "Y"
+msgstr "Y"
+
+msgid "Gap between parts"
+msgstr "A termékek közötti hézag"
+
+msgid "Grid spacing"
+msgstr "Rács távolság"
+
+msgid "Offset even rows"
+msgstr "Eltolás páros soroknál"
+
+#: tmp.cpp:4 tmp.cpp:5
+msgid "Enabled"
+msgstr "Engedélyezett"
+
+msgid "Holding tabs"
+msgstr "Rögzítő hidak"
+
+#: tmp.cpp:6
+msgid "Thickness"
+msgstr "Vastagság"
+
+msgid "Clean up exit ramp"
+msgstr "Kivezetésnél törölni"
+
+msgid "Ramp out"
+msgstr "Rámpa ki"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\AutoTabDialog.cpp:70
+msgid "Ramp in and ramp out"
+msgstr "Rámpa ki és be"
+
+msgid "Auto tabbing"
+msgstr "Automatikus rögzítő hidak"
+
+msgid "Minimum number of tabs"
+msgstr "Hidak minimális száma"
+
+msgid "Max tab spacing"
+msgstr "Hidak max távolsága"
+
+msgid "Tabs on inside cuts"
+msgstr "Hidak a belső vágáson"
+
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\Wireplugin.cpp:637
+msgid "Clear all"
+msgstr "Minden törlés"
+
+msgid "Place tabs"
+msgstr "Hidak elhelyezése"
+
+msgid "Line tabbing"
+msgstr "Hidak sorban"
+
+msgid "Line angle"
+msgstr "Sor szöge"
+
+msgid "Calculating"
+msgstr "Kiszámítás"
+
+msgid "Do you want to save your changes?"
+msgstr "El akarod menteni a változásokat?"
+
+msgid ""
+"You have modified the code in the editor.\n"
+"\n"
+"Are you sure you want to run the post processor\n"
+"and overwrite the changes?"
+msgstr ""
+"Megváltoztattad a kódot a szerkesztőben.\n"
+"\n"
+"Biztosan futtatni szeretnéd a vezérlőkód készítőt \n"
+"és felülírni a változásokat?"
+
+msgid "Code editor"
+msgstr "Kód szerkesztő"
+
+msgid "Code snippet"
+msgstr "Kód részlet"
+
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireToolEditor.cpp:37
+msgid "Tool"
+msgstr "Szerszám"
+
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireEditor.cpp:53
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireToolEditor.cpp:38
+msgid "Notes"
+msgstr "Megjegyzések"
+
+msgid ""
+"This code snippet name is already in use\n"
+"You cannot have two code snippets with the same name."
+msgstr ""
+"Ez a kódrészlet neve már használatban van\n"
+"Nem lehet két azonos nevű kódrészlet."
+
+msgid ""
+"Unable to write file.\n"
+"Is it write protected?"
+msgstr ""
+"A fájl nem írható.\n"
+"Esetleg írásvédett (vagy más program használja)?"
+
+msgid "Error"
+msgstr "Hiba"
+
+msgid "Contour"
+msgstr "Kontúr"
+
+msgid "Overcut corners"
+msgstr "Sarkoknál túlvágás"
+
+msgid "Angle threshold"
+msgstr "Szögküszöb"
+
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireEditor.cpp:51
+msgid "Basic"
+msgstr "Alapok"
+
+msgid "Cut start"
+msgstr "Vágás start"
+
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireEditor.cpp:52
+msgid "Cut path"
+msgstr "Vágás útvonal"
+
+msgid "Cut direction"
+msgstr "Vágás iránya"
+
+msgid "V"
+msgstr "Sz"
+
+msgid "H"
+msgstr "M"
+
+msgid "Cut ordering"
+msgstr "Vágás sorrend"
+
+msgid "Optimisation"
+msgstr "Optimalizálás"
+
+msgid "Auto"
+msgstr "Auto"
+
+msgid "Manual"
+msgstr "Kézi"
+
+msgid "Optimise now"
+msgstr "Optimalizálás most"
+
+msgid "Start position"
+msgstr "Indulási pozíció"
+
+msgid "Cutting rules"
+msgstr "Vágási szabályok"
+
+msgid "All inside first"
+msgstr "A belsőket először"
+
+msgid "Shortest path"
+msgstr "Legrövidebb útvonal"
+
+msgid "Keep parts together"
+msgstr "Tarts a termékeket együtt"
+
+msgid "Minimise thermal distortion"
+msgstr "Hődeformáció minimalizálás"
+
+msgid "Preferred distance between cuts:"
+msgstr "Elvárt távolság a vágások között:"
+
+msgid "Use the same folder as the job file"
+msgstr "A munka fájllal azonos mappát használja"
+
+msgid "Use the last drawing directory"
+msgstr "Használd az utolsó rajz könyvtárát"
+
+msgid "Select the directories to use"
+msgstr "Válaszd ki a könyvtárat a használathoz"
+
+msgid "If a folder is not checked, it will remember the folder you last used."
+msgstr ""
+"Ha egy mappa nincs bepipálva, emlékezni fog az utoljára használt mappára."
+
+msgid "Post processor"
+msgstr "Vezérlőkód"
+
+msgid "Job report"
+msgstr "Munka riport"
+
+msgid "Job"
+msgstr "Munka"
+
+msgid "Part"
+msgstr "Termék"
+
+msgid "Drawing"
+msgstr "Rajz"
+
+msgid "Tools"
+msgstr "Szerszámok"
+
+msgid "Material"
+msgstr "Anyag"
+
+msgid "Operation"
+msgstr "Művelet"
+
+#: tmp.cpp:6 tmp.cpp:7
+msgid "..."
+msgstr "..."
+
+msgid "Choose a directory"
+msgstr "Válassz könyvtárat"
+
+msgid "Help"
+msgstr "Súgó"
+
+msgid "Drawing options"
+msgstr "Rajz beállítások"
+
+msgid "Scaling"
+msgstr "Méretarány"
+
+#: tmp.cpp:4
+msgid "Metric"
+msgstr "Metrikus"
+
+msgid "Inch"
+msgstr "Collos"
+
+msgid "Custom"
+msgstr "Egyedi"
+
+msgid "1:"
+msgstr "1:"
+
+#: tmp.cpp:13
+msgid "1"
+msgstr "1"
+
+msgid "Drawing position"
+msgstr "Rajz pozíció"
+
+#: tmp.cpp:5 tmp.cpp:8
+msgid "Drawing origin"
+msgstr "Rajz nullpont"
+
+#: tmp.cpp:7
+msgid "Centered on 0,0"
+msgstr "Középpont a 0,0-ra"
+
+#: tmp.cpp:9
+msgid "Current position"
+msgstr "Aktuális pozíció"
+
+msgid "Specified position"
+msgstr "Megadott pozíció"
+
+msgid "Use drawing name as part name"
+msgstr "A rajz nevét használd a termék nevének"
+
+msgid "Drill"
+msgstr "Fúró"
+
+msgid "Change object data"
+msgstr "Objektumadatok módosítása"
+
+msgid "Tool not found"
+msgstr "Szerszám nem található"
+
+msgid "Estimate"
+msgstr "Hátralévő"
+
+#: tmp.cpp:7
+msgid "Notes:"
+msgstr "Megjegyzések:"
+
+msgid "Pierce time"
+msgstr "Kiszúrás idő"
+
+msgid "Tool change time"
+msgstr "Szerszám csere idő"
+
+msgid "Rapid speed"
+msgstr "Gyors utazás sebessége"
+
+msgid "Show all tools"
+msgstr "Mutast az összes szerszámot"
+
+msgid "Template"
+msgstr "Sablon"
+
+msgid "Edit template"
+msgstr "Sablon szerkesztés"
+
+msgid "[EMPTY]"
+msgstr "[ÜRES]"
+
+msgid "Properties"
+msgstr "Tulajdonságok"
+
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\Wireplugin.cpp:630
+msgid "Unlock"
+msgstr "Kinyitás"
+
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\Wireplugin.cpp:633
+msgid "Lock"
+msgstr "Lezárás"
+
+msgid "Unlock all"
+msgstr "Mind kinyitása"
+
+msgid "Lock all"
+msgstr "Mind lezárása"
+
+msgid "Quick cut sequence"
+msgstr "Gyors szakasz vágás"
+
+msgid "End sequence"
+msgstr "Szakasz vége"
+
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireOperation -
+#: Copy.cpp:85
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireOperation.cpp:17
+msgid "Reverse cut direction"
+msgstr "Fordított vágás irány"
+
+msgid "Reverse cut side"
+msgstr "Ellentétes vágási oldal"
+
+msgid "Corner snap distance"
+msgstr "Sarok kapocs távolsága"
+
+msgid "Copy start points from"
+msgstr "Start pont másolása innen"
+
+msgid "Enter the snap distance"
+msgstr "Kapocs távolsága"
+
+#: tmp.cpp:25 tmp.cpp:18 tmp.cpp:3
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\Wireplugin.cpp:618
+msgid "Delete"
+msgstr "Törlés"
+
+msgid "Line of tabs"
+msgstr "Hidak egy vonal mentén"
+
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\Wireplugin.cpp:604
+msgid "Cancel"
+msgstr "Mégsem"
+
+msgid "Horizontal line"
+msgstr "Vízszíntes vonal"
+
+msgid "Vertical line"
+msgstr "Függőleges vonal"
+
+msgid "Copy tabs from"
+msgstr "Hidak másolása innen"
+
+msgid "Options"
+msgstr "Beállítások"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:1447
+#, c-format
+msgid "Total %i outlines. %i have tabs, %i have 2 or more tabs"
+msgstr ""
+"Összesen %i körvonal. %i tartalmaz hidat, %i tartalmaz 2 vagy több hidat"
+
+#: tmp.cpp:4
+msgid "Layer"
+msgstr "Réteg"
+
+msgid "From all layers"
+msgstr "Minden rétegről"
+
+msgid "From layer "
+msgstr "Rétegről "
+
+msgid "Move to layer"
+msgstr "Mozgatás rétegre"
+
+msgid "New layer"
+msgstr "Új réteg"
+
+msgid "Copy to layer"
+msgstr "Rétegre másolás"
+
+msgid "Move to part"
+msgstr "Termékhez mozgatás"
+
+msgid "New part"
+msgstr "Új termék"
+
+msgid "Copy to part"
+msgstr "Termékhez másolás"
+
+msgid "Contour properties"
+msgstr "Kontúr tulajdonságai"
+
+msgid "Select all"
+msgstr "Mindent kiválaszt"
+
+msgid "Select all open contours"
+msgstr "Minden nyitott kontúr kiválasztás"
+
+msgid "Select all closed contours"
+msgstr "Minden zárt kontúr kiválasztás"
+
+msgid "Select all holes"
+msgstr "Minden furat kiválasztás"
+
+msgid "Select all outside contours"
+msgstr "Minden külső kontúr kiválasztás"
+
+msgid "Select all inside contours"
+msgstr "Minden belső kontúr kiválasztás"
+
+msgid "Part of"
+msgstr "Része"
+
+#, c-format
+msgid "Number of contours selected: %i"
+msgstr "Kiválasztott kontúrok száma: %i"
+
+msgid ""
+"\n"
+"from layer "
+msgstr ""
+"\n"
+"rétegről "
+
+msgid ""
+"\n"
+"from layers:"
+msgstr ""
+"\n"
+"rétegekről:"
+
+msgid "Snap to grid"
+msgstr "Rácshoz igazítás"
+
+msgid "Full tool paths"
+msgstr "Teljes szerszám útvonal"
+
+msgid "Finish"
+msgstr "Befejezés"
+
+msgid "Set part order"
+msgstr "Termék sorrend"
+
+msgid "Copy"
+msgstr "Másolás"
+
+msgid "Duplicate"
+msgstr "Duplikálás"
+
+msgid "Multiple duplicate"
+msgstr "Többszörös duplikálás"
+
+msgid "Array parts"
+msgstr "Tömb termékek"
+
+msgid "Disable"
+msgstr "Letiltás"
+
+msgid "Select part and duplicates"
+msgstr "Válassz egy terméket és duplikáld"
+
+msgid "Copy of "
+msgstr "Másolata "
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\funcmode.cpp:3102
+msgid ""
+"To set the part order, the nesting mode needs to be set to 'Manual "
+"optimisation (keep parts together)'.\n"
+" Do you want to do this and continue?"
+msgstr ""
+"A termék sorrendhez a teríték módnál a 'Kézi optimalizálás (tarts a "
+"termékeket együtt)' beállítása szükséges.\n"
+"Szeretnéd ezt megtenni és folytatni?"
+
+msgid ""
+"The part cannot be aligned to this point.\n"
+"Check your dimensions and try again."
+msgstr ""
+"Ez a termék nem igazítható ehez a ponthoz.\n"
+"Ellenőrizd a méreteket és próbáld újra."
+
+msgid "Select the first alignment point"
+msgstr "Válaszd ki az első igazítási pontot"
+
+msgid "Select the second alignment point"
+msgstr "Válaszd ki a második igazítási pontot"
+
+msgid "Abort alignment"
+msgstr "Igazítás megszakítás"
+
+msgid "Alignment tolerance"
+msgstr "Igazítás tolerancia"
+
+msgid "Measure"
+msgstr "Mérőszalag"
+
+msgid "End measuring"
+msgstr "Mérés vége"
+
+msgid "View toolpaths"
+msgstr "Szerszámpálya nézet"
+
+msgid "Edit start points"
+msgstr "Kezdőpont szerkesztés"
+
+msgid "Edit tabs"
+msgstr "Hidak szerkesztés"
+
+msgid "Edit action points"
+msgstr "Eseménypontok szerkesztés"
+
+msgid "Edit contours"
+msgstr "Termék kontúr szerkesztés"
+
+msgid "Nesting"
+msgstr "Teríték"
+
+msgid "Align"
+msgstr "Igazítás"
+
+msgid "&Mode"
+msgstr "&Művelet"
+
+msgid "Mode"
+msgstr "Művelet"
+
+msgid "Code"
+msgstr "Kód"
+
+msgid "Text"
+msgstr "Szöveg"
+
+msgid "Enter new coordinates"
+msgstr "Add meg az új koordinátákat"
+
+msgid "New X position"
+msgstr "Új X pozíció"
+
+msgid "New Y position"
+msgstr "Új Y pozíció"
+
+msgid "Zoom in"
+msgstr "Nagyítás be"
+
+msgid "Zoom out"
+msgstr "Nagyítás ki"
+
+msgid "Zoom to fit part"
+msgstr "Nagyítás a termékre"
+
+msgid "Zoom to fit job"
+msgstr "Nagyítás a munkára"
+
+msgid "Zoom window"
+msgstr "Nagyítás kijelölt ablakra"
+
+msgid "Zoom to fit material"
+msgstr "Nagyítás az anyagra"
+
+msgid "Zoom to fit machine"
+msgstr "Nagyítás a gépre"
+
+msgid "Show grid"
+msgstr "Rács mutatása"
+
+msgid "Grid options"
+msgstr "Rács beállítások"
+
+msgid "&File"
+msgstr "&Fájl"
+
+msgid "Post"
+msgstr "Vezérlő"
+
+msgid "&Print"
+msgstr "Nyomtatás"
+
+msgid "Print the current display"
+msgstr "Aktuális képernyő kinyomtatása"
+
+msgid "&Zoom"
+msgstr "Nagyítás"
+
+msgid "Zoom"
+msgstr "Nagyítás"
+
+msgid "{Unable to display}"
+msgstr "{Nem lehet megjeleníteni}"
+
+msgid "Starting help..."
+msgstr "Súgó indítás..."
+
+msgid "Rotary cutting (includes milling and routing)"
+msgstr "Forgó szerszámos vágó (pl. marógép)"
+
+msgid "Jet cutting (includes plasma, laser and water jet)"
+msgstr "Sugaras vágó (pl. plazma, lézer vagy vízsugaras)"
+
+msgid "Use X"
+msgstr "X használata"
+
+msgid "Use Y"
+msgstr "Y használata"
+
+#: tmp.cpp:8 tmp.cpp:45 tmp.cpp:3 tmp.cpp:7 tmp.cpp:16 tmp.cpp:28
+msgid "Z"
+msgstr "Z"
+
+msgid "Use Z"
+msgstr "Z használata"
+
+msgid "Grid size"
+msgstr "Rács méret"
+
+msgid "Show as dots"
+msgstr "Mutasd pontokként"
+
+msgid "Show rulers"
+msgstr "Mutasd a vonalzót"
+
+msgid "Colour"
+msgstr "Szín"
+
+msgid "Bump increment"
+msgstr "Módosítás lépésközei"
+
+msgid "Angle"
+msgstr "Szög"
+
+msgid "Angle + key"
+msgstr "Szög + gomb"
+
+msgid "Angle - key"
+msgstr "Szög - gomb"
+
+msgid "Job options"
+msgstr "Munkafolyamat beállítás"
+
+msgid "Material name"
+msgstr "Anyag név"
+
+msgid "Use drawing"
+msgstr "Rajz használata"
+
+msgid "Thickness of material"
+msgstr "Anyag vastagsága"
+
+msgid "Rapid clearance"
+msgstr "Gyors kiürítés"
+
+msgid "Height of bottom of material above table"
+msgstr "Az anyag és az asztal közötti távolság"
+
+msgid "Plunge safety clearance"
+msgstr "Merülés biztonsági távolság"
+
+msgid "Save material"
+msgstr "Anyag mentés"
+
+msgid "Load material"
+msgstr "Anyag betöltés"
+
+msgid "Parking position"
+msgstr "Parkoló helyzet"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\joboptionsdialog.cpp:113
+msgid "Custom parking code"
+msgstr "Egyedi parkolás kód"
+
+msgid "Disabled"
+msgstr "Letiltott"
+
+msgid "Enter area"
+msgstr "Add meg a területet"
+
+msgid "Function"
+msgstr "Funkció"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\joboptionsdialog.cpp:152
+msgid "Show notes when the job is opened"
+msgstr "Mutasd a megjegyzéseket, amikor a munkát megnyitod"
+
+msgid "Parking"
+msgstr "Parkoló"
+
+msgid "Path rules"
+msgstr "Vágási szabályok"
+
+msgid "Remnant cutoff"
+msgstr "Maradék levágása"
+
+msgid "Tool change"
+msgstr "Szerszám csere"
+
+msgid "Clamps/indexing"
+msgstr "Fogók / Indexek"
+
+msgid "Variables"
+msgstr "Változók"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\KeyEditor.cpp:49
+msgid "Press a key combination to change the shortcut"
+msgstr "Nyomd meg a billentyű kombinációt a gyorsgomb változtatásához"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\KeyEditor.cpp:200
+#, c-format
+msgid "This key combination is used by %s"
+msgstr "Ez a kombináció már használva van itt: %s"
+
+msgid "Do you want to remove that shortcut key?"
+msgstr "El szeretnéd távolítani azt a gyorsgombot?"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\KeyEditor.cpp:203
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\optionsdialog.cpp:270
+msgid "Shortcut keys"
+msgstr "Gyorsgombok"
+
+msgid "Please select your preferred language"
+msgstr "Válaszd ki a program felület nyelvét"
+
+msgid "System default language"
+msgstr "A rendszer alapértelmezett nyelve"
+
+msgid ""
+"You must restart the program\n"
+"for this change to take effect"
+msgstr ""
+"A változás érvényesítéséhez\n"
+"a programot újra kell indítani"
+
+msgid "Create a new layer"
+msgstr "Új réteg készítés"
+
+msgid "Enter a new layer name"
+msgstr "Kérem az új réteg nevét"
+
+msgid "A new layer"
+msgstr "Egy új réteg"
+
+msgid "Please enter a name"
+msgstr "Írjon be egy nevet"
+
+msgid ""
+"This name is already in use.\n"
+"Please use a different name"
+msgstr ""
+"Ez a név már használatban van.\n"
+"Kérlek használj más nevet"
+
+msgid "Enable all"
+msgstr "Mindet engedélyez"
+
+msgid "Disable all"
+msgstr "Mindet letilt"
+
+msgid "Reverse selection"
+msgstr "Kiválasztás ellenkezőre"
+
+msgid "Layers"
+msgstr "Rétegek"
+
+msgid "Open license file"
+msgstr "Licensz fájl megnyitás"
+
+msgid "License installed successfully"
+msgstr "Licensz fájl sikeresen települt"
+
+#, c-format
+msgid ""
+"\n"
+"You must restart %s for the license to take effect"
+msgstr ""
+"\n"
+"Újra kell indítani a %s a licensz fájl érvényesítéséhez"
+
+msgid "Open license"
+msgstr "Licensz megnyitás"
+
+msgid "Save license file"
+msgstr "Licensz fájl mentés"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\licensecopier.cpp:93
+msgid "Failed to remove license"
+msgstr "A licensz fájl eltávolítás nem sikerült"
+
+msgid "License removed successfully"
+msgstr "Licensz fájl sikeresen eltávolítva"
+
+#, c-format
+msgid ""
+"\n"
+"You must restart %s for the change to take effect"
+msgstr ""
+"\n"
+"Újra kell indítani a %s az érvényesítéséhez"
+
+msgid "Editor"
+msgstr "Szerkesztő"
+
+msgid "Macro file"
+msgstr "Makró fájl"
+
+msgid "Step &over"
+msgstr "Átlépés"
+
+msgid "Step &in"
+msgstr "Belelépés"
+
+msgid "Step o&ut"
+msgstr "Kilépés"
+
+msgid "&Continue"
+msgstr "Folytatás"
+
+msgid "&Add breakpoint"
+msgstr "Töréspont hozzáadás"
+
+msgid "&Run post processor"
+msgstr "&Vezérlőkód feldolgozó futtatás"
+
+msgid "Step in"
+msgstr "Belelépés"
+
+msgid "&Debug"
+msgstr "&Hibakereső"
+
+msgid "Errors"
+msgstr "Hibák"
+
+msgid "Stack"
+msgstr "Köteg"
+
+msgid "Post documentation"
+msgstr "Vezérlő dokumentáció"
+
+msgid "Cannot save while single stepping"
+msgstr "Egyes lépésben nem lehet menteni"
+
+msgid "Plugin"
+msgstr "Bővítmény"
+
+msgid "Open file"
+msgstr "Fájl megnyitás"
+
+msgid ""
+"The debugger is running on old code.\n"
+"Save the file to use your changes."
+msgstr ""
+"A hibakereső egy régi kódon fut.\n"
+"Mentsd el a fájlt a változások használatához."
+
+msgid "Do you want to run the plugin again?"
+msgstr "Újra szeretnéd a bővítményt futtatni?"
+
+#, c-format
+msgid "function %s line %d"
+msgstr "funkció %s sor %d"
+
+#, c-format
+msgid "line %d"
+msgstr "sor %d"
+
+#, c-format
+msgid " in %s"
+msgstr " %s -ben"
+
+msgid "temporary"
+msgstr "átmeneti"
+
+msgid "Machine options"
+msgstr "Gép beállítások"
+
+msgid "Recent files"
+msgstr "Legutóbbi fájlok"
+
+msgid "Load machine"
+msgstr "Gép betöltés"
+
+msgid "Save machine"
+msgstr "Gép mentés"
+
+#: tmp.cpp:23 tmp.cpp:6 tmp.cpp:15 tmp.cpp:18
+msgid "Machine type"
+msgstr "Gép típus"
+
+msgid "Working envelope"
+msgstr "Munkaterület"
+
+msgid "Table display"
+msgstr "Asztal megjelenítés"
+
+msgid "Save/load"
+msgstr "Mentés/Betöltés"
+
+msgid "Machine"
+msgstr "Gép"
+
+msgid "You need to select at least one machine type"
+msgstr "Legalább egy géptípust ki kell választani"
+
+msgid "&Quit\tAlt-F4"
+msgstr "&Kilépés\tAlt-F4"
+
+msgid "Quit the application"
+msgstr "Kilépés a programból"
+
+msgid "&About\tF1"
+msgstr "&Rólam\tF1"
+
+msgid "Show info about this application"
+msgstr "Mutass információt erről a programról"
+
+msgid "&Help"
+msgstr "&Súgó"
+
+msgid "Welcome to..."
+msgstr "Üdvözöl a ..."
+
+msgid "Evaluation limit reached"
+msgstr "Elérted a próbaverzió korlátot"
+
+msgid "Run post processor"
+msgstr "Vezérlőkód futtatása"
+
+msgid "Regen"
+msgstr "Regenerálás"
+
+msgid "New job"
+msgstr "Új munka"
+
+msgid "Start a new job"
+msgstr "Új munka indítás"
+
+msgid "Open job"
+msgstr "Munka megnyitás"
+
+msgid "Open a job file"
+msgstr "Munka fájl megnyitás"
+
+msgid "Save job"
+msgstr "Munka mentés"
+
+msgid "Save the job"
+msgstr "Ennek a munkának a mentése"
+
+msgid "Save job as"
+msgstr "Munka mentés másként"
+
+msgid "Save the job as"
+msgstr "A munka mentése másként"
+
+msgid "Recent jobs"
+msgstr "Legutóbbi munkák"
+
+msgid "Open job template"
+msgstr "Munka sablon megnyitás"
+
+msgid "Open a template job file"
+msgstr "Munka sablon fájl megnyitás"
+
+msgid "Save job as template"
+msgstr "Munka mentése sablonként"
+
+msgid "Save the job as a template"
+msgstr "Ennek a munkának mentése sablonként"
+
+msgid "Recent job templates"
+msgstr "Legutóbbi munka sablonok"
+
+msgid "Start a new part"
+msgstr "Új termék indítás"
+
+msgid "Open part"
+msgstr "Termék megnyitás"
+
+msgid "Open a part file"
+msgstr "Termék fájl megnyitás"
+
+msgid "Save part"
+msgstr "Termék mentés"
+
+msgid "Save the current part"
+msgstr "Aktuális termék mentése"
+
+msgid "Save part as"
+msgstr "Termék mentés másként"
+
+msgid "Save the current part as"
+msgstr "A termék mentése másként"
+
+msgid "Recent parts"
+msgstr "Legutóbbi termékek"
+
+msgid "Import drawing"
+msgstr "Rajz importálás"
+
+msgid "Import a drawing into this part"
+msgstr "Egy rajz importálása ebbe a termékbe"
+
+msgid "Recent drawings"
+msgstr "Legutóbbi rajzok"
+
+msgid "Open toolset"
+msgstr "Szerszámos megnyitása"
+
+msgid "Open a tool set"
+msgstr "Egy szerszámos megnyitása"
+
+msgid "Save toolset as"
+msgstr "Szerszámos mentése másként"
+
+msgid "Save the tool set"
+msgstr "A szerszámos mentése"
+
+msgid "Load default toolset"
+msgstr "Alapértelmezett szerszámos betöltése"
+
+msgid "Load the default tool set"
+msgstr "Az alapértelmezett szerszámos betöltése"
+
+msgid "Save default toolset"
+msgstr "Alapértelmezett szerszámos mentése"
+
+msgid "Save the tool set as the default"
+msgstr "A szerszámos mentése alapértelmezettként"
+
+msgid "Import/export toolset"
+msgstr "Szerszámos importálás/exportálás"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\mainframe.cpp:353
+msgid "Import/export tool table in spreadsheet format"
+msgstr "Szerszám tábla export/import táblázat formátumban"
+
+msgid "E&xit"
+msgstr "&Kilépés"
+
+msgid "Exit the application"
+msgstr "Kilépés a programból"
+
+msgid "Undo"
+msgstr "Visszavonás"
+
+msgid "Undo the last action"
+msgstr "Utolsó esemény visszavonása"
+
+msgid "Variable monitor"
+msgstr "Változó monitor"
+
+msgid "Layer tool"
+msgstr "Rétegek"
+
+msgid "Show input paths"
+msgstr "Mutasd a betöltött rajzolatot"
+
+msgid "Show segment ends"
+msgstr "Mutasd a szakaszok végét"
+
+msgid "Show path ends"
+msgstr "Mutasd az útvonal végét"
+
+msgid "Show tool paths"
+msgstr "Mutasd a szerszám útvonalat"
+
+msgid "Show rapids"
+msgstr "Mutasd az utazó mozgást"
+
+msgid "Show direction arrows"
+msgstr "Mutasd az irány nyilat"
+
+msgid "Show machine and work"
+msgstr "Mutasd a gép- és munkaterületet"
+
+msgid "Show start points"
+msgstr "Mutasd a start pontot"
+
+msgid "Show true width"
+msgstr "Mutasd a valós szélességet"
+
+msgid "Application options"
+msgstr "Program beállítások"
+
+msgid "Plugin options"
+msgstr "Bővítmény beállítások"
+
+msgid "Help window"
+msgstr "Angol nyelvű súgó"
+
+msgid "Tutorials"
+msgstr "Angol nyelvű oktató"
+
+msgid "Setup wizard"
+msgstr "Beállítás varázsló"
+
+msgid "Show the setup wizard"
+msgstr "Beállítás varázsló mutat"
+
+msgid "Debug log"
+msgstr "Hibakereső napló"
+
+msgid "Show the log window"
+msgstr "Mutasd a napló ablakot"
+
+msgid "Reset pane layout"
+msgstr "Panelek alaphelyzetre visszaállítása"
+
+msgid "About"
+msgstr "A programról"
+
+msgid "Install license file"
+msgstr "Licensz fájl telepítés"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\mainframe.cpp:405
+msgid "Move license to another computer"
+msgstr "Licensz mozgatása másik számítógépre"
+
+msgid "Create a support file"
+msgstr "Support fájl létrehozás"
+
+msgid "Open settings folder"
+msgstr "Beállítások mappa megnyitása"
+
+msgid "Check for updates"
+msgstr "Frissítések ellenőrzése"
+
+msgid "Compile Lua macro"
+msgstr "Lua makró lefordítása"
+
+msgid "File"
+msgstr "Fájl"
+
+msgid "&Edit"
+msgstr "&Szerkesztés"
+
+msgid "Edit"
+msgstr "Szerkesztés"
+
+msgid "&View"
+msgstr "&Nézet"
+
+msgid "View"
+msgstr "Nézet"
+
+msgid "&Options"
+msgstr "&Beállítás"
+
+msgid "Display"
+msgstr "Megjelenítő"
+
+msgid "Parts"
+msgstr "Termékek"
+
+msgid "Debug"
+msgstr "Hibakereső"
+
+msgid "Operations"
+msgstr "Műveletek"
+
+msgid "Edit toolbars"
+msgstr "Eszközsáv szerkesztés"
+
+msgid "Edit material"
+msgstr "Anyag szerkesztés"
+
+msgid "/&Help"
+msgstr "/&Súgó"
+
+msgid "&Developer tools"
+msgstr "Fejlesztői eszközök"
+
+msgid ""
+"This will erase your existing job.\n"
+"Do you want to continue?"
+msgstr ""
+"Ez törölni fogja a létező munkát.\n"
+"Biztosan folytatod?"
+
+msgid "Do you want to import a drawing into this part?"
+msgstr "Szeretnél egy rajzot importálni ebbe a termékbe?"
+
+msgid "Import drawing into new part"
+msgstr "Rajz importálása egy új termékbe"
+
+msgid ""
+"Are you sure you want to overwrite\n"
+"the existing tool set?"
+msgstr ""
+"Biztosan felül akarod írni a már\n"
+"létező szerszámost?"
+
+msgid "Save default tool set"
+msgstr "Alapértelmezett szerszámos mentése"
+
+msgid "You need to restart for the changes to take effect"
+msgstr "Újra kell indítani a változás érvényesítéséhez"
+
+msgid "Do you want to save the default tool set?"
+msgstr "El akarod menteni az alapértelmezett szerszámost?"
+
+msgid "Load tools"
+msgstr "Szerszámol betöltése"
+
+#, c-format
+msgid "Default tool %i is a different type to the job file's tool\n"
+msgstr "Alapértelmezett szerszám %i eltérő típusú a munka fájl szerszámától\n"
+
+#, c-format
+msgid "The default tool set does not contain tool %i\n"
+msgstr "Az alapértelmezett szerszámos nem tartalmazza a szerszámot %i\n"
+
+#, c-format
+msgid "The default tool set does not contain rule %s\n"
+msgstr "Az alapértelmezett szerszámos nem tartalmazza a szabályt %s\n"
+
+msgid "Use only the default tool set (some operations may not work)"
+msgstr ""
+"Használd az alapértelmezett szerszámost (néhány művelet talán nem fog "
+"működni)"
+
+msgid "Copy the missing or different tools and rules from the job file"
+msgstr "Másold a hiányzó vagy eltérő szerszámot és szabályt a munka fájlból"
+
+msgid "Use only the job file's tool set"
+msgstr "Kizárólag a munka fájl szerszámosának használata"
+
+msgid "Move to"
+msgstr "Mozgatás ide"
+
+msgid "Position"
+msgstr "Pozíció"
+
+msgid "Point at a position"
+msgstr "Pozíció és idő"
+
+msgid "Move Z first"
+msgstr "Z mozgás először"
+
+msgid "Move Z last"
+msgstr "Z mozgás utoljára"
+
+msgid "3D move"
+msgstr "3D mozgás"
+
+#: tmp.cpp:1
+msgid "New"
+msgstr "Új"
+
+msgid "Single move"
+msgstr "Egy mozgás"
+
+msgid "Multiple move"
+msgstr "Többszörös mozgás"
+
+msgid "Relative"
+msgstr "Relatív"
+
+msgid "Use feed rate"
+msgstr "Előtolás használata"
+
+msgid "Qty"
+msgstr "Darab"
+
+msgid "Fixed"
+msgstr "Rögzített"
+
+msgid "Mirror"
+msgstr "Tükör"
+
+msgid "Parts not nested"
+msgstr "Nem terítékezett termék"
+
+msgid "Nested parts"
+msgstr "Terítékezett termékek"
+
+msgid "Available Sheets"
+msgstr "Elérhető lapok"
+
+msgid "Parts on this sheet"
+msgstr "Termékek ezen a lapon"
+
+msgid "Lay out this sheet"
+msgstr "Tegye ki ezt a lapot"
+
+msgid "Name"
+msgstr "Név"
+
+msgid ""
+"Some parts in the nest do not exist in this job\n"
+"They will be ignored"
+msgstr ""
+"Néhány termék ezen a terítéken nem létezik\n"
+"Ezek figyelmen kívül lesznek hagyva"
+
+msgid "Minimise tool changes"
+msgstr "Szerszám váltás minimalizálás"
+
+msgid "Manual optimisation"
+msgstr "Kézi optimalizálás"
+
+msgid "Manual optimisation (keep parts together)"
+msgstr "Kézi optimalizálás (tarts a termékeket együtt)"
+
+#, c-format
+msgid "Layer '%s' not found"
+msgstr "'%s' réteg nem található"
+
+#: tmp.cpp:1
+msgid "Dialog"
+msgstr "Párbeszéd"
+
+msgid "X position"
+msgstr "X pozíció"
+
+msgid "Use X position"
+msgstr "X pozíció használat"
+
+msgid "Y position"
+msgstr "Y pozíció"
+
+msgid "Use Y position"
+msgstr "Y pozíció használat"
+
+msgid "Z position"
+msgstr "Z pozíció"
+
+msgid "Use Z position"
+msgstr "Z pozíció használat"
+
+msgid "No Z move prior to toolchange"
+msgstr "Nincs Z mozgás előny a szerszámváltásnál"
+
+msgid "Run code before toolchange"
+msgstr "Kód futtatás a szerszámcsere előtt"
+
+msgid "Run code after toolchange"
+msgstr "Kód futtatás a szerszámcsere után"
+
+msgid "X coordinate of bottom left corner"
+msgstr "X koordináta a bal alsó sarokban"
+
+msgid "Y coordinate of bottom left corner"
+msgstr "Y koordináta a bal alsó sarokban"
+
+msgid "X size"
+msgstr "X méret"
+
+msgid "Y size"
+msgstr "Y méret"
+
+msgid "Minimise toolchanges"
+msgstr "Szerszám váltás minimalizálás"
+
+msgid "Minimise slew distance"
+msgstr "Minimális elfordulás táv"
+
+msgid "optimisation"
+msgstr "optimalizálás"
+
+msgid "Number of toolchanges"
+msgstr "Szerszámváltás száma"
+
+msgid "Part cut order"
+msgstr "Termék vágási sorrend"
+
+msgid "Cut"
+msgstr "Kivágás"
+
+msgid "Paste"
+msgstr "Beillesztés"
+
+msgid "Copy all"
+msgstr "Mindent másol"
+
+msgid "Save"
+msgstr "Ment"
+
+#: tmp.cpp:3 tmp.cpp:4
+msgid "Load"
+msgstr "Betölt"
+
+msgid "Rename"
+msgstr "Átnevezés"
+
+msgid "Edit operation"
+msgstr "Művelet szerkesztés"
+
+msgid "Disable operation"
+msgstr "Művelet letiltás"
+
+msgid "Enable operation"
+msgstr "Művelet engedélyezés"
+
+msgid "Delete operation"
+msgstr "Művelet törlés"
+
+msgid "&Contour"
+msgstr "&Kontúr"
+
+msgid "Create a new contour operation"
+msgstr "Új kontúr művelet készítés"
+
+msgid "&Pocket"
+msgstr "&Zseb"
+
+msgid "Create a new pocket operation"
+msgstr "Készíts egy új zseb műveletet"
+
+msgid "Spiral pocket"
+msgstr "Spirál zseb"
+
+msgid "Zigzag pocket"
+msgstr "Cikkcakk zseb"
+
+msgid "Face"
+msgstr "Felület"
+
+msgid "&Plasma cut"
+msgstr "&Plazma vágó"
+
+msgid "Create a new jet cutting operation"
+msgstr "Új sugaras vágás művelet készítés"
+
+msgid "&Tapping"
+msgstr "&Beütő"
+
+msgid "Create a new tapping operation"
+msgstr "Új beütő művelet"
+
+msgid "Thread mill"
+msgstr "Menetfúró"
+
+msgid "&Drilling"
+msgstr "&Fúrás"
+
+msgid "Create a new drilling operation"
+msgstr "Új Fúró művelet készítése"
+
+msgid "&Insert code"
+msgstr "Kód Beszúrás"
+
+msgid "Insert code into the output file"
+msgstr "Kód beszúrása a kimeneti fájlba"
+
+msgid "&Set post variable"
+msgstr "Vezérlő változók"
+
+msgid "Set a post processor variable"
+msgstr "Vezérlőkód változó beállítás"
+
+msgid "&Move to"
+msgstr "&Mozgás ide"
+
+msgid "Move to given coordinate"
+msgstr "Megadott koordinátára mozgás"
+
+msgid "Operation table"
+msgstr "Művelet tábla"
+
+msgid "Open the operation table editor"
+msgstr "Művelet tábla szerkesztő megnyitás"
+
+msgid "&Operation"
+msgstr "Műveletek"
+
+msgid "Save operation"
+msgstr "Művelet mentés"
+
+msgid "Load operation"
+msgstr "Művelet betöltés"
+
+msgid "Start point size"
+msgstr "Kezdőpont méret"
+
+msgid "Tab size"
+msgstr "Tabulátor méret"
+
+msgid "Direction arrow size"
+msgstr "Irány nyíl méret"
+
+msgid "Minimum direction arrow size"
+msgstr "Minimum irány nyíl méret"
+
+msgid "Direction arrow frequency"
+msgstr "Irány nyíl sűrűség"
+
+msgid "Circle marker size"
+msgstr "Kör jelölés mérete"
+
+msgid "Colours"
+msgstr "Színek"
+
+msgid "Use black scheme"
+msgstr "Fekete séma használata"
+
+msgid "Use white scheme"
+msgstr "Fehér séma használata"
+
+msgid "Change"
+msgstr "Váltás"
+
+msgid "Reverse mouse wheel"
+msgstr "Egér görgő fordítva"
+
+msgid "Use bottom left coordinates"
+msgstr "Bal alsó koordináta használata"
+
+msgid "Use fast rubberband graphics"
+msgstr "Gyors gumiszalag grafika használata"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\optionsdialog.cpp:159
+msgid "Disable hardware graphics acceleration"
+msgstr "Hardver grafikus gyorsítás kikapcsolása"
+
+msgid "Negative angles are clockwise"
+msgstr "A negatív szögek óramutató járása szerintiek"
+
+msgid ""
+"Below is a list of information dialogs that have been shown.\n"
+"If you check the box, it will not be shown again."
+msgstr ""
+"Az alábbi listában az információs párbeszéd ablakok láthatóak.\n"
+"Ha bepipálod, az a párbeszéd ablak nem jelenik meg többet."
+
+msgid "Import link tolerance"
+msgstr "Import kapcsolatok toleranciája"
+
+msgid "Line/arc segment ends closer than this value will be joined"
+msgstr ""
+"A vonal / ív szakasz közelebb ér véget, mint ahogy ez az érték összekapcsolja"
+
+msgid "Maximum detail reduction error"
+msgstr "Maximális részlet csökkentési hiba"
+
+msgid "The maximum error introduced when simplifying drawings."
+msgstr "A rajzok egyszerűsítésekor bevezetett maximális hiba."
+
+msgid "Circle recognition limit"
+msgstr "Kör felismerési határ"
+
+msgid "Maximum drawing deviation from a true circle. Used for drilling."
+msgstr "Maximális rajz eltérés a valódi körtől. Fúráskor használt."
+
+msgid "Arc fitting tolerance"
+msgstr "Ív illesztés toleranciája"
+
+msgid "Minumum segments for arc fitting"
+msgstr "Minimum szakaszok az ív illesztéshez"
+
+msgid "Remove duplicate lines"
+msgstr "Duplikált vonalak eltávolítása"
+
+msgid "Save an image with the job file"
+msgstr "Mentsen egy képet a munkafájl mellé"
+
+msgid "Image type"
+msgstr "Kép típusa"
+
+msgid "PNG"
+msgstr "PNG"
+
+msgid "Allow multiple parts"
+msgstr "Többszörös termék engedélyezés"
+
+msgid "Always use default toolset"
+msgstr "Mindíg az alapértelmezett szerszámos használata"
+
+msgid "Drill hole tolerance"
+msgstr "Fúró furat tűrés"
+
+msgid "This is the default drill hole size range"
+msgstr "Ez az alapértelmezett fúró furatméret tartománya"
+
+msgid "Auto backup interval"
+msgstr "Automatikus mentés sűrűsége"
+
+msgid "Start point step size"
+msgstr "Kezdőpont lépés méret"
+
+msgid ""
+"Decreasing this number increases the accuracy of start point placement but "
+"slows down path generation."
+msgstr ""
+"Ennek a számnak a csökkentése növeli a kezdőpont elhelyezés pontosságát, de "
+"lassítja az útvonal generálást."
+
+msgid "Start point tool clearance"
+msgstr "Kezdőpont szerszám kitérés"
+
+msgid ""
+"Increasing this value increases the clearance between the leadin and any "
+"other cuts."
+msgstr ""
+"Ennek az értéknek a növelése növeli a távolságot a bevezető és az egyéb "
+"vágások között."
+
+msgid "Language"
+msgstr "Nyelv"
+
+msgid "Units"
+msgstr "Mértékegység"
+
+msgid "Annoying dialogs"
+msgstr "Zavaró párbeszéd ablakok"
+
+msgid "Drawing import"
+msgstr "Rajz importálás"
+
+msgid "Toolbars"
+msgstr "Eszközsávok"
+
+msgid "Default directories"
+msgstr "Alapértelmezett könyvtárak"
+
+msgid "Advanced"
+msgstr "Haladó"
+
+#: tmp.cpp:5
+msgid "Size"
+msgstr "Méret"
+
+msgid "Origin"
+msgstr "Nullpont"
+
+msgid "Enter coordinates"
+msgstr "Megadott koordináták"
+
+msgid "Enable"
+msgstr "Engedélyez"
+
+msgid "Lock part and duplicates"
+msgstr "Termék lezárás és duplikálás"
+
+msgid "Unlock part and duplicates"
+msgstr "Termék kinyitás és duplikálás"
+
+msgid "Enable part and duplicates"
+msgstr "Termék engedélyezés és duplikálás"
+
+msgid "Disable part and duplicates"
+msgstr "Termék letiltás és duplikálás"
+
+msgid "Break up manually nested drawing"
+msgstr "Kézi terítékezett rajzra bontás"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\PartPanel.cpp:502
+#, c-format
+msgid "%i parts total."
+msgstr "%i össz termék."
+
+#, c-format
+msgid "Part '%s' has %i duplicates."
+msgstr "A '%s' termék %i x duplikálva."
+
+msgid "Pos X"
+msgstr "Poz X"
+
+#: tmp.cpp:17
+msgid "A"
+msgstr "Forgat"
+
+msgid "Mirror X"
+msgstr "Tükröz X"
+
+msgid "Part properties"
+msgstr "Termék tulajdonságai"
+
+msgid "Part name:"
+msgstr "Termék neve:"
+
+msgid "Drawing filename:"
+msgstr "Rajz fájlnév:"
+
+msgid "Number of outlines:"
+msgstr "Körvonalak száma:"
+
+msgid "Number of layers:"
+msgstr "Rétegek száma:"
+
+msgid "Part sequence"
+msgstr "Termék sorrend"
+
+msgid "Rule"
+msgstr "Szabály"
+
+msgid "On start"
+msgstr "Induláskor"
+
+msgid "Before end"
+msgstr "Vége előtt"
+
+msgid "On lead in"
+msgstr "Bevezetéskor"
+
+msgid "On lead out"
+msgstr "Kivezetéskor"
+
+msgid "On inside corners"
+msgstr "Belső saroknál"
+
+msgid "On outside corners"
+msgstr "Külső saroknál"
+
+msgid "On all corners"
+msgstr "Minden saroknál"
+
+msgid "On small shapes"
+msgstr "Kis méretű saroknál"
+
+msgid "On small circles"
+msgstr "Kis méretű körnél"
+
+msgid "On arcs"
+msgstr "Ívnél"
+
+msgid "Peripheral feed rate"
+msgstr "Periféria előtolás"
+
+msgid "Near pierce"
+msgstr "Közeli kiszúrás"
+
+msgid "and "
+msgstr "és "
+
+#, c-format
+msgid "set %s to %s"
+msgstr "változtat %s -ről %s -re"
+
+msgid "feed"
+msgstr "előtolás"
+
+msgid " and "
+msgstr " és "
+
+#, c-format
+msgid "output %s"
+msgstr "kimenet %s"
+
+msgid "do nothing"
+msgstr "nem csinál semmit"
+
+msgid "Distance"
+msgstr "Távolság"
+
+#, c-format
+msgid "then output %s"
+msgstr "utána kimenet %s"
+
+#, c-format
+msgid "After start %s for %s %s"
+msgstr "Miután elindult %s eddig %s %s"
+
+#, c-format
+msgid "If within %s of pierce %s"
+msgstr "Ha ezen belül %s átszúrja %s"
+
+msgid "Include leadout"
+msgstr "Kivezetéssel együtt"
+
+#, c-format
+msgid "%s before end %s"
+msgstr "%s mielőtt vége %s"
+
+msgid "Distance after"
+msgstr "Távolság utána"
+
+#, c-format
+msgid "Advanced cutting rule set '%s'"
+msgstr "Bővített vágási szabály állítása '%s'"
+
+msgid "set feed to 100%"
+msgstr "előtolás 100%-ra"
+
+#, c-format
+msgid "On leadin %s then after %s %s"
+msgstr "Bevezetésen %s majd utána %s %s"
+
+msgid "Distance before"
+msgstr "Távolság mielőtt"
+
+msgid " then "
+msgstr " azután "
+
+#, c-format
+msgid "%s before leadout %s"
+msgstr "%s mielőtt kivezetés %s"
+
+msgid "Tighter than"
+msgstr "Szorosabb, mint"
+
+msgid "Before code"
+msgstr "Kód előtt"
+
+msgid "to"
+msgstr "ig"
+
+#, c-format
+msgid "On inside corners tighter than %s %s"
+msgstr "A belső sarkok szorosabbak mint %s %s"
+
+#, c-format
+msgid "%s %s before the corner %s %s after the corner."
+msgstr "%s %s a sarok előtt %s a sarok után %s ."
+
+#, c-format
+msgid "On outside corners tighter than %s %s"
+msgstr "A külső sarkok szorosabbak mint %s %s"
+
+#, c-format
+msgid "On all corners tighter than %s %s"
+msgstr "Minden sarok szorosabb mint %s %s"
+
+msgid "Smaller than"
+msgstr "Kisebb mint"
+
+#, c-format
+msgid " then %s after the hole"
+msgstr " aztán %s a furat után"
+
+#, c-format
+msgid "On shapes smaller than %s %s"
+msgstr "A formák kisebbek mint  %s %s"
+
+#, c-format
+msgid " then %s after the circle"
+msgstr " aztán %s a kör után"
+
+#, c-format
+msgid "On circles smaller than %s %s"
+msgstr "A kör kisebb mint %s %s"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\PathRules.cpp:1261
+msgid "Exclude corner arcs"
+msgstr "A sarokíveket kizárása"
+
+#, c-format
+msgid "On arcs smaller than %s %s"
+msgstr "Az ív kisebb mint %s %s"
+
+#, c-format
+msgid "%s %s before the arc %s %s after the arc."
+msgstr "%s %s az ív előtt %s %s ív után."
+
+msgid "Minimum feed rate"
+msgstr "Minimum előtolás"
+
+msgid "Maximum rate"
+msgstr "Maximum érték"
+
+msgid "Apply peripheral feed rate"
+msgstr "Alkalmazza a periférikus előtolást"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\PathRules.cpp:1610
+msgid "When crossing a cut"
+msgstr "Amikor a vágást keresztez"
+
+msgid "Unable to find code snippet"
+msgstr "Nem található kód részlet"
+
+msgid "This set has no active rules"
+msgstr "Ennek a beállításnak nincs aktív szabálya"
+
+msgid "Rule set"
+msgstr "Szabály beállítás"
+
+msgid "Add rule"
+msgstr "Szabály hozzáadás"
+
+msgid "Delete rule"
+msgstr "Szabály törlés"
+
+msgid "Show rule names in g-code"
+msgstr "Mutasd a szabály nevét a G-kódban"
+
+msgid "Always apply rule set"
+msgstr "Mindig állíts be szabályt"
+
+msgid "None"
+msgstr "Nincs"
+
+msgid "Add new rule set"
+msgstr "Új szabály beállítás hozzáadás"
+
+msgid "Enter a name for the rule set"
+msgstr "Adj nevet a szabály beállításnak"
+
+msgid "Enter a new name for the rule set"
+msgstr "Adj új nevet a szabály beállításnak"
+
+msgid "Load path rule set"
+msgstr "Útvonal szabály betöltés"
+
+msgid "PathRules"
+msgstr "Útvonal szabály"
+
+#, c-format
+msgid ""
+"A rule called '%s' already exists.\n"
+"Do you want to overwrite it?"
+msgstr ""
+"A '%s' szabály neve már létezik.\n"
+"Szeretnéd felülírni?"
+
+msgid "Jet cutting"
+msgstr "Sugaras vágó"
+
+msgid "Loop sharp corners"
+msgstr "Éles sarkoknál hurok"
+
+msgid "Loop size"
+msgstr "Hurok méret"
+
+msgid "Triangle"
+msgstr "Háromszög"
+
+msgid "Arc"
+msgstr "Ív"
+
+msgid "Unknown"
+msgstr "Ismeretlen"
+
+msgid "Jet tool"
+msgstr "Sugaras szerszám"
+
+msgid "Leadin type"
+msgstr "Bevezetés típusa"
+
+msgid "Normal"
+msgstr "Normál"
+
+msgid "Ramp"
+msgstr "Rámpa"
+
+msgid "Wiggle"
+msgstr "Kigyózó"
+
+msgid "Wiggle size"
+msgstr "Kígyózás mérete"
+
+msgid "Type"
+msgstr "Típus"
+
+msgid "License key:"
+msgstr "Licensz kulcs:"
+
+msgid "Edit macro"
+msgstr "Makró szerkesztés"
+
+msgid "Pocket"
+msgstr "Zseb"
+
+msgid "Climb cut"
+msgstr "Mászó vágás"
+
+msgid "Pocket method"
+msgstr "Zseb módszere"
+
+msgid "Post options"
+msgstr "Vezérlő beállítások"
+
+msgid "Output file units"
+msgstr "Kimeneti fájl mértékegység"
+
+msgid "Top of work"
+msgstr "Munkadarab teteje"
+
+msgid "Top of spoil board"
+msgstr "Mártírlap teteje"
+
+msgid "Top of table"
+msgstr "Asztal teteje"
+
+msgid "Z zero"
+msgstr "Z nullpont"
+
+msgid "Output folder"
+msgstr "Kimenet mappa"
+
+msgid "Import post"
+msgstr "Vezérlő importálás"
+
+msgid "Edit post"
+msgstr "Vezérlő szerkesztés"
+
+msgid " (Edited)"
+msgstr " (szerkesztett)"
+
+msgid ""
+"A post of this name already exists.\n"
+"Do you want to overwrite it?"
+msgstr ""
+"A Vezérlő neve már létezik.\n"
+"Szeretnéd felülírni?"
+
+msgid "Post installed successfully"
+msgstr "Vezérlő sikeresen telepítve"
+
+msgid "Post installation failed"
+msgstr "Vezérlő telepítés sikertelen"
+
+#, c-format
+msgid "Unable to find post %s"
+msgstr "Nem találom a %s vezérlőt"
+
+msgid "Invalid post name"
+msgstr "Érvénytelen vezérlő név"
+
+#, c-format
+msgid "Path rule '%s' not found"
+msgstr "Vágási szabály '%s' nem található"
+
+msgid "Remember last"
+msgstr "Emlékezz az utolsóra"
+
+msgid "Drawing folder"
+msgstr "Rajz mappa"
+
+msgid "Job file folder"
+msgstr "Munka fájl mappa"
+
+msgid "Always use this folder"
+msgstr "Mindig az alábbi folder használata"
+
+msgid "Output file extension"
+msgstr "Kimeneti fájl kiterjesztése"
+
+msgid "Encoding"
+msgstr "Betű kódolás"
+
+msgid "Default encoding"
+msgstr "Alapértelmezett betű kódolás"
+
+msgid "Automatically hide me if there are no problems"
+msgstr "Ez automatikusan eltüntethető, ha nincs probléma"
+
+msgid ""
+"This post must be converted to the new format.\n"
+" The conversion is automatic but you should check the code carefully"
+msgstr ""
+"Ezt a terméket át kell konvertálni új formátumra.\n"
+"Az átalakítás automatikus, de figyelmesen ellenőrizd a kódot"
+
+msgid "Printout"
+msgstr "Kinyomtatás"
+
+msgid "Page Set&up"
+msgstr "Lap beállítás"
+
+msgid "Centre vertically"
+msgstr "Függőleges középre"
+
+msgid "&Save"
+msgstr "&Ment"
+
+msgid "Job image"
+msgstr "Munka képe"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "Save report"
+msgstr "Riport mentés"
+
+msgid "&Spiral pocket"
+msgstr "&Spirál zseb"
+
+msgid "Create a new spiral pocket operation"
+msgstr "Új spirál zseb létrehozás"
+
+msgid "Create a new plasma cutting operation"
+msgstr "Új plazma vágás művelet készítés"
+
+msgid "Unselect all"
+msgstr "Minden nem kiválasztása"
+
+msgid "Rotary tool"
+msgstr "Forgó szerszám"
+
+msgid "CW"
+msgstr "Órairány"
+
+msgid "CCW"
+msgstr "Óraellen"
+
+msgid "Off"
+msgstr "Ki"
+
+msgid "Spindle rotation"
+msgstr "Orsó forgás"
+
+msgid "Sequence number"
+msgstr "Sorozat szám"
+
+#, c-format
+msgid "of %i"
+msgstr "%i -ből"
+
+msgid "Select your preferred units"
+msgstr "Válassz mértékegységet"
+
+msgid "Select your machine type"
+msgstr "Válaszd ki a géped típusát"
+
+msgid "Choose a post processor for your machine"
+msgstr "Válassz egy vezérlőkód formátumot a gépedhez"
+
+msgid ""
+"If you are not sure what post to select, don't worry you can always change "
+"it later"
+msgstr ""
+"Ha nem vagy biztos milyen vezérlőt használsz, semmi gond, később bármikor "
+"megváltoztatható"
+
+msgid "Lead in"
+msgstr "Bevezetés"
+
+msgid "Tangent"
+msgstr "Érintő"
+
+msgid "Perpendicular"
+msgstr "Merőleges"
+
+msgid "Lead out"
+msgstr "Kivezetés"
+
+msgid "Start at the centre of circles smaller than"
+msgstr "Kezd az ennél kisebb körök középpontjánál"
+
+msgid "Use operation leadin/leadout"
+msgstr "Be- és Kivezetés használata"
+
+msgid "Overcut length"
+msgstr "Túlvágás  hossza"
+
+msgid "Override"
+msgstr "Felülírás"
+
+msgid "Use code snippet"
+msgstr "Kód részlet használat"
+
+msgid "Order"
+msgstr "Sorrend"
+
+msgid "Close"
+msgstr "Zárt"
+
+msgid "Settings"
+msgstr "Beállítások"
+
+#, c-format
+msgid "Part %i"
+msgstr "Termék %i"
+
+msgid "G-code"
+msgstr "G-kód"
+
+msgid "Job file"
+msgstr "Munka fájl"
+
+msgid "Backup of current job"
+msgstr "Aktív munka biztonsági mentése"
+
+msgid "Log"
+msgstr "Napló"
+
+msgid "Please enter any information you think may help"
+msgstr "Kérlek írj le minden információt, amit hasznosnak gondolsz"
+
+msgid "Enter your email address if you want a reply"
+msgstr "Add meg az email címed, ha választ szeretnél"
+
+msgid "Files that will be sent"
+msgstr "Fájlok, amiket el fogsz küldeni"
+
+msgid "View file"
+msgstr "Fájl megtekintés"
+
+msgid "Create file"
+msgstr "Fájl létrehozás"
+
+msgid "Create and upload file"
+msgstr "Fájlt létrehoz és feltölt"
+
+msgid "Choose a file"
+msgstr "Válassz fájlt"
+
+msgid "Support.zip"
+msgstr "Support.zip"
+
+msgid "License"
+msgstr "Licensz"
+
+msgid "Threading"
+msgstr "Menetes"
+
+msgid "Left hand"
+msgstr "Balkezes"
+
+msgid "Tap"
+msgstr "Csap"
+
+msgid "&Edit material"
+msgstr "Anyag sz&erkesztés"
+
+#: tmp.cpp:6
+msgid "Material thickness:"
+msgstr "Anyagvastagság:"
+
+msgid "Preview"
+msgstr "Előnézet"
+
+msgid "Tool bar"
+msgstr "Gombsáv"
+
+msgid "New bar"
+msgstr "Új sáv"
+
+msgid "Delete bar"
+msgstr "Sáv törlés"
+
+msgid "Buttons"
+msgstr "Gombok"
+
+msgid "Insert before"
+msgstr "Beszúrás elé"
+
+msgid "Insert after"
+msgstr "Beszúrás mögé"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\toolbareditor.cpp:68
+msgid "Small"
+msgstr "Kicsi"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\toolbareditor.cpp:69
+msgid "Medium"
+msgstr "Közepes"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\toolbareditor.cpp:70
+msgid "Large"
+msgstr "Nagy"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\toolbareditor.cpp:71
+msgid "Classic"
+msgstr "Klasszikus"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\toolbareditor.cpp:73
+msgid "Icon style"
+msgstr "Ikon stílus"
+
+msgid "Plugins"
+msgstr "Bővítmények"
+
+msgid "Do you want to save your changes to this toolbar?"
+msgstr "El akarod menteni a változtatásait ehez a eszközsávhoz?"
+
+msgid "You must have at least one tool in the toolbar"
+msgstr "Legalább egy eszközt válassz az eszközsávból"
+
+msgid "Enter a name for the new bar"
+msgstr "Add meg az eszközsáv nevét"
+
+msgid "That name is already in use. Please try again"
+msgstr "Ez a név már használatban. Kérlek próbáld újra"
+
+msgid "Are you sure you want to delete this bar?"
+msgstr "Biztosan törölni akarod ezt az eszközsávot?"
+
+msgid "You cannot add two identical buttons"
+msgstr "Nem adhatsz meg két azonos gombot"
+
+msgid "Tool change position"
+msgstr "Szerszám csere pozíciója"
+
+msgid "No move to safe Z after tool change"
+msgstr "A szerszámcsere után nem léphet a biztonságos Z-be"
+
+msgid "Import CSV"
+msgstr "CSV importálás"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\ToolImportDialog.cpp:64
+msgid "Export CSV"
+msgstr "CSV exportálás"
+
+msgid "Merge with existing tools"
+msgstr "Fűzd a létező szerszámhoz"
+
+msgid "Delete existing tools"
+msgstr "Töröld a létező szerszámot"
+
+msgid "&Close"
+msgstr "Be&zár"
+
+msgid "CSV files"
+msgstr "CSV fájlok"
+
+msgid "CSV file"
+msgstr "CSV fájl"
+
+msgid "Failed to load file"
+msgstr "Nem lehet a fájlt betölteni"
+
+msgid "Invalid file"
+msgstr "Érvénytelen fájl"
+
+msgid "Failed to save file"
+msgstr "Nem lehet a fájlt menteni"
+
+msgid ""
+"This tool number is is already in use.\n"
+"Please select a different number. "
+msgstr ""
+"Ez a szerszám sorszám már használatban van.\n"
+"Kérlek adj meg egy másik számot. "
+
+msgid "New rotary tool"
+msgstr "Új Fo&rgó szerszám"
+
+msgid "Create a new rotary tool"
+msgstr "Új forgó szerszám készítés"
+
+msgid "Mill/router"
+msgstr "Maró/router"
+
+msgid "V cutter"
+msgstr "V vágó"
+
+msgid "Rigid tap"
+msgstr "Pontozó"
+
+msgid "Tapping head"
+msgstr "Beütő fej"
+
+msgid "New jet cutting tool"
+msgstr "Új sugaras vágó szerszám"
+
+msgid "Create a new jet cutting tool (plasma/laser/water/flame)"
+msgstr "Új sugaras vágó szerszám készítése (plazma/lézer/víz/láng)"
+
+msgid "Plasma"
+msgstr "Plazma"
+
+msgid "Flame"
+msgstr "Láng"
+
+msgid "Waterjet"
+msgstr "Vízsugaras"
+
+msgid "Laser"
+msgstr "Lézer"
+
+msgid "Plate marker"
+msgstr "Lemezjelölő"
+
+msgid "Create a new code snippet"
+msgstr "Új kódrészlet készítés"
+
+msgid "Tool table"
+msgstr "Szerszám táblázat"
+
+msgid "Open the tool table editor"
+msgstr "Szerszám táblázat szerkesztő megnyitás"
+
+msgid "Open the cutting rules editor"
+msgstr "Vágási szabály szerkesztő megnyitás"
+
+msgid "Edit tool"
+msgstr "Szerszám szerkesztés"
+
+msgid "Delete tool"
+msgstr "Szerszám törlés"
+
+msgid "&Tools"
+msgstr "&Szerszámos"
+
+msgid "Update operations when loading a tool set"
+msgstr "Műveletek frissítése amikor betölt egy szerszámost"
+
+msgid "Update operations"
+msgstr "Műveletek frissítése"
+
+msgid "Depth per pass/peck depth"
+msgstr "Mélység járatonként / kicsípés mélység"
+
+msgid "Plunge rate"
+msgstr "Merülés mértéke"
+
+msgid "Ramp angle"
+msgstr "Rámpa szöge"
+
+msgid "Spindle speed"
+msgstr "Orsó sebesség"
+
+msgid "mm"
+msgstr "mm"
+
+msgid "cm"
+msgstr "cm"
+
+msgid "m"
+msgstr "p"
+
+msgid "mil"
+msgstr "mil"
+
+msgid "thou"
+msgstr "te"
+
+msgid "in"
+msgstr "ban"
+
+msgid "inch"
+msgstr "inch"
+
+msgid "\""
+msgstr "\""
+
+msgid "feet"
+msgstr "láb"
+
+msgid "foot"
+msgstr "láb"
+
+msgid "'"
+msgstr "'"
+
+msgid "degrees"
+msgstr "fok"
+
+msgid "deg"
+msgstr "fok"
+
+msgid "radians"
+msgstr "radián"
+
+msgid "rad"
+msgstr "rad"
+
+msgid "mm/min"
+msgstr "mm/perc"
+
+msgid "m/min"
+msgstr "m/perc"
+
+msgid "mm/sec"
+msgstr "mm/mp"
+
+msgid "m/sec"
+msgstr "m/mp"
+
+msgid "ipm"
+msgstr "ipm"
+
+msgid "inch/min"
+msgstr "inch/perc"
+
+msgid "inches/min"
+msgstr "inch/perc"
+
+msgid "ips"
+msgstr "ips"
+
+msgid "inch/sec"
+msgstr "inch/mp"
+
+msgid "rpm"
+msgstr "rpm"
+
+msgid "rps"
+msgstr "rps"
+
+msgid "H:M:S"
+msgstr "Ó:P:Mp"
+
+msgid "h"
+msgstr "ó"
+
+msgid "s"
+msgstr "mp"
+
+msgid "ms"
+msgstr "ms"
+
+msgid "%"
+msgstr "%"
+
+msgid "TPI"
+msgstr "TPI"
+
+msgid "Linear"
+msgstr "Lineális"
+
+msgid "RPM"
+msgstr "RPM"
+
+msgid "Time"
+msgstr "Idő"
+
+msgid "Percentage"
+msgstr "Százalék"
+
+msgid "Thread pitch"
+msgstr "Menetmagasság"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\Units.cpp:544
+msgid "None - 0 decimal places"
+msgstr "Nincs - 0 tizedeshely"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\Units.cpp:545
+msgid "None - 1 decimal place"
+msgstr "Nincs - 1 tizedeshely"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\Units.cpp:546
+msgid "None - 2 decimal places"
+msgstr "Nincs - 2 tizedeshely"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\Units.cpp:547
+msgid "None - 3 decimal places"
+msgstr "Nincs - 3 tizedeshely"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\Units.cpp:548
+msgid "None - 4 decimal places"
+msgstr "Nincs - 4 tizedeshely"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\Units.cpp:549
+msgid "Boolean"
+msgstr "Logikai"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\Units.cpp:550
+msgid "Milliseconds"
+msgstr "Miliszekundum"
+
+msgid "Linear units"
+msgstr "Lineáris mértékegység"
+
+msgid "Angular units"
+msgstr "Szög mértékegység"
+
+msgid "Variable"
+msgstr "Változó"
+
+msgid "Internal variable"
+msgstr "Belső változó"
+
+msgid "Application options variable"
+msgstr "Program beállítások változó"
+
+msgid "Job options variable"
+msgstr "Munkafolyamat beállítás változó"
+
+#, c-format
+msgid ""
+"Part %s\n"
+"Operation %i: %s"
+msgstr ""
+"Termék %s\n"
+"Művelet %i: %s"
+
+msgid "Value"
+msgstr "Érték"
+
+msgid "&New"
+msgstr "&Új"
+
+msgid "Enter the variable name"
+msgstr "Kérem a változó nevét"
+
+msgid "New variable"
+msgstr "Új változó"
+
+msgid "This name is already in use"
+msgstr "Ez a név már használatban"
+
+msgid "Double click to fix the problem"
+msgstr "Kattins duplán a hiba javításához"
+
+msgid "An unexpected error has occurred:\n"
+msgstr "Egy váratlan hiba történt:\n"
+
+#, c-format
+msgid ""
+"\n"
+" This error occurred on line %i in file %s)"
+msgstr ""
+"\n"
+" Ez a hiba a %i sorban a fájlban %s)"
+
+msgid ""
+"\n"
+"\n"
+"WARNING:It is recommended that you save your job and restart the application."
+msgstr ""
+"\n"
+"\n"
+"FIGYELEM: Javaslom elmenteni a munkádat és a programot újra indítani."
+
+msgid "Corner 1"
+msgstr "Sarok 1"
+
+msgid "Corner 2"
+msgstr "Sarok 2"
+
+msgid "Inside"
+msgstr "Belső"
+
+msgid "Cut outside area"
+msgstr "Külső terület vágása"
+
+msgid "Cut inside area"
+msgstr "Belső terület vágása"
+
+msgid "Clamp Clearance Height"
+msgstr "A bilincs szabad magassága"
+
+#, c-format
+msgid "Path generation for part'%s' has been aborted."
+msgstr "A '%s' termékhez az útvonal generálás megszakadt."
+
+msgid ""
+"An unexpected error has occurred while processing:\n"
+"Path generation has been aborted"
+msgstr ""
+"Váratlan hiba történt miközben az\n"
+"útvonal generálás megszakadt"
+
+msgid "Feed override"
+msgstr "Előtolás felülbírálás"
+
+msgid "Rapid path"
+msgstr "Gyors utazás"
+
+msgid "Inside shape"
+msgstr "Belső forma"
+
+msgid "Outside shape"
+msgstr "Külső forma"
+
+msgid "Open paths"
+msgstr "Nyílt útvonal"
+
+msgid "Line end"
+msgstr "Vonal vége"
+
+msgid "Segment end"
+msgstr "Szakasz vége"
+
+msgid "Background"
+msgstr "Háttér"
+
+msgid "Machine working envelope"
+msgstr "Gép munkaterülete"
+
+msgid "Machine table"
+msgstr "Gép asztal"
+
+msgid "Work"
+msgstr "Munkaterület"
+
+msgid "Material extents"
+msgstr "Anyag kibővítés"
+
+msgid "Marker"
+msgstr "Jelölő"
+
+msgid "Start point"
+msgstr "Kezdőpont"
+
+msgid "Locked start point"
+msgstr "Rögzített kezdőpont"
+
+msgid "Highlight"
+msgstr "Kiemelés"
+
+msgid "Duplicated part"
+msgstr "Duplikált termék"
+
+msgid "Inactive part"
+msgstr "Inaktív termék"
+
+msgid "Centre marker colour"
+msgstr "Középpont jelölő színe"
+
+msgid "Tabs"
+msgstr "Hidak"
+
+msgid "Grid"
+msgstr "Rács"
+
+msgid "Clearance"
+msgstr "Megtisztít"
+
+msgid "Undefined layer"
+msgstr "Definiálatlan réteg"
+
+msgid "New operation"
+msgstr "Új művelet"
+
+msgid "Change operation"
+msgstr "Művelet váltás"
+
+msgid "Move operation"
+msgstr "Művelet mozgás"
+
+msgid "No tool"
+msgstr "Nincs szerszám"
+
+msgid "{Code snippet not found}"
+msgstr "{Kód részlet nem található}"
+
+#, c-format
+msgid "{Tool %i not found}"
+msgstr "{A %i szerszám nem található}"
+
+#, c-format
+msgid "Set '%s' not found"
+msgstr "A '%s' beállítás nem található"
+
+msgid ""
+"No paths were generated. The tool may be too big\n"
+"or there may be a problem with the drawing."
+msgstr ""
+"Nincs útvonal generálva. A szerszám valószínűleg túl nagy,\n"
+"vagy más gond van a rajzzal."
+
+msgid "The tool may not be able to cut this deep"
+msgstr "A szerszám valószínűleg nem képes ezt a mélységet kivágni"
+
+msgid "The tool will hit the table"
+msgstr "A szerszám beleér az asztalba"
+
+msgid "Open paths were not offset."
+msgstr "Nyitott útnak nincs eltolása."
+
+msgid ""
+"Some paths are too short to ramp.\n"
+"They will be plunged."
+msgstr ""
+"Néhány útvonal túl rövid a rámpának.\n"
+"Ezeket elmerítem."
+
+msgid "Some tabs are too close together. The tabs have ben merged."
+msgstr ""
+"Néhány híd túl közel van egymáshoz. Ezek a fülek összefűzésre kerültek."
+
+msgid "Some features were too small to machine."
+msgstr "Néhány jellemző túl rövid a géphez."
+
+msgid "Could not fit leadin on some outlines."
+msgstr "A bevezetés nem illeszkedik néhány körvonalhoz."
+
+msgid ""
+"Some tool paths were not generated correctly.\n"
+"Please report this as a bug."
+msgstr ""
+"Néhány szerszámpálya nem generálódott megfelelően.\n"
+"Kérlek jelentsd ezt a hibát."
+
+msgid "This cutter will not fit in the available space."
+msgstr "Ez a vágó nem illeszkedik az elérhető térhez."
+
+msgid ""
+"The tabs were not cut because they are below cut depth.\n"
+"Reduce the material thickness or increase the cut depth."
+msgstr ""
+"A hidakat nem lehet kivágni, mert a vágási mélység alatt vannak.\n"
+"Csökkentsd az anyag vastagságát vagy növeld a vágási mélységet."
+
+msgid "An expression could not be evaluated."
+msgstr "Egy kifejezést nem lehetett értékelni."
+
+msgid ""
+"No holes were found.\n"
+"Check the min hole size and max hole size."
+msgstr ""
+"Nem találtam furatot.\n"
+"Ellenőrizd a minimum és maximum furat méretet."
+
+msgid ""
+"Some paths were not generated correctly. There could be a problem with the "
+"drawing."
+msgstr ""
+"Néhány útvonal nem jól lett generálva. Valószínűleg gond van a rajzzal."
+
+msgid "This layer does not exist"
+msgstr "Ez a réteg nem létezik"
+
+msgid "This tool does not exist"
+msgstr "Ez a szerszám nem létezik"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\operations.cpp:686
+msgid ""
+"Unable to cut to depth on some contours due to tab ramping.\n"
+"Increase the ramp angle or remove the tabs on small contours"
+msgstr ""
+"A hidak rámpája miatt egyes kontúrokon nem lehet adott mélységig vágni.\n"
+"Növelje a rámpa szögét, vagy távolítsa el a hidakat a kis kontúrokról"
+
+msgid "Z Move"
+msgstr "Z mozgás"
+
+msgid "Use feed"
+msgstr "Előtolás használata"
+
+msgid "Multi move"
+msgstr "Többszörös mozgás"
+
+msgid "ERROR: Cannot have a relative move as the first move"
+msgstr "HIBA: Első mozgás nem lehet relatív, viszonyított mozgás"
+
+msgid "Rapid to"
+msgstr "Gyors utazás ide"
+
+msgid "{No moves defined}"
+msgstr "{Nincs mozgás definiálva}"
+
+msgid "relative"
+msgstr "relatív"
+
+msgid "at"
+msgstr "rajta"
+
+msgid "Variable name"
+msgstr "Változó neve"
+
+msgid "{No variable set}"
+msgstr "{Nincs változó beállítás}"
+
+msgid "Set variable "
+msgstr "Változó beállítás "
+
+msgid "Spindle off"
+msgstr "Orsó ki"
+
+msgid "Coolant off"
+msgstr "Hűtés ki"
+
+msgid "Force tool change"
+msgstr "Szerszám csere erőltetése"
+
+msgid "Move to safe Z"
+msgstr "Mozgatás biztonságoz Z-hez"
+
+msgid "Code snippet not found"
+msgstr "Kód részlet nem található"
+
+msgid "{No code}"
+msgstr "{Nincs kód}"
+
+msgid "Insert code "
+msgstr "Kód beszúrás "
+
+msgid "Insert code snippet "
+msgstr "Kód részlet beszúrás "
+
+msgid "Minimum X size"
+msgstr "Minimum X méret"
+
+msgid "Minimum Y size"
+msgstr "Minimum Y méret"
+
+msgid "Maximum X size"
+msgstr "Maximum X méret"
+
+msgid "Maximum Y size"
+msgstr "Maximum Y méret"
+
+msgid "Edge overlap"
+msgstr "Él átfedés"
+
+msgid "Remnants must be rectangular"
+msgstr "A maradék mindenképp téglalap legyen"
+
+#, c-format
+msgid "{Layer %s  not found}"
+msgstr "{%s  réteg nem található}"
+
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireTool.cpp:11
+msgid "Cut depth"
+msgstr "Vágás mélység"
+
+msgid "Start depth"
+msgstr "Induló mélység"
+
+msgid "Contour method"
+msgstr "Kontúr módszer"
+
+msgid "Inside Offset"
+msgstr "Belső eltolás"
+
+msgid "Outside Offset"
+msgstr "Külső eltolás"
+
+msgid "No Offset"
+msgstr "Nincs eltolás"
+
+msgid "Finish allowance"
+msgstr "Befejezés megengedése"
+
+msgid "Reverse open paths"
+msgstr "Fordított nyílt körvonal"
+
+msgid "Offset open paths"
+msgstr "Eltolás nyílt körvonalakra"
+
+msgid "Leadins on open paths"
+msgstr "Bevezetés nyílt körvonalakra"
+
+msgid "Overcut"
+msgstr "Túlvágás"
+
+msgid ""
+"This operation is set to automatically optimise paths.\n"
+"Changing the order will disable optimisation.\n"
+"Do you want to continue?"
+msgstr ""
+"Ez a művelet automatikusan optimalizálja az útvonalat.\n"
+"A sorrend megváltoztatása letiltja az optimalizálást.\n"
+"Biztosan folytatod?"
+
+msgid "Start points"
+msgstr "Kezdőpontok"
+
+msgid "Deep"
+msgstr "Mélység"
+
+msgid "Loop corners"
+msgstr "Sarkok hurok"
+
+msgid "Max chain length"
+msgstr "Max összekötés hossz"
+
+msgid "Overcut internal corners"
+msgstr "Belső sarkoknál túlvágás"
+
+msgid "Corner threshold"
+msgstr "Sarokküszöb"
+
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireTool.cpp:13
+msgid "Depth per pass"
+msgstr "Mélység járatonként"
+
+msgid "Coolant"
+msgstr "Hűtőfolyadék"
+
+#: tmp.cpp:12 tmp.cpp:14
+msgid "Mist"
+msgstr "Köd"
+
+#: tmp.cpp:13 tmp.cpp:15
+msgid "Flood"
+msgstr "Elárasztás"
+
+msgid "Cut sequence:"
+msgstr "Vágás sorrend:"
+
+msgid "1 cut of "
+msgstr "1 vágás a "
+
+#, c-format
+msgid "%i cuts of "
+msgstr "%i vágás a "
+
+msgid "and 1 cut of "
+msgstr "és 1 vágás ehez "
+
+msgid "starting at "
+msgstr "kezdve itt "
+
+msgid "Min hole size"
+msgstr "Min furat szélesség"
+
+msgid "Max hole size"
+msgstr "Max furat szélesség"
+
+msgid "Peck retract"
+msgstr "Merülés visszahúzás"
+
+msgid "Peck depth"
+msgstr "Merülés mélység"
+
+msgid "Ramp Angle"
+msgstr "Rámpa szöge"
+
+msgid "Ramp feed"
+msgstr "Rámpa előtolás"
+
+msgid "Square corners"
+msgstr "Szögletes sarkok"
+
+msgid "Step over"
+msgstr "Átlépés"
+
+msgid "Horizontal"
+msgstr "Vízszintes"
+
+msgid "Bidirectional"
+msgstr "Kétirányú"
+
+msgid "Use layer"
+msgstr "Réteg használata"
+
+msgid "Thread diameter"
+msgstr "Menet átmérő"
+
+msgid "Direction"
+msgstr "Irány"
+
+msgid "Outside"
+msgstr "Külső"
+
+msgid "Infeed per pass"
+msgstr "Adagolás menetenként"
+
+#, c-format
+msgid ""
+"You cannot delete this operation as it belongs to:\n"
+"%s"
+msgstr ""
+"Nem törölheted a műveletet, mert ide kapcsolódik:\n"
+"%s"
+
+msgid ""
+"Some other operations depend on this one. They will be deleted as well.\n"
+"Do you want to continue?"
+msgstr ""
+"Néhány művelet kapcsolódik ehez. Azok is törölve lesznek.\n"
+"Biztosan folytatod?"
+
+msgid "Add operation"
+msgstr "Művelet hozzáadás"
+
+msgid "Current tool"
+msgstr "Aktuális szerszám"
+
+msgid "No tools available"
+msgstr "Nincs elérhető szerszámos"
+
+msgid "Change layer"
+msgstr "Réteg váltás"
+
+msgid "Add drawing outlines"
+msgstr "Rajz vázlat hozzáadás"
+
+msgid "Remove drawing outlines"
+msgstr "Rajz vázlat eltávolítás"
+
+msgid "Untitled"
+msgstr "Névtelen"
+
+msgid ""
+"Unable to read from the file.\n"
+"The data is corrupt"
+msgstr ""
+"Nem olvasható a fájl.\n"
+"Az adat megsérült"
+
+msgid "Load part data"
+msgstr "Termék adatok betöltés"
+
+msgid "Lock/enable part"
+msgstr "Termék lezárás/engedélyezés"
+
+msgid "Move part"
+msgstr "Termék mozgatás"
+
+msgid "Save file"
+msgstr "Fájl mentés"
+
+msgid ""
+"You have tried to load a multipart job.\n"
+"Only part 1 will be loaded."
+msgstr ""
+"Egy több darabos munkát próbáltál beolvasni.\n"
+"Csak egy termék lett betöltve."
+
+msgid "Load part"
+msgstr "Termék betöltés"
+
+msgid "Mirrored"
+msgstr "Tükrözött"
+
+msgid ""
+"Some duplicates in this job were mirrored differently to their parent.\n"
+"This is no longer allowed so they have been converted to copies"
+msgstr ""
+"Néhány másolat ebben a munkában másképp másképp van tükrözve, mint az "
+"eredetije.\n"
+"Ez már nem megengedett, így ezekat másolattá alakítottam át"
+
+#, c-format
+msgid "Duplicate %i"
+msgstr "%i duplikálás"
+
+msgid "Delete part"
+msgstr "Termék törlés"
+
+msgid ""
+"If you delete this part it's\n"
+"duplicates will be deleted as well\n"
+"Do you want to continue?"
+msgstr ""
+"Ha törlöd ezt a terméket,\n"
+"a másolatok szintén törlésre kerülnek\n"
+"Biztosan folytassam?"
+
+msgid "Copy of"
+msgstr "Másolata"
+
+msgid "Save tools"
+msgstr "Szerszámos mentése"
+
+msgid "Error saving job config."
+msgstr "Hiba a munka konfiguráció mentésében."
+
+#, c-format
+msgid ""
+"This post has thrown an error:\n"
+"%s\n"
+"Do you want to edit the post?"
+msgstr ""
+"Ez a vezérlő hibát dobott:\n"
+"%s\n"
+"Szeretnéd szerkeszteni?"
+
+#, c-format
+msgid ""
+"This plugin has thrown an error:\n"
+"%s\n"
+"Do you want to edit the macro?"
+msgstr ""
+"Ez a bővítmény hibát dobott:\n"
+"%s\n"
+"Szeretnéd a makrót szerkeszteni?"
+
+msgid "This plugin failed to load: "
+msgstr "A bővítmény betöltése sikertelen: "
+
+msgid "Job files"
+msgstr "Munka fájlok"
+
+msgid "Open a job"
+msgstr "Munka megnyitás"
+
+msgid "Loading job"
+msgstr "Munka betöltés"
+
+msgid "|SheetCam job files"
+msgstr "|SheetCam munka fájlok"
+
+msgid "Part files"
+msgstr "Termék fájlok"
+
+msgid "Open a part"
+msgstr "Termék megnyitás"
+
+msgid "Part files (*.part)"
+msgstr "Termék fájlok (*.part)"
+
+msgid "Job template files"
+msgstr "Munka sablok fájlok"
+
+msgid "JobTemplate"
+msgstr "Munka sablon"
+
+msgid "Open a drawing"
+msgstr "Rajz megnyitás"
+
+#, c-format
+msgid ""
+"You have opened a file of type '%s' with the '%s' input filter. Are you sure "
+"you meant to do this?\n"
+"Select 'No' to open the file with the %s filter."
+msgstr ""
+"Megnyitnál egy '%s' típusú fájlt a '%s' szűrő használatával. Biztosan ezt "
+"szeretnéd?\n"
+"Válassz 'Nem'-et, hogy a %s szűrő nélkül nyissam meg."
+
+msgid "Loading drawing"
+msgstr "Rajz betöltés"
+
+msgid "Do you want to use this drawing name for the job name?"
+msgstr "Szeretnéd ezt a rajz nevet használni a munka neveként?"
+
+msgid "Save G-code"
+msgstr "G-kód mentés"
+
+msgid "Running post processor"
+msgstr "Vezérlőkód fut"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\PluginServer.cpp:1749
+msgid ""
+"No post processor has been selected.\n"
+"Please select a post processor."
+msgstr ""
+"Nincs vezérlőkód készítő kiválasztva.\n"
+"Kérlek válassz ki egyet."
+
+msgid ""
+"You cannot place outlines on a duplicated part.\n"
+"Do you want to use the original part?"
+msgstr ""
+"Nem helyezhetsz el körvonalat egy duplikált terméken.\n"
+"Szeretnéd az eredeti terméket használni?"
+
+msgid "Place outlines"
+msgstr "Vázlat elhelyezés"
+
+msgid "Post processing..."
+msgstr "Vezérlőkódolás..."
+
+msgid "Part:"
+msgstr "Termék:"
+
+#, c-format
+msgid "WARNING: part %s has no active operations"
+msgstr "FIGYELEM: A %s terméknek nincs aktív művelete"
+
+msgid "Error: "
+msgstr "Hiba: "
+
+msgid "Post processing failed"
+msgstr "Vezérlőkód készítés sikertelen"
+
+#, c-format
+msgid "Post processing completed with %i warnings"
+msgstr "Vezérlőkód készítés %i figyelmeztetéssel végzett"
+
+msgid "Post processing completed"
+msgstr "Vezérlőkód készítése befejeződött"
+
+#, c-format
+msgid "Tool %i does not exist"
+msgstr "A %i szerszám nem létezik"
+
+msgid "WARNING: Cutter will hit the table! Cut depth has been reduced to "
+msgstr ""
+"FIGYELEM: A vágó beleér az asztalba! A vágási mélység lecsökkentve ide "
+
+#, c-format
+msgid "Cut distance %s"
+msgstr "Vágás távolság %s"
+
+#, c-format
+msgid "Plunge distance %s"
+msgstr "Merülés távolság %s"
+
+msgid "Warning: "
+msgstr "Figyelmeztetés: "
+
+#, c-format
+msgid "Run the post processor (%s)"
+msgstr "Vezérlőkód készítése (%s)"
+
+msgid "Post not found"
+msgstr "Vezérlő nem található"
+
+msgid "Unable to open output file "
+msgstr "A kimeneti fájl nem nyitható meg "
+
+msgid "Change start point"
+msgstr "Kezdőpont megváltoztatás"
+
+msgid "Change tab"
+msgstr "Fül váltás"
+
+msgid "New tab"
+msgstr "Új fül"
+
+msgid "Change action tab"
+msgstr "Esemény fül váltás"
+
+msgid "Modify tool"
+msgstr "Szerszám módosítás"
+
+#, c-format
+msgid "This file format does not support %s"
+msgstr "Ez a fájl formátum nem támogatott %s"
+
+msgid "Diameter"
+msgstr "Átmérő"
+
+msgid "Flute length"
+msgstr "Szerszám hossza"
+
+msgid "Spindle direction"
+msgstr "Orsó irány"
+
+msgid "Tool length offset"
+msgstr "Szerszám hossz eltolás"
+
+msgid "Point angle"
+msgstr "Élszög"
+
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireTool.cpp:40
+msgid "diameter"
+msgstr "átmérő"
+
+msgid "Pitch"
+msgstr "Menetemelkedés"
+
+msgid "Underfeed"
+msgstr "Hiányos előtolás"
+
+msgid "Reverse multiplier"
+msgstr "Fordított szorzó"
+
+msgid "Axial travel"
+msgstr "Tengely irányú mozgás"
+
+msgid "Number of teeth"
+msgstr "Fogak száma"
+
+msgid "Thread depth"
+msgstr "Menetmélység"
+
+msgid "Tip diameter"
+msgstr "Csúcs átmérő"
+
+msgid "V angle"
+msgstr "V szög"
+
+msgid "Start delay"
+msgstr "Indulásnál vár"
+
+msgid "Pierce delay"
+msgstr "Kiszúrás késleltetés"
+
+msgid "Pause at end of cut"
+msgstr "Szünet a vágás végén"
+
+msgid "Wiggle length"
+msgstr "Kigyózás hossza"
+
+msgid "Pierce height"
+msgstr "Kiszúrás mélység"
+
+msgid "Cut height"
+msgstr "Vágás mélység"
+
+msgid "Pierce type"
+msgstr "Kiszúrás típus"
+
+msgid "Kerf width"
+msgstr "Kivágás szélesség"
+
+msgid "Use leadin settings"
+msgstr "Használd a bevezetés beállításokat"
+
+msgid "kerf"
+msgstr "kivágás"
+
+msgid "Power"
+msgstr "Teljesítmény"
+
+msgid "Preheat"
+msgstr "Előmelegít"
+
+msgid "Code: "
+msgstr "Kód: "
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Tools.cpp:1201
+msgid ""
+"Do you want to keep the tool names?\n"
+"If you select no, any custom tool names will be lost."
+msgstr ""
+"Szeretnéd a szerszám nevét megtartani?\n"
+"Ha nem-et választasz, az egyedi szerszám nevek elvesznek."
+
+msgid "New tool"
+msgstr "Új szerszám"
+
+msgid ""
+"This tool number is already in use.\n"
+"Please select a different number"
+msgstr ""
+"Ez a szerszám sorszám már használatban.\n"
+"Válassz egy másik számot"
+
+#, c-format
+msgid "%s %s"
+msgstr "%s %s"
+
+msgid "Automatically generate name"
+msgstr "Automatikus elnevezés"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\values.cpp:1507
+#, c-format
+msgid "X%s Y%s"
+msgstr "X%s Y%s"
+
+msgid "Yes"
+msgstr "Igen"
+
+msgid "No"
+msgstr "Nem"
+
+msgid "Comment"
+msgstr "Komment"
+
+msgid "The job was not loaded."
+msgstr "A munka nincs betöltve."
+
+msgid "Removing duplicate vectors"
+msgstr "Duplázott vektorok eltávolítása"
+
+msgid ""
+"This drawing contains overlapping outlines.\n"
+"The duplicates have been removed."
+msgstr ""
+"A rajz egymást fedő körvonalakat tartalmaz.\n"
+"A duplikálás eltávolítva."
+
+msgid "Reducing detail"
+msgstr "Részletesség csökkentés"
+
+msgid "Arc matching"
+msgstr "Ív illesztés"
+
+msgid "Centre finding circles"
+msgstr "Központ kereső körök"
+
+msgid "Sorting vectors"
+msgstr "Vektorok rendezése"
+
+msgid "Joining vertex ends"
+msgstr "Csúcsvégek csatlakoztatása"
+
+msgid "Checking arc centers"
+msgstr "Ív középpontok ellenőrzése"
+
+msgid "Calculating polygon nesting"
+msgstr "Sokszög teríték kiszámítása"
+
+msgid "Finding group directions"
+msgstr "Csoport irányának keresése"
+
+msgid "Fill angle"
+msgstr "Kitöltési szög"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\zigzagpocket.cpp:1635
+msgid "Use a cleanup pass"
+msgstr "Használj tisztító járatot"
+
+#: tmp.cpp:5
+msgid "Tool number"
+msgstr "Szerszám sorszám"
+
+msgid "Autoload"
+msgstr "Automatikus betöltés"
+
+msgid "Do you want to load this file:\n"
+msgstr "Be akarod tölteni ezt a fájlt:\n"
+
+msgid "Auto load"
+msgstr "Automatikus betöltés"
+
+#: tmp.cpp:1 tmp.cpp:2
+msgid "Enable Autoload"
+msgstr "Automatikus betöltés engedélyezés"
+
+#: tmp.cpp:2 tmp.cpp:3
+msgid "Check for changes at startup"
+msgstr "Induláskor a változások ellenőrzése"
+
+#: tmp.cpp:3 tmp.cpp:4
+msgid "Scan a directory"
+msgstr "Könyvtár átvizsgálás"
+
+#: tmp.cpp:5 tmp.cpp:6
+msgid "Include sub directories"
+msgstr "Alkönyvtárakat is beleértve"
+
+#: tmp.cpp:7 tmp.cpp:8
+msgid "Timing"
+msgstr "Időzítés"
+
+#: tmp.cpp:8 tmp.cpp:9
+msgid "Delay before loading"
+msgstr "Vár mielőtt betöltés"
+
+#: tmp.cpp:9 tmp.cpp:10
+msgid "Last file changed:"
+msgstr "Utolsó fájl változott:"
+
+#: tmp.cpp:10 tmp.cpp:11
+msgid "Reset time"
+msgstr "Rezet idő"
+
+msgid "Quick load"
+msgstr "Gyors betöltés"
+
+msgid "Quickly browse and load files."
+msgstr "Gyorsan böngészhetsz és betölthetsz fájlokat."
+
+msgid "File name"
+msgstr "Fájl név"
+
+msgid "Date"
+msgstr "Dátum"
+
+msgid "You need to select a template"
+msgstr "Ki kell választani egy sablont"
+
+#: tmp.cpp:1 tmp.cpp:2
+msgid "Include sub dirs"
+msgstr "Alkönyvtárakat is beleértve"
+
+#: tmp.cpp:2 tmp.cpp:3
+msgid "File type"
+msgstr "Fájl típus"
+
+#: tmp.cpp:4 tmp.cpp:5
+msgid "Show drawing options"
+msgstr "Rajz beállítások mutatása"
+
+#: tmp.cpp:5 tmp.cpp:6
+msgid "Load template"
+msgstr "Sablon betöltés"
+
+#: tmp.cpp:6 tmp.cpp:7
+msgid "Keep existing parts"
+msgstr "Tartsd a termékeket együtt"
+
+#: tmp.cpp:7 tmp.cpp:8
+msgid "Automatically disable unused operations"
+msgstr "Használaton kívüli műveletek automatikus kikapcsolása"
+
+#: tmp.cpp:8 tmp.cpp:9
+msgid "Convert selected files"
+msgstr "Kiválasztott fájlok konvertálása"
+
+msgid "Batch update"
+msgstr "Kötegelt frissítés"
+
+msgid "Generate thumbnail images for a batch of jobs"
+msgstr "Előnézeti képek készítése munkák kötegéhez"
+
+msgid "calculator"
+msgstr "számológép"
+
+msgid "Divide by zero error"
+msgstr "Nullával való osztás hiba"
+
+msgid ""
+"wxLua calculator sample based on the calc sample written by Marco "
+"Ghislanzoni.\n"
+"\n"
+msgstr ""
+"wxLua számológép minta Marco Ghislanzoni számológép mintája alapján.\n"
+"\n"
+
+msgid " built with "
+msgstr " készült vele "
+
+msgid "Calculator"
+msgstr "Számológép"
+
+msgid "&Plugins"
+msgstr "Bővítmények"
+
+msgid "Run the calculator"
+msgstr "Számológép futtatása"
+
+#: tmp.cpp:1
+msgid "wxLua Calculator"
+msgstr "wxLua Számológép"
+
+#: tmp.cpp:2
+msgid "initializing..."
+msgstr "inicializálás..."
+
+#: tmp.cpp:3
+msgid "Clear"
+msgstr "Tisztít"
+
+#: tmp.cpp:4
+msgid "Quit"
+msgstr "Kilép"
+
+#: tmp.cpp:5
+msgid "7"
+msgstr "7"
+
+#: tmp.cpp:6
+msgid "8"
+msgstr "8"
+
+#: tmp.cpp:7
+msgid "9"
+msgstr "9"
+
+#: tmp.cpp:8
+msgid "/"
+msgstr "/"
+
+#: tmp.cpp:9
+msgid "4"
+msgstr "4"
+
+#: tmp.cpp:10
+msgid "5"
+msgstr "5"
+
+#: tmp.cpp:11
+msgid "6"
+msgstr "6"
+
+#: tmp.cpp:12
+msgid "x"
+msgstr "x"
+
+#: tmp.cpp:14
+msgid "2"
+msgstr "2"
+
+#: tmp.cpp:15
+msgid "3"
+msgstr "3"
+
+#: tmp.cpp:16
+msgid "-"
+msgstr "-"
+
+#: tmp.cpp:17
+msgid "0"
+msgstr "0"
+
+#: tmp.cpp:18
+msgid "."
+msgstr "."
+
+#: tmp.cpp:19
+msgid "="
+msgstr "="
+
+#: tmp.cpp:20
+msgid "+"
+msgstr "+"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\CncRemote\options.lua:1
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\CncRemote\options.lua:532
+msgid "CncRemote"
+msgstr "CncRemote"
+
+msgid "&Enable CncRemote"
+msgstr "CncRemote &engedélyezés"
+
+msgid "Signal CNC controller when post processor is run"
+msgstr "Jelzés a CNC vezérlőnek, amikor a vezérlőkód feldolgozás fut"
+
+#: tmp.cpp:1
+msgid "Home X"
+msgstr "Haza X"
+
+#: tmp.cpp:3 tmp.cpp:6 tmp.cpp:9 tmp.cpp:42 tmp.cpp:44 tmp.cpp:46 tmp.cpp:4
+#: tmp.cpp:8
+msgid "Zero"
+msgstr "Nulla"
+
+#: tmp.cpp:4
+msgid "Home Y"
+msgstr "Haza Y"
+
+#: tmp.cpp:7
+msgid "Home Z"
+msgstr "Haza Z"
+
+#: tmp.cpp:10
+msgid "Home all"
+msgstr "Minden haza"
+
+#: tmp.cpp:11
+msgid "Drives on"
+msgstr "Meghajtók be"
+
+#: tmp.cpp:14 tmp.cpp:16
+msgid "Spindle"
+msgstr "Orsó"
+
+#: tmp.cpp:15 tmp.cpp:49 tmp.cpp:17 tmp.cpp:10 tmp.cpp:9 tmp.cpp:21
+msgid "Start"
+msgstr "Start"
+
+#: tmp.cpp:16 tmp.cpp:50 tmp.cpp:18 tmp.cpp:11 tmp.cpp:10 tmp.cpp:22
+msgid "Single step"
+msgstr "Egy lépés"
+
+#: tmp.cpp:17 tmp.cpp:51 tmp.cpp:19 tmp.cpp:12 tmp.cpp:11 tmp.cpp:23
+msgid "Pause"
+msgstr "Szünet"
+
+#: tmp.cpp:18 tmp.cpp:37 tmp.cpp:52 tmp.cpp:74 tmp.cpp:20 tmp.cpp:42 tmp.cpp:13
+#: tmp.cpp:35 tmp.cpp:12 tmp.cpp:24
+msgid "Stop"
+msgstr "Stop"
+
+#: tmp.cpp:19 tmp.cpp:53 tmp.cpp:21 tmp.cpp:14
+msgid "Rewind"
+msgstr "Visszatekerés"
+
+#: tmp.cpp:20 tmp.cpp:54 tmp.cpp:22 tmp.cpp:15
+msgid "Block delete"
+msgstr "Blokk törlés"
+
+#: tmp.cpp:21 tmp.cpp:55 tmp.cpp:23 tmp.cpp:16
+msgid "Feed"
+msgstr "Előtolás"
+
+#: tmp.cpp:22 tmp.cpp:56 tmp.cpp:24 tmp.cpp:17
+msgid "Run"
+msgstr "Futtat"
+
+#: tmp.cpp:23 tmp.cpp:57 tmp.cpp:25 tmp.cpp:18
+msgid "Y+"
+msgstr "Y+"
+
+#: tmp.cpp:24 tmp.cpp:58 tmp.cpp:26 tmp.cpp:19
+msgid "Jog Y+ (up arrow)"
+msgstr "Y+ meglökés (fel nyíl)"
+
+#: tmp.cpp:25 tmp.cpp:59 tmp.cpp:27 tmp.cpp:20
+msgid "Z+"
+msgstr "Z+"
+
+#: tmp.cpp:26 tmp.cpp:60 tmp.cpp:28 tmp.cpp:21
+msgid "Jog Z+ (page up)"
+msgstr "Z+ meglökés (lapozás fel / page up)"
+
+#: tmp.cpp:27 tmp.cpp:61 tmp.cpp:29 tmp.cpp:22
+msgid "X-"
+msgstr "X-"
+
+#: tmp.cpp:28 tmp.cpp:62 tmp.cpp:30 tmp.cpp:23
+msgid "Jog X- (left arrow)"
+msgstr "X- meglökés (balra nyíl)"
+
+#: tmp.cpp:29 tmp.cpp:65 tmp.cpp:33 tmp.cpp:26
+msgid "X+"
+msgstr "X+"
+
+#: tmp.cpp:30 tmp.cpp:66 tmp.cpp:34 tmp.cpp:27
+msgid "Jog X+ (right arrow)"
+msgstr "X+ meglökés (jobbra nyíl)"
+
+#: tmp.cpp:31 tmp.cpp:67 tmp.cpp:35 tmp.cpp:28
+msgid "Y-"
+msgstr "Y-"
+
+#: tmp.cpp:32 tmp.cpp:68 tmp.cpp:36 tmp.cpp:29
+msgid "Jog Y- (down arrow)"
+msgstr "Y- meglökés (le nyíl)"
+
+#: tmp.cpp:33 tmp.cpp:69 tmp.cpp:37 tmp.cpp:30
+msgid "Z-"
+msgstr "Z-"
+
+#: tmp.cpp:34 tmp.cpp:70 tmp.cpp:38 tmp.cpp:31
+msgid "Jog Z- (Page down)"
+msgstr "Z- meglökés (lapozás le / page down)"
+
+#: tmp.cpp:35 tmp.cpp:72 tmp.cpp:40 tmp.cpp:33
+msgid "Jog speed"
+msgstr "Lökés sebesség"
+
+#: tmp.cpp:36 tmp.cpp:73 tmp.cpp:41 tmp.cpp:34
+msgid "Jog"
+msgstr "Lökés"
+
+#: tmp.cpp:38 tmp.cpp:75 tmp.cpp:43 tmp.cpp:36
+msgid "MDI"
+msgstr "MDI"
+
+#: tmp.cpp:39 tmp.cpp:50
+msgid "Misc"
+msgstr "Egyéb"
+
+# tmp.cpp:40 C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\test.cpp:35
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\test.cpp:37
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\test.cpp:42
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\test.cpp:44
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\test.cpp:46
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\test.cpp:48
+#: tmp.cpp:40
+msgid "Label"
+msgstr "Cimke"
+
+#: tmp.cpp:47 tmp.cpp:9
+msgid "Reset"
+msgstr "Rezet"
+
+#: tmp.cpp:48
+msgid "dhflkdhfjdgflhdgfls"
+msgstr "dhflkdhfjdgflhdgfls"
+
+#: tmp.cpp:63 tmp.cpp:31 tmp.cpp:24
+msgid "Step"
+msgstr "Lépés"
+
+#: tmp.cpp:64 tmp.cpp:32 tmp.cpp:25
+msgid "Move in fixed steps"
+msgstr "Mozgás rögzített lépésekkel"
+
+#: tmp.cpp:71 tmp.cpp:39 tmp.cpp:32
+msgid "Step size"
+msgstr "Lépésköz"
+
+msgid "Cube demo plugin\n"
+msgstr "Kocka bemutató bővítmény\n"
+
+#: tmp.cpp:4 tmp.cpp:14
+msgid "Character spacing"
+msgstr "Betűköz"
+
+#: tmp.cpp:6 tmp.cpp:16
+msgid "Line spacing"
+msgstr "Sortávolság"
+
+#: tmp.cpp:7
+msgid "Rotate"
+msgstr "Forgatás"
+
+msgid "Demo plugin"
+msgstr "Bemutató bővítmény"
+
+msgid "DG NestPro V"
+msgstr "DG NestPro V"
+
+msgid ""
+" plugin\n"
+"\n"
+"Adds nesting facilities to SheetCam"
+msgstr ""
+" bővítmény\n"
+"\n"
+"Teríték készítő hozzáadása a SheetCam-hez"
+
+msgid "HPGL"
+msgstr "HPGL"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\dstv\options.lua:18
+msgid ""
+"DSTV import filter\n"
+"\n"
+"For .nc1 files"
+msgstr ""
+"DSTV import szűrő\n"
+"\n"
+".nc1 fájlokhoz"
+
+msgid "DXF"
+msgstr "DXF"
+
+msgid ""
+"DXF import filter\n"
+"\n"
+"Note: does not handle text entities or blocks"
+msgstr ""
+"DXF import szűrő\n"
+"\n"
+"Megjegyzés: Nem kezeli a szöveges egységeket vagy blokkokat"
+
+#: tmp.cpp:11
+msgid "Use points for drilling"
+msgstr "Használjon pontokat a fúráshoz"
+
+msgid "Use colours as layer names"
+msgstr "Használja a színeket a réteg elnevezéséhez"
+
+#: tmp.cpp:1
+msgid "File options"
+msgstr "Fájl beállítások"
+
+#: tmp.cpp:2
+msgid "File scale"
+msgstr "Fájl méretarány"
+
+#: tmp.cpp:3
+msgid "Inches"
+msgstr "Inch"
+
+#: tmp.cpp:6
+msgid "Bottom left"
+msgstr "Bal alsó"
+
+#: tmp.cpp:10
+msgid "Material bottom left"
+msgstr "Anyag bal alsó"
+
+msgid "EdingCNC"
+msgstr "EdingCNC"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\EdingCNC\options.lua:103
+msgid "Eding CNC V"
+msgstr "Eding CNC V"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\EdingCNC\options.lua:103
+msgid " was detected."
+msgstr " felismerve."
+
+#| msgid ""
+#| "USBCNC NOT detected.\n"
+#| "This plugin is disabled."
+msgid ""
+"Eding CNC NOT detected.\n"
+"This plugin is disabled."
+msgstr ""
+"Nem érzékelek Eding CNC-t.\n"
+"Ez a bővítmény kikapcsolva."
+
+msgid "&Enable Eding CNC"
+msgstr "&Eding CNC engedélyezés"
+
+msgid "Signal Eding CNC when post processor is run"
+msgstr "Jelzés az Eding CNC-nek, amikor a vezérlőkód feldolgozás fut"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\EdingCNC\options.lua:587
+msgid "Eding CNC"
+msgstr "Eding CNC"
+
+#: tmp.cpp:12
+msgid "Simulation"
+msgstr "Szimuláció"
+
+#: tmp.cpp:13
+msgid "Simulate motion without moving the machine"
+msgstr "Mozgások szimulálása a gép mozgatása nélkül"
+
+#: tmp.cpp:44
+msgid "Sync tool table"
+msgstr "Szerszámtábla szinkron"
+
+#: tmp.cpp:45
+msgid "Send tool table to USBCNC"
+msgstr "Szerszám táblázat küldése USBCNC"
+
+#: tmp.cpp:46
+msgid "Automatically sync tools"
+msgstr "Automatikus szerszám szinkronizálás"
+
+#: tmp.cpp:47
+msgid "Automatically send tool table to USBCNC when running the post processor"
+msgstr ""
+"Automatikusan elküldi a szerszám táblát a USBCNC -nak, miközben a vezérlőkód "
+"készítés fut"
+
+#: tmp.cpp:48
+msgid "Monitor tool table"
+msgstr "Szerszám tábla monitor"
+
+#: tmp.cpp:49
+msgid "Automatically update tool table if tools change in USBCNC"
+msgstr ""
+"Automatikusan frissíti a szerszám táblát ha a szerszám megváltozik a USBCNC -"
+"ben"
+
+#: tmp.cpp:51 tmp.cpp:1
+msgid "Show remote control"
+msgstr "Mutasd a távirányítást"
+
+#: tmp.cpp:52
+msgid ""
+"USBCNC automatic file transfer\n"
+"\n"
+"If USBCNC is available, post processed files can be automatically "
+"transferred.\n"
+"\n"
+msgstr ""
+"USBCNC automatikus fájl átvitel\n"
+"\n"
+"Ha az USBCNC elérhető, a vezérlőkód fájl automatikusan elküldésre kerül.\n"
+"\n"
+
+msgid ""
+"Excellon import filter\n"
+"\n"
+"Can automatically create tools and operations based on the tool definitions "
+"in the file"
+msgstr ""
+"Excellon import szűrő\n"
+"\n"
+"Képes automatikusan létrehozni szerszámokat és műveleteket a fájlban lévő "
+"szerszám definíció alapján"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\FixNul\FixNul.lua:44
+msgid "Fix Nul characters"
+msgstr "Nul karakter javítás"
+
+msgid ""
+"HPGL/1 import filter\n"
+"\n"
+"Does not handle text entities"
+msgstr ""
+"HPGL/1 import szűrő\n"
+"\n"
+"Nem kezel szöveges egységeket"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\HSMAdvisor\About.lua:2
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\HSMAdvisor\About.lua:2
+msgid "HSMAdvisor V"
+msgstr "HSMAdvisor V"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\HSMAdvisor\About.lua:2
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\HSMAdvisor\About.lua:2
+msgid ""
+" plugin\n"
+"\n"
+"Adds HSMAdvisor tool table integration"
+msgstr ""
+" bővítmény\n"
+"\n"
+"HSMAdvisor szerszámtábla integrálás hozzáadás"
+
+msgid "Mach"
+msgstr "Mach"
+
+msgid "A compatible version of Mach3 was detected."
+msgstr "Egy megfelelő Mach3 verziót észleltem."
+
+msgid ""
+"Mach3 is installed but the SheetCamRemote plugin was not found.\n"
+"Please install the SheetCamRemote plugin and enable it in Mach.\n"
+"The plugin can be enabled by going to Config->Config plugins."
+msgstr ""
+"Mach3 telepítve van, de a SheetCamRemote bővítményt nem találom.\n"
+"Kérlek telepítsd a SheetCamRemote bővítményt és engedélyezd a Mach3-ban.\n"
+"A bővítmény engedélyezése a Config->Config plugins menüben történik."
+
+msgid "Mach3 was not found."
+msgstr "Mach3 nem található."
+
+msgid ""
+"\n"
+"This plugin is disabled."
+msgstr ""
+"\n"
+"Ez a bővítmény ki van kapcsolva."
+
+msgid "&Enable Mach3"
+msgstr "Mach3 &Engedélyezés"
+
+msgid "Signal Mach3 when post processor is run"
+msgstr "Jelzés a Mach3-nak, amikor a vezérlőkód feldolgozás fut"
+
+#: tmp.cpp:2
+msgid ""
+"Mach automatic file transfer\n"
+"\n"
+"If Mach is available, post processed files can be automatically "
+"transferred.\n"
+"\n"
+msgstr ""
+"Mach program automatikus fájl átadás\n"
+"\n"
+"Ha a Mach elérhető, a vezérlő fájl automatikusan átadásra kerül.\n"
+"\n"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\manyposts\moreposts.lua:39
+msgid "Unused"
+msgstr "Nem használt"
+
+#: tmp.cpp:1
+msgid ""
+"This plugin adds extra post processors so you don't need to select a\n"
+"different post each time you generate code for a different machine."
+msgstr ""
+"Ez a bővítmény extra vezérlőkód feldolgozókat ad, így nem szükséges minden\n"
+"alkalommal különböző feldolgozót választani az eltérő gépekhez való "
+"kódkészítéshez."
+
+#: tmp.cpp:2
+msgid "Post 2"
+msgstr "Vezérlő 2"
+
+#: tmp.cpp:3
+msgid "Post 3"
+msgstr "Vezérlő 3"
+
+#: tmp.cpp:4
+msgid "Post 4"
+msgstr "Vezérlő 4"
+
+#: tmp.cpp:5
+msgid "Move"
+msgstr "Mozgás"
+
+#: tmp.cpp:1
+msgid "Move amount"
+msgstr "Mozgás mennyisége"
+
+#: tmp.cpp:4
+msgid "All parts"
+msgstr "Minden termékek"
+
+#: tmp.cpp:7
+msgid "Material height"
+msgstr "Anyag magasság"
+
+#: tmp.cpp:8
+msgid "Material size"
+msgstr "Anyag méret"
+
+msgid "MyNesting V"
+msgstr "MyNesting V"
+
+msgid "OneLayer"
+msgstr "Egy réteg"
+
+msgid "Move everything onto one layer"
+msgstr "Mozgatás mindent egy rétegre"
+
+msgid "This file already exists. Overwrite it?"
+msgstr ""
+"A fájl létezik.\n"
+"Biztosan felül akarod írni?"
+
+msgid ""
+"This tool number already exists\n"
+"Do you want to overwrite it?"
+msgstr ""
+"A szerszám száma már létezik.\n"
+"Szeretnéd felülírni?"
+
+msgid "Plasma tool creation plugin\n"
+msgstr "Plazma szerszám készítő bővítmény\n"
+
+msgid "PlasmaTool"
+msgstr "Plazma szerszám"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\PlasmaTool\PlasmaTool.lua:410
+msgid "Run the plasma tool generator"
+msgstr "Plazma szerszám készítő futtatás"
+
+#: tmp.cpp:1
+msgid "Create plasma tool"
+msgstr "Plazma szerszám készítés"
+
+#: tmp.cpp:2 tmp.cpp:21
+msgid "TreeCtrl1"
+msgstr "TreeCtrl1"
+
+#: tmp.cpp:3 tmp.cpp:22
+msgid "<none>"
+msgstr "<nincs>"
+
+#: tmp.cpp:4
+msgid "Tool name"
+msgstr "Szerszám neve"
+
+#: tmp.cpp:8
+msgid "Create tool"
+msgstr "Szerszám készítés"
+
+#: tmp.cpp:9 tmp.cpp:1
+msgid "Simulation plugin"
+msgstr "Szimuláció bővítmény"
+
+#: tmp.cpp:10 tmp.cpp:1 tmp.cpp:2
+msgid "Special options"
+msgstr "Speciális beállítások"
+
+#: tmp.cpp:11 tmp.cpp:2 tmp.cpp:3
+msgid "Update rate"
+msgstr "Frissítés mértéke"
+
+#: tmp.cpp:12 tmp.cpp:3 tmp.cpp:4
+msgid "Rapid feed"
+msgstr "Gyors utazás"
+
+#: tmp.cpp:13 tmp.cpp:4 tmp.cpp:5
+msgid "Maximum FRO"
+msgstr "Maximum FRO"
+
+#: tmp.cpp:14 tmp.cpp:6
+msgid "Tool polygon detail"
+msgstr "Szerszámpálya részletek finomítás"
+
+#: tmp.cpp:15 tmp.cpp:7
+msgid ""
+"Note: increasing the update rate\n"
+"makes movement smoother \n"
+"but uses more CPU power.\n"
+"\n"
+"Increasing the polygon detail\n"
+"makes the tool outline smoother \n"
+"but uses more CPU power."
+msgstr ""
+"Megjegyzés: A frissítés mérték növelése\n"
+"a mozgást finomabbá teszi, de több\n"
+"processzor teljesítményt igényel.\n"
+"\n"
+"A részletek finomítása a szerszám\n"
+"körvonalat simábbá teszi, de\n"
+"több processzor teljesítményt igényel."
+
+#: tmp.cpp:16 tmp.cpp:8 tmp.cpp:9
+msgid "Tool colours"
+msgstr "Szerszámpálya színek"
+
+#: tmp.cpp:17 tmp.cpp:9 tmp.cpp:10
+msgid "Spindle off/jet off"
+msgstr "Orsó ki / sugár ki"
+
+#: tmp.cpp:18 tmp.cpp:10 tmp.cpp:11
+msgid "Spindle CW/jet preheat"
+msgstr "Orsó órairány / sugár előmelegít"
+
+#: tmp.cpp:19 tmp.cpp:11 tmp.cpp:12
+msgid "Spindle CCW/jet cutting"
+msgstr "Orsó óraellen / sugaras vágás"
+
+#: tmp.cpp:20 tmp.cpp:12 tmp.cpp:15
+msgid "Tool diameter"
+msgstr "Szerszám átmérő"
+
+#: tmp.cpp:21 tmp.cpp:13 tmp.cpp:16
+msgid "Scale size"
+msgstr "Méretarány"
+
+#: tmp.cpp:22 tmp.cpp:14 tmp.cpp:17
+msgid "Minimum size"
+msgstr "Minimum méret"
+
+#: tmp.cpp:24 tmp.cpp:16
+msgid "New shape"
+msgstr "Új alak"
+
+#: tmp.cpp:26 tmp.cpp:19
+msgid "Create bitmap"
+msgstr "Bittérkép létrehozás"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\png\Gcode to Image.lua:1
+msgid "Gcode to Image"
+msgstr "Gkódból képet"
+
+msgid "Generate thumbnail images from a batch of Gcodes"
+msgstr "Előnézeti képek készítése gkód kötegéhez"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\Projector\Projector.lua:46
+msgid "Show the job on a second display"
+msgstr "Mutasd a munkát egy második képernyőn"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\RotaryPlasma\rotaryhelper.lua:192
+msgid "Cannot cut on the edge of a flange"
+msgstr "Nem lehet karima szélére vágni"
+
+msgid "Rotary plasma"
+msgstr "Forgó plazma"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\RotaryPlasma\sim.lua:138
+msgid "Custom tube shapes..."
+msgstr "Egyedi csőformák..."
+
+msgid "Resume"
+msgstr "Visszahoz"
+
+msgid "FRO"
+msgstr "FRO"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\RotaryPlasma\sim.lua:799
+msgid "Cut paths cross parts of the work that cannot be cut"
+msgstr ""
+"A vágási utak keresztezik a munka azon részeit, amelyeket nem lehet vágni"
+
+msgid "Torch on"
+msgstr "Fáklya be"
+
+msgid "Waiting"
+msgstr "Várakozás"
+
+msgid "Spindle CW"
+msgstr "Orsó óramutató irány"
+
+msgid "Spindle CCW"
+msgstr "Orsó óramutató ellentétes"
+
+msgid "Flood coolant"
+msgstr "Hűtőfolyadék eláraszt"
+
+msgid "Mist coolant"
+msgstr "Hűtőfolyadék porlasztás"
+
+#: tmp.cpp:5
+msgid ""
+"Note: increasing the update rate\n"
+"makes movement smoother \n"
+"but uses more CPU power."
+msgstr ""
+"Megjegyzés: A frissítés mértékének növelése\n"
+"a mozgást finomabbá teszi, de\n"
+"több processzor teljesítményt használ."
+
+#: tmp.cpp:7 tmp.cpp:19
+msgid "Setup"
+msgstr "Beállítás"
+
+#: tmp.cpp:8 tmp.cpp:20
+msgid "FRO 100.0%"
+msgstr "FRO 100.0%"
+
+#: tmp.cpp:13 tmp.cpp:25
+msgid "Position and time"
+msgstr "Pozíció és idő"
+
+#: tmp.cpp:18 tmp.cpp:29
+msgid "T"
+msgstr "T"
+
+#: tmp.cpp:19 tmp.cpp:30
+msgid "Status"
+msgstr "Státusz"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\sample\sample.lua:99
+msgid "Sample"
+msgstr "Minta"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\sample\sample.lua:100
+msgid "&Sample"
+msgstr "&Minta"
+
+msgid "Run the sample"
+msgstr "Minta futtatása"
+
+msgid "Shape cutting plugin\n"
+msgstr "Alakvágó bővítmény\n"
+
+msgid " line"
+msgstr " vonal"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shape.lua:534
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\backups\shape.lua~0:492
+#: tmp.cpp:20
+msgid "Shape"
+msgstr "Alak"
+
+msgid "New line"
+msgstr "Új vonal"
+
+#: tmp.cpp:17 tmp.cpp:2
+msgid "Add to current part"
+msgstr "Aktuális termékhez hozzáad"
+
+msgid "Sim"
+msgstr "Szim"
+
+#: tmp.cpp:8
+msgid "Enable preview"
+msgstr "Előnézet engedélyezés"
+
+#: tmp.cpp:13
+msgid "Preview material"
+msgstr "Anyag előnézet"
+
+#: tmp.cpp:14
+msgid "Preview highlight"
+msgstr "Előnézet kiemelés"
+
+msgid "SVG"
+msgstr "SVG"
+
+msgid ""
+"SVG import filter\n"
+"\n"
+"Note: Does not currently handle text entities"
+msgstr ""
+"SVG import szűrő\n"
+"\n"
+"Megjegyzés: Jelenleg nem kezeli a szöveges egységeket"
+
+msgid ""
+"Text Creation plugin\n"
+"\n"
+"Inserts text into your drawing.\n"
+"Uses Autocad SHX fonts"
+msgstr ""
+"Text Creation bővítmény\n"
+"\n"
+"Szöveget illeszt a rajzodba.\n"
+"Autocad SHX betűkészletet használ"
+
+msgid ""
+"This file exists.\n"
+"Do you want to overwrite it?"
+msgstr ""
+"A fájl létezik.\n"
+"Biztosan felül akarod írni?"
+
+#: tmp.cpp:5
+msgid "Layer to insert text into"
+msgstr "Réteg a szöveg beszúráshoz"
+
+#: tmp.cpp:6
+msgid "Font"
+msgstr "Betűtípis"
+
+#: tmp.cpp:8
+msgid "Import file"
+msgstr "Import fájl"
+
+#: tmp.cpp:9
+msgid "Size/Position"
+msgstr "Méret/Pozíció"
+
+#: tmp.cpp:10
+msgid "Height"
+msgstr "Magasság"
+
+#: tmp.cpp:11
+msgid "Height of a standard upper case character"
+msgstr "Standard nagybetű magassága"
+
+#: tmp.cpp:12
+msgid "Compression"
+msgstr "Tömörítés"
+
+#: tmp.cpp:13
+msgid "Horizontal spacing"
+msgstr "Vízszintes térköz"
+
+#: tmp.cpp:15
+msgid "Vertical spacing"
+msgstr "Függőleges térköz"
+
+#: tmp.cpp:17
+msgid "Slope"
+msgstr "Lejtés"
+
+#: tmp.cpp:18
+msgid "Rotation"
+msgstr "Forgás"
+
+#: tmp.cpp:19
+msgid "Text angle"
+msgstr "Szöveg szöge"
+
+#: tmp.cpp:22
+msgid "Alignment"
+msgstr "Igazítás"
+
+#: tmp.cpp:23
+msgid "Enter your text here"
+msgstr "Írd ide a szöveget"
+
+#: tmp.cpp:1
+msgid "Directory"
+msgstr "Könyvtár"
+
+msgid "Can mirror"
+msgstr "Tudom tükrözni"
+
+msgid "Exporting data"
+msgstr "Adat exportálás"
+
+msgid "Maximum number of sheets to use"
+msgstr "A használható lapok száma"
+
+msgid "Edge distance"
+msgstr "Éltávolság"
+
+msgid "Angles"
+msgstr "Szögek"
+
+msgid "Any"
+msgstr "Valamennyi"
+
+msgid "90 degrees"
+msgstr "90 fok"
+
+msgid "180 degrees"
+msgstr "180 fok"
+
+msgid "Save nest file"
+msgstr "Teríték fájl mentés"
+
+msgid "Nest"
+msgstr "Teríték"
+
+msgid ""
+"Unable to open file\n"
+"Is it opened by another application?"
+msgstr ""
+"Nem lehet a fájlt megnyitni\n"
+"Talán egy másik program tartja nyitva?"
+
+msgid "Waiting for NestFab"
+msgstr "Várok a NestFab-ra"
+
+msgid "Waiting for MyNesting"
+msgstr "Várok a MyNesting-re"
+
+msgid "Parts not in job file"
+msgstr "Termékek nincsenek a munka fájlban"
+
+msgid "Load nest file"
+msgstr "Teríték fájl betöltés"
+
+msgid "Unable to open file"
+msgstr "Nem lehet a fájlt megnyitni"
+
+#, python-format
+msgid "Sheet %i"
+msgstr "Lap %i"
+
+msgid ""
+"The nest file does not match the job file.\n"
+"The nest may be incomplete or inaccurate.\n"
+"\n"
+"Are you sure you want to continue?"
+msgstr ""
+"A teríték fájl nem egyezik a munka fájllal.\n"
+"A teríték nincs befejezve vagy pontatlan.\n"
+"\n"
+"Biztosan folytatni akarod?"
+
+msgid "/Nesting"
+msgstr "/Teríték"
+
+msgid "Export to DG NestPro"
+msgstr "Exportálás DG NestPro-ba"
+
+msgid "Import from DG NestPro"
+msgstr "Importálás DG NestPro-ból"
+
+msgid "DNC tool"
+msgstr "DNC (Direkt számjegy vezérlés)"
+
+msgid "DNC"
+msgstr "DNC (Direkt számjegy vezérlés)"
+
+msgid "&Send data"
+msgstr "&Adat küldés"
+
+msgid "&Configure"
+msgstr "&Beállítás"
+
+msgid "Unable to execute command"
+msgstr "Nem lehet végrehajtani a parancsot"
+
+msgid "Unable to open port"
+msgstr "Nem lehet a portot megnyitni"
+
+msgid "Send data"
+msgstr "Adat küldés"
+
+msgid "Open G-code"
+msgstr "G-kód megnyitás"
+
+msgid "All files|*.*"
+msgstr "Minden fájl|*.*"
+
+msgid "Serial port"
+msgstr "Soros port"
+
+msgid "Run external command"
+msgstr "Külső parancs futtatás"
+
+msgid "DNC function"
+msgstr "DNC funkció"
+
+msgid "Automatically send data"
+msgstr "Automatikus adat küldés"
+
+msgid "Port settings"
+msgstr "Port beállítások"
+
+msgid "Port"
+msgstr "Port"
+
+msgid "Baud rate"
+msgstr "Baud rate"
+
+msgid "150"
+msgstr "150"
+
+msgid "300"
+msgstr "300"
+
+msgid "600"
+msgstr "600"
+
+msgid "1200"
+msgstr "1200"
+
+msgid "2400"
+msgstr "2400"
+
+msgid "4800"
+msgstr "4800"
+
+msgid "9600"
+msgstr "9600"
+
+msgid "19200"
+msgstr "19200"
+
+msgid "38400"
+msgstr "38400"
+
+msgid "57600"
+msgstr "57600"
+
+msgid "115200"
+msgstr "115200"
+
+msgid "Parity"
+msgstr "Parity"
+
+msgid "Odd"
+msgstr "Páratlan"
+
+msgid "Even"
+msgstr "Páros"
+
+msgid "Mark"
+msgstr "Mark"
+
+msgid "Space"
+msgstr "Hely"
+
+msgid "Data size"
+msgstr "Adat méret"
+
+msgid "Stop bits"
+msgstr "Stop bits"
+
+msgid "1.5"
+msgstr "1.5"
+
+msgid "Flow control"
+msgstr "Áramlásszabályozás"
+
+msgid "Hardware"
+msgstr "Hardver"
+
+msgid "Software"
+msgstr "Szoftver"
+
+msgid "Command settings"
+msgstr "Parancs beállítások"
+
+msgid "Command:"
+msgstr "Parancs:"
+
+#, python-format
+msgid "Note: '%f' will get replaced by the file name"
+msgstr "Megjegyzés: '%f' cserélve lett a fájl nevével"
+
+msgid "Run in terminal"
+msgstr "Terminálban futtatás"
+
+msgid "Keep open when command finishes"
+msgstr "Tartsd nyitva, ha a parancs befejeződött"
+
+msgid "Wait for command to finish"
+msgstr "Várj a parancs befejezéséig"
+
+msgid "Open command"
+msgstr "Parancs megnyitás"
+
+msgid "Excellon"
+msgstr "Excellon"
+
+msgid "Reading file"
+msgstr "Fájl olvasás"
+
+msgid "Drives enabled."
+msgstr "A meghajtók engedélyezve."
+
+msgid "Not homed."
+msgstr "Nem tért haza."
+
+msgid "Drives NOT enabled."
+msgstr "A meghajtók nem engedélyezettek."
+
+#, python-format
+msgid "Z to %.3f\n"
+msgstr "Z ide %.3f\n"
+
+#, python-format
+msgid "X,Y to %.3f, %.3f\n"
+msgstr "X,Y to %.3f, %.3f\n"
+
+msgid "The machine move sequence will be:\n"
+msgstr "A gép mozgatási sorrendje a következő lesz:\n"
+
+msgid "Safety move"
+msgstr "Biztonsági lépés"
+
+msgid "Number format"
+msgstr "Szám formátum"
+
+msgid "Leading zeros"
+msgstr "Bevezető nullák"
+
+msgid "Trailing zeros"
+msgstr "Lezáró nullák"
+
+msgid "Create tools and operations"
+msgstr "Műveletek és szerszámok készítése"
+
+msgid "Finish depth"
+msgstr "Befejező mélység"
+
+msgid ""
+"This will delete your current tools and operations.\n"
+"Do you want to continue?"
+msgstr ""
+"Ez törölni fogja az aktuális szerszámokat és műveleteket.\n"
+"Biztosan folytatod?"
+
+msgid "Gerber"
+msgstr "Gerber"
+
+msgid "/&Nesting"
+msgstr "/&Teríték"
+
+msgid "Export to NestFab"
+msgstr "NestFab exportálás"
+
+msgid "Export to MyNesting"
+msgstr "MyNesting exportálás"
+
+msgid "Import nest"
+msgstr "Teríték importálás"
+
+msgid "Drag knife"
+msgstr "Vágókés"
+
+msgid "Accuracy"
+msgstr "Pontosság"
+
+msgid "Offset amount"
+msgstr "Eltolás mértéke"
+
+msgid "Knife"
+msgstr "Kés"
+
+msgid "Create a new drag knife operation"
+msgstr "Új kivágó kés művelet készítés"
+
+msgid "Create a new drag knife tool"
+msgstr "Új kivágó kés szerszám készítés"
+
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireTool.cpp:10
+msgid "Offset"
+msgstr "Eltolás"
+
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireTool.cpp:12
+msgid "Swivel depth"
+msgstr "Forgási mélység"
+
+msgid "offset"
+msgstr "eltolás"
+
+msgid "Raster engraving"
+msgstr "Raszter gravírozó"
+
+msgid "Acceleration distance"
+msgstr "Gyorsulási távolság"
+
+msgid "Stop delay"
+msgstr "Stop várakozás"
+
+msgid "Kerf width compensation"
+msgstr "Vágás szélesség kompenzáció"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\laser\LaserOperation.cpp:33
+msgid "Fixed scan width"
+msgstr "Rögzített beolvasási szélesség"
+
+msgid "Cut around periphery"
+msgstr "Kerület körbevágás"
+
+msgid "Cut mode"
+msgstr "Vágás mód"
+
+msgid "Open line width"
+msgstr "Vonal megnyitás szélesség"
+
+msgid "Laser engrave"
+msgstr "Lézer gravírozó"
+
+msgid "Line width is less than the kerf width."
+msgstr "A vonal szélesség kisebb, mint a vágási szélesség."
+
+msgid "Raster"
+msgstr "Raszter"
+
+msgid "Create a new raster engraving operation"
+msgstr "Új raszter gravírozó művelet készítés"
+
+msgid "Fixed angle"
+msgstr "Rögzített szög"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Paint\painteditor.cpp:36
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Paint\Paintplugin.cpp:46
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Paint\Paintplugin.cpp:49
+msgid "Paint extruder"
+msgstr "Festék extruder"
+
+msgid "Edge allowance"
+msgstr "Éligény"
+
+msgid "Draw outline"
+msgstr "Vázlat rajzolás"
+
+msgid "Draw mode"
+msgstr "Rajz mód"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Paint\PaintOperation.cpp:68
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Paint\Paintplugin.cpp:47
+msgid "Paint"
+msgstr "Festés"
+
+msgid "Create a new paint extruder operation"
+msgstr "Új festék extruder művelet készítés"
+
+msgid "Create a new paint extruder tool"
+msgstr "Új festék extruder szerszám készítés"
+
+msgid "Extrusion height"
+msgstr "Extrudálás magassága"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Paint\PaintTool.cpp:9
+msgid "Extrusion rate"
+msgstr "Extrudálás mérték"
+
+msgid "Pause after on"
+msgstr "Szünet bekapcsolás után"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Paint\PaintTool.cpp:11
+msgid "Stop extruding before end"
+msgstr "Extrudálás megáll mielőtt vége"
+
+msgid "Pause after end"
+msgstr "Szünet vége után"
+
+msgid "Drag paint"
+msgstr "Festékhúzás"
+
+msgid "Lay out sheets"
+msgstr "Lapot kifektetése"
+
+msgid "Punch"
+msgstr "Lyukaszt"
+
+msgid "Create a new punch operation"
+msgstr "Új lyukasztó művelet készítés"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\RotaryPlasma\CustomShape.cpp:46
+msgid "&New shape from part"
+msgstr "Új alak a termékből"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\RotaryPlasma\CustomShape.cpp:105
+msgid "Unusable: The part must contain only one closed outline"
+msgstr ""
+"Használhatatlan: Az alkatrész csak egy zárt vázlat vonalat tartalmazhat"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\RotaryPlasma\CustomShape.cpp:139
+msgid "The custom profile has sharp corners. All corners must be rounded"
+msgstr ""
+"Az egyedi profilnak éles sarkai vannak. Minden sarok lekerekített kell, hogy "
+"legyen"
+
+msgid "Enter the new name"
+msgstr "Írd be az új nevet"
+
+msgid "Are you sure you want to delete this item?"
+msgstr "Biztosan törölni akarod ezt az elemet?"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\RotaryPlasma\RotaryOptions.cpp:53
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\RotaryPlasma\TorchConfig.cpp:57
+msgid "Torch configuration"
+msgstr "Fáklya beállítás"
+
+msgid "Manage custom shapes"
+msgstr "Egyedi alakok kezelése"
+
+msgid "Calculate diameter from drawing"
+msgstr "Átmérő számítás a rajz alapján"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\RotaryPlasma\RotaryOptions.cpp:62
+msgid "Create a dxf from marker lines"
+msgstr "DXF készítés a jelző vonalakból"
+
+msgid "Work type"
+msgstr "Munka típusa"
+
+msgid "Flat sheet"
+msgstr "Sima lap"
+
+msgid "Rectangular section"
+msgstr "Téglalap alakú szakasz"
+
+msgid "Round pipe"
+msgstr "Kerek cső"
+
+msgid "I beam"
+msgstr "Sugárzom"
+
+msgid "Custom shape"
+msgstr "Egyedi alak"
+
+msgid "Save dxf"
+msgstr "DXF mentés"
+
+msgid "Rotary line drawing"
+msgstr "Elforgatás vonal rajzolás"
+
+msgid "The custom tube profile does not exist"
+msgstr "Ez az egyedi cső profil nem létezik"
+
+msgid "Wall thickness"
+msgstr "Falvastagság"
+
+msgid "Map drawing to inside"
+msgstr "Terítsd a rajzot belülre"
+
+msgid "Beam width"
+msgstr "Sugár szélesség"
+
+msgid "Beam height"
+msgstr "Sugár magasság"
+
+msgid "Corner radius"
+msgstr "Sarok sugara"
+
+msgid "Web thickness"
+msgstr "Háló vastagság"
+
+msgid "Flange thickness"
+msgstr "Karima vastagsága"
+
+msgid "Pipe diameter"
+msgstr "Cső átmérő"
+
+msgid "Beam type"
+msgstr "Sugár típusa"
+
+msgid "Source part"
+msgstr "Termék forrás"
+
+msgid "Body diameter"
+msgstr "Test átmérő"
+
+msgid "Included angle"
+msgstr "Beleértett szög"
+
+msgid "Processing"
+msgstr "Végrehajtás"
+
+msgid "Turning"
+msgstr "Forgó"
+
+msgid "Profile"
+msgstr "Profil"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnEditor.cpp:53
+msgid "Limits"
+msgstr "Határok"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnOperation.cpp:15
+msgid "The contour should be a single path."
+msgstr "A kontúr egyetlen útvonal kell, hogy legyen."
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnOperation.cpp:16
+msgid "The contour must not be below the spindle centre line"
+msgstr "A kontúr nem lehet az orsó középvonala alatt"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnOperation.cpp:17
+msgid "The contour is impossible to machine."
+msgstr "Ezt a kontúrt lehetetlen kimunkálni."
+
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireOperation -
+#: Copy.cpp:88
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireOperation.cpp:20
+msgid "Start from"
+msgstr "Indítás innen"
+
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireOperation -
+#: Copy.cpp:89
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireOperation.cpp:21
+msgid "End at"
+msgstr "Vége itt"
+
+msgid "Outer diameter"
+msgstr "Külső átmérő"
+
+msgid "Inner Diameter"
+msgstr "Belső átmérő"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnOperation.cpp:403
+msgid "Profile turn"
+msgstr "Profilfordulás"
+
+msgid "Create a new turning operation"
+msgstr "Új forgó művelet készítés"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\Turnplugin.cpp:64
+msgid "Left turning"
+msgstr "Balra forgás"
+
+msgid "Create a new turning tool"
+msgstr "Új forgó szerszám készítés"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\Turnplugin.cpp:65
+msgid "Right turning"
+msgstr "Jobbra forgás"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\Turnplugin.cpp:66
+msgid "Neutral turning"
+msgstr "Semleges forgás"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\Turnplugin.cpp:67
+msgid "Parting/grooving"
+msgstr "Elválasztás/hornyolás"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnTool.cpp:15
+msgid "Nose radius"
+msgstr "Orr sugara"
+
+msgid "End angle"
+msgstr "Végszög"
+
+msgid "Toolpost angle"
+msgstr "Szerszámoszlop szöge"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnTool.cpp:21
+msgid "Approach from front"
+msgstr "Megközelítés szemből"
+
+msgid "Holder length"
+msgstr "Tartó hossza"
+
+msgid "Maximum depth of cut"
+msgstr "A vágás maximum mélység"
+
+msgid "Turret number"
+msgstr "Torony száma"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnTool.cpp:31
+msgid "Turret station number"
+msgstr "Torony állomás száma"
+
+msgid "Approach direction"
+msgstr "Megközelítés iránya"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnTool.cpp:63
+#, python-format
+msgid "Tip radius %s"
+msgstr "Csúcs sugara %s"
+
+msgid "Cutting edge length"
+msgstr "Vágóél hossza"
+
+msgid "Shank width"
+msgstr "A szár szélessége"
+
+msgid "Nose offset"
+msgstr "Orr eltolás"
+
+msgid "Side angle"
+msgstr "Oldal szöge"
+
+msgid "Tip width"
+msgstr "Csúcs szélessége"
+
+msgid "Turning tool"
+msgstr "Eszterga szerszám"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnToolEditor.cpp:65
+msgid "Geometry"
+msgstr "Geometria"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnToolEditor.cpp:66
+msgid "Feeds and speeds"
+msgstr "Tolások és sebességek"
+
+msgid "V carve"
+msgstr "V carve"
+
+msgid "Create a new V carving operation"
+msgstr "Új V carving művelet készítés"
+
+msgid "Maximum depth"
+msgstr "Maximum mélység"
+
+msgid "Step Size"
+msgstr "Lépésköz"
+
+msgid "Show circles"
+msgstr "Körök mutatása"
+
+msgid "Corner sharpening"
+msgstr "Sarok élesítés"
+
+msgid "Create pocket"
+msgstr "Készíts zsebet"
+
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireEditor.cpp:37
+msgid "Wire"
+msgstr "Huzal"
+
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireOperation -
+#: Copy.cpp:110
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireOperation.cpp:43
+msgid "Wire cut"
+msgstr "Huzal vágás"
+
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireOperation.cpp:252
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireOperation.cpp:268
+msgid "Cut route is not complete."
+msgstr "Vágás útvonal nem teljes."
+
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireOperation.cpp:319
+msgid "Cut route is impossible."
+msgstr "A vágás útvonal lehetetlen."
+
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\Wireplugin.cpp:19
+msgid "Changed wire link"
+msgstr "Huzal kapcsolat megváltozott"
+
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\Wireplugin.cpp:609
+msgid "Delete corner"
+msgstr "Sarok törlés"
+
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\Wireplugin.cpp:617
+msgid "Add corner"
+msgstr "Sarok hozzáadás"
+
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\Wireplugin.cpp:625
+msgid "Reverse direction"
+msgstr "Fordított irány"
+
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\Wireplugin.cpp:892
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\Wireplugin.cpp:893
+msgid "Wire cutting"
+msgstr "Huzal vágás"
+
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\Wireplugin.cpp:893
+msgid "Create a new Wire cutting operation"
+msgstr "Új Huzalvágó művelet készítés"
+
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\Wireplugin.cpp:895
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireToolEditor.cpp:30
+msgid "Wire cutter"
+msgstr "Huzalvágó"
+
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\Wireplugin.cpp:895
+msgid "Create a new wire cutting tool"
+msgstr "Új huzalvágó szerszám készítés"
+
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\Wireplugin.cpp:924
+msgid "Link paths"
+msgstr "Link paths"
+
+#~ msgid "Code name"
+#~ msgstr "Kód név"
+
+#~ msgid "Pierce time/tool change time"
+#~ msgstr "Kiszúrás idő / szerszám csere idő"
+
+#~ msgid "Code Snippet"
+#~ msgstr "Kód részlet"
+
+#~ msgid "Add breakpoint"
+#~ msgstr "Töréspont hozzáadás"
+
+#~ msgid "Some leadins were too short to apply rule 'On lead in'"
+#~ msgstr ""
+#~ "Néhány bevezető túl rövid, hogy használd a \"bevezetéskor\" szabályt"
+
+#~ msgid "Some leadouts were too short to apply rule 'On lead out'"
+#~ msgstr ""
+#~ "Néhány kivezető túl rövid, hogy használd a \"kivezetéskor\" szabályt"
+
+#~ msgid "Depth of cut"
+#~ msgstr "Vágás mélysége"
+
+#~ msgid "Cut start is above rapid clearance plane."
+#~ msgstr "A vágás a gyors tisztítás felett kezdődik."
+
+#~ msgid "Please wait while the file is uploaded"
+#~ msgstr "Várj, amíg a fájlok feltöltődnek"
+
+#~ msgid "The file was uploaded successfully"
+#~ msgstr "A fájl feltöltése sikeres"
+
+#, c-format
+#~ msgid "X %i Y %i"
+#~ msgstr "X %i Y %i"
+
+#~ msgid "The quick brown fox"
+#~ msgstr "ÁRVÍZTŰRŐ ÜTVEFÚRÓGÉP"
+
+#~ msgid "USBCNC"
+#~ msgstr "USBCNC"
+
+#~ msgid "A compatible version of USBCNC was detected."
+#~ msgstr "Egy kompatibilis USBCNC verziót észleltem."
+
+#~ msgid "Grid Size"
+#~ msgstr "Rács méret"
+
+#~ msgid "Tolerance"
+#~ msgstr "Tűrés"
