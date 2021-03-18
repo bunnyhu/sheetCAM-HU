@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-09 07:51+0000\n"
-"PO-Revision-Date: 2021-03-09 17:20+0100\n"
+"POT-Creation-Date: 2021-03-15 14:16+0000\n"
+"PO-Revision-Date: 2021-03-18 09:32+0100\n"
 "Last-Translator: Szabó Károly\n"
 "Language-Team: \n"
 "Language: hu\n"
@@ -1805,6 +1805,10 @@ msgstr "Termék neve:"
 msgid "Drawing filename:"
 msgstr "Rajz fájlnév:"
 
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\partpropertiesdialog.cpp:44
+msgid "Date drawing was loaded:"
+msgstr ""
+
 msgid "Number of outlines:"
 msgstr "Körvonalak száma:"
 
@@ -2044,6 +2048,7 @@ msgstr "Éles sarkoknál hurok"
 msgid "Loop size"
 msgstr "Hurok méret"
 
+#: ShapeNames:13
 msgid "Triangle"
 msgstr "Háromszög"
 
@@ -3491,14 +3496,6 @@ msgstr "Előmelegít"
 msgid "Code: "
 msgstr "Kód: "
 
-# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Tools.cpp:1201
-msgid ""
-"Do you want to keep the tool names?\n"
-"If you select no, any custom tool names will be lost."
-msgstr ""
-"Szeretnéd a szerszám nevét megtartani?\n"
-"Ha nem-et választasz, az egyedi szerszám nevek elvesznek."
-
 msgid "New tool"
 msgstr "Új szerszám"
 
@@ -3577,6 +3574,114 @@ msgstr "Használj tisztító járatot"
 #: tmp.cpp:5
 msgid "Tool number"
 msgstr "Szerszám sorszám"
+
+#: ShapeNames:2
+msgid "Basic Shapes"
+msgstr "Alapvető formák"
+
+#: ShapeNames:3
+msgid "Brackets and Mounts"
+msgstr "Dúcok és Rögzítők"
+
+#: ShapeNames:4
+msgid "Gussets"
+msgstr "Támaszték"
+
+#: ShapeNames:5
+msgid "Specialty Shapes"
+msgstr "Speciális alakzatok"
+
+#: ShapeNames:6
+msgid "Circle"
+msgstr "Kör"
+
+#: ShapeNames:7
+msgid "Convex rectangle"
+msgstr "Konvex téglalap"
+
+#: ShapeNames:8
+msgid "Donut"
+msgstr "Fánk"
+
+#: ShapeNames:9
+msgid "Parallelogram"
+msgstr "Paralelogramma"
+
+#: ShapeNames:10
+msgid "Polygon"
+msgstr "Sokszög"
+
+#: ShapeNames:11
+msgid "Rectangle"
+msgstr "Téglalap"
+
+#: ShapeNames:12
+msgid "Trapezoid"
+msgstr "Trapezoid"
+
+#: ShapeNames:14
+msgid "Lap Joint"
+msgstr "Szárny csatlakozás"
+
+#: ShapeNames:15
+msgid "Lifting Lug"
+msgstr "Emelő fül"
+
+#: ShapeNames:16
+msgid "Pipe Flange"
+msgstr "Csőperem"
+
+#: ShapeNames:17
+msgid "Pipe Saddle"
+msgstr "Csőnyereg"
+
+#: ShapeNames:18
+msgid "Rectangle 4 Holes"
+msgstr "Téglalap 4 furat"
+
+#: ShapeNames:19
+msgid "Rectangle Mount Plate"
+msgstr "Téglalap rögzítő lemez"
+
+#: ShapeNames:20
+msgid "Rectangle Multiple Holes"
+msgstr "Téglalap több furat"
+
+#: ShapeNames:21
+msgid "Straight Lug"
+msgstr "Egyenes fül"
+
+#: ShapeNames:22
+msgid "U Lug"
+msgstr "U fül"
+
+#: ShapeNames:23
+msgid "L Gusset"
+msgstr "L támaszték"
+
+#: ShapeNames:24
+msgid "Triangular Gusset"
+msgstr "Háromszög betoldás"
+
+#: ShapeNames:25
+msgid "Truss Support"
+msgstr "Csomópont támaszték"
+
+#: ShapeNames:26
+msgid "Web Stiffener"
+msgstr "Háló merevítés"
+
+#: ShapeNames:27
+msgid "Cam Link"
+msgstr "Tengely kapcsolat"
+
+#: ShapeNames:28
+msgid "Slotted Plate"
+msgstr "Réselt lemez"
+
+#: ShapeNames:29
+msgid "Split Ring"
+msgstr "Hasított gyűrű"
 
 msgid "Autoload"
 msgstr "Automatikus betöltés"
@@ -4030,9 +4135,6 @@ msgstr "Eding CNC V"
 msgid " was detected."
 msgstr " felismerve."
 
-#| msgid ""
-#| "USBCNC NOT detected.\n"
-#| "This plugin is disabled."
 msgid ""
 "Eding CNC NOT detected.\n"
 "This plugin is disabled."
@@ -4468,6 +4570,237 @@ msgstr "Alak"
 msgid "New line"
 msgstr "Új vonal"
 
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Basic Shapes\Convex rectangle\main.lua:24
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Basic Shapes\Parallelogram\main.lua:22
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Basic Shapes\Rectangle\main.lua:29
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Basic Shapes\Triangle\main.lua:23
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Brackets and Mounts\Lap Joint\main.lua:54
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Brackets and Mounts\Lifting Lug\main.lua:40
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Brackets and Mounts\Pipe Saddle\main.lua:32
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Brackets and Mounts\Rectangle 4 Holes\main.lua:34
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Brackets and Mounts\Rectangle Mount Plate\main.lua:56
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Brackets and Mounts\Rectangle Multiple Holes\main.lua:103
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Brackets and Mounts\Straight Lug\main.lua:32
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Gussets\Triangular Gusset\main.lua:28
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Gussets\Web Stiffener\main.lua:24
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Specialty Shapes\Slotted Plate\main.lua:42
+msgid "Width"
+msgstr "Szélesség"
+
+#: tmp.cpp:10
+msgid "Height"
+msgstr "Magasság"
+
+msgid "Inside Diameter"
+msgstr "Belső átmérő"
+
+msgid "Outside Diameter"
+msgstr "Külső átmérő"
+
+msgid "Corner Angle"
+msgstr "Sarok szöge"
+
+msgid "Circle Diameter"
+msgstr "Kör átmérő"
+
+msgid "Number of Sides"
+msgstr "Oldalak száma"
+
+msgid "Shape Location"
+msgstr "Forma helyzete"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Basic Shapes\Polygon\main.lua:41
+msgid "Inscribed"
+msgstr "Belülírt"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Basic Shapes\Polygon\main.lua:41
+msgid "Circumscribed"
+msgstr "Körülírva"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnTool.cpp:15
+msgid "Fillet radius"
+msgstr "Lekerekítés sugara"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Basic Shapes\Trapezoid\main.lua:22
+msgid "Base"
+msgstr "Alap"
+
+msgid "Left Height"
+msgstr "Bal magasság"
+
+msgid "Right Height"
+msgstr "Jobb magasság"
+
+msgid "Left Offset"
+msgstr "Bal eltolás"
+
+msgid "Right Offset"
+msgstr "Jobb eltolás"
+
+msgid "Horizontal Hole Number"
+msgstr "Vízszíntes furat szám"
+
+msgid "Horizontal Hole Spacing"
+msgstr "Vízszintes furat térköz"
+
+msgid "Vertical Hole Number"
+msgstr "Függőleges furat száma"
+
+msgid "Vertical Hole Spacing"
+msgstr "Függőleges furat térköz"
+
+msgid "Hole Diameter"
+msgstr "Furat átmérő"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Brackets and Mounts\Lap Joint\main.lua:61
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Brackets and Mounts\Rectangle 4 Holes\main.lua:39
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Brackets and Mounts\Rectangle Multiple Holes\main.lua:110
+msgid "Fillet Radius"
+msgstr "Lekerekítés sugara"
+
+msgid "Straight Height"
+msgstr "Egyenes magasság"
+
+msgid "Outer Diameter"
+msgstr "Külső átmérő"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Brackets and Mounts\Pipe Flange\main.lua:39
+msgid "PCD"
+msgstr "PCD"
+
+msgid "Number of Holes"
+msgstr "Furatok száma"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Brackets and Mounts\Pipe Flange\main.lua:42
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Brackets and Mounts\Rectangle Multiple Holes\main.lua:111
+msgid "Center Hole Shape"
+msgstr "Központi furat formája"
+
+msgid "Center Hole Size"
+msgstr "Közép furat méret"
+
+msgid "Pipe Diameter"
+msgstr "Cső átmérő"
+
+msgid "Center Offset"
+msgstr "Központ eltolás"
+
+msgid "Horizontal Slot Spacing"
+msgstr "Vízszintes rés térköz"
+
+msgid "Vertical Slot Spacing"
+msgstr "Függőleges rés térköz"
+
+msgid "Slot Length"
+msgstr "Rés hossz"
+
+msgid "Slot Width"
+msgstr "Rés szélesség"
+
+msgid "Corner Radius"
+msgstr "Sarok sugara"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Brackets and Mounts\Rectangle Mount Plate\main.lua:63
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Specialty Shapes\Slotted Plate\main.lua:49
+msgid "Slot Group X Offset"
+msgstr "Rés csoport X eltolás"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Brackets and Mounts\Rectangle Mount Plate\main.lua:64
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Specialty Shapes\Slotted Plate\main.lua:50
+msgid "Slot Group Y Offset"
+msgstr "Rés csoport Y eltolás"
+
+msgid "Center Hole Width"
+msgstr "Központi furat szélesség"
+
+msgid "Center Hole Height"
+msgstr "Központi furat magasság"
+
+msgid "Center Fillet Radius"
+msgstr "Közép lekerekítés sugara"
+
+msgid "Number of sides"
+msgstr "Oldalak száma"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Brackets and Mounts\Rectangle Multiple Holes\main.lua:118
+msgid "Center Hole Angle"
+msgstr "Központi furat szög"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Brackets and Mounts\Rectangle Multiple Holes\main.lua:119
+msgid "Center Hole X Offset"
+msgstr "Központi furat X eltolás"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Brackets and Mounts\Rectangle Multiple Holes\main.lua:120
+msgid "Center Hole Y Offset"
+msgstr "Központi furat Y eltolás"
+
+msgid "Hole Y Offset"
+msgstr "Furat Y eltolás"
+
+msgid "Inside Width"
+msgstr "Belső szélesség"
+
+msgid "Outside Width"
+msgstr "Külsőoldali szélesség"
+
+msgid "Overall Height"
+msgstr "Teljes magasság"
+
+msgid "Outer Width"
+msgstr "Külső szélesség"
+
+msgid "Outer Height"
+msgstr "Külső magasság"
+
+msgid "Inner Width"
+msgstr "Belső szélesség"
+
+msgid "Inner Height"
+msgstr "Belső magasság"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Gussets\Triangular Gusset\main.lua:30
+msgid "Edge Chamfer"
+msgstr "Él letörés"
+
+msgid "Corner Chamfer"
+msgstr "Sarok letörés"
+
+msgid "Base Width"
+msgstr "Alap szélesség"
+
+msgid "Top Width"
+msgstr "Tető szélesség"
+
+msgid "Side Height"
+msgstr "Oldal magasság"
+
+msgid "Pin Center Distance"
+msgstr "Tüskék középpont távolsága"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Specialty Shapes\Cam Link\main.lua:36
+msgid "Left Hole Dia"
+msgstr "Bal furat átm"
+
+msgid "Left End Dia"
+msgstr "Bal vég átm"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Specialty Shapes\Cam Link\main.lua:38
+msgid "Right Hole Dia"
+msgstr "Jobb furat átm"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\Turnplugin.cpp:65
+msgid "Right End Dia"
+msgstr "Jobb vég átm"
+
+msgid "Number of Slots"
+msgstr "Rések száma"
+
+msgid "Slot Spacing"
+msgstr "Rés térköz"
+
+msgid "Opening Angle"
+msgstr "Nyitó szög"
+
 #: tmp.cpp:17 tmp.cpp:2
 msgid "Add to current part"
 msgstr "Aktuális termékhez hozzáad"
@@ -4532,10 +4865,6 @@ msgstr "Import fájl"
 #: tmp.cpp:9
 msgid "Size/Position"
 msgstr "Méret/Pozíció"
-
-#: tmp.cpp:10
-msgid "Height"
-msgstr "Magasság"
 
 #: tmp.cpp:11
 msgid "Height of a standard upper case character"
@@ -5285,6 +5614,14 @@ msgstr "Új huzalvágó szerszám készítés"
 #: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\Wireplugin.cpp:924
 msgid "Link paths"
 msgstr "Link paths"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Tools.cpp:1201
+#~ msgid ""
+#~ "Do you want to keep the tool names?\n"
+#~ "If you select no, any custom tool names will be lost."
+#~ msgstr ""
+#~ "Szeretnéd a szerszám nevét megtartani?\n"
+#~ "Ha nem-et választasz, az egyedi szerszám nevek elvesznek."
 
 #~ msgid "Code name"
 #~ msgstr "Kód név"
