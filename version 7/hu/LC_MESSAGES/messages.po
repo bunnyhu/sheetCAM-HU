@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-15 14:16+0000\n"
-"PO-Revision-Date: 2021-03-18 09:32+0100\n"
+"POT-Creation-Date: 2021-03-19 12:45+0000\n"
+"PO-Revision-Date: 2021-03-19 16:34+0100\n"
 "Last-Translator: Szabó Károly\n"
 "Language-Team: \n"
 "Language: hu\n"
@@ -236,9 +236,6 @@ msgstr "Kontúr"
 
 msgid "Overcut corners"
 msgstr "Sarkoknál túlvágás"
-
-msgid "Angle threshold"
-msgstr "Szögküszöb"
 
 #: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireEditor.cpp:51
 msgid "Basic"
@@ -592,8 +589,14 @@ msgstr "Tömb termékek"
 msgid "Disable"
 msgstr "Letiltás"
 
+msgid "Enable"
+msgstr "Engedélyez"
+
 msgid "Select part and duplicates"
 msgstr "Válassz egy terméket és duplikáld"
+
+msgid "Set part position"
+msgstr "Termék pozíció beállítás"
 
 msgid "Copy of "
 msgstr "Másolata "
@@ -856,6 +859,10 @@ msgstr "Válaszd ki a program felület nyelvét"
 
 msgid "System default language"
 msgstr "A rendszer alapértelmezett nyelve"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\languagepanel.cpp:68
+msgid "ku"
+msgstr "ku"
 
 msgid ""
 "You must restart the program\n"
@@ -1759,9 +1766,6 @@ msgstr "Nullpont"
 msgid "Enter coordinates"
 msgstr "Megadott koordináták"
 
-msgid "Enable"
-msgstr "Engedélyez"
-
 msgid "Lock part and duplicates"
 msgstr "Termék lezárás és duplikálás"
 
@@ -1807,7 +1811,7 @@ msgstr "Rajz fájlnév:"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\partpropertiesdialog.cpp:44
 msgid "Date drawing was loaded:"
-msgstr ""
+msgstr "A betöltött rajz dátuma:"
 
 msgid "Number of outlines:"
 msgstr "Körvonalak száma:"
@@ -2045,9 +2049,6 @@ msgstr "Sugaras vágó"
 msgid "Loop sharp corners"
 msgstr "Éles sarkoknál hurok"
 
-msgid "Loop size"
-msgstr "Hurok méret"
-
 #: ShapeNames:13
 msgid "Triangle"
 msgstr "Háromszög"
@@ -2055,8 +2056,8 @@ msgstr "Háromszög"
 msgid "Arc"
 msgstr "Ív"
 
-msgid "Unknown"
-msgstr "Ismeretlen"
+msgid "Angle threshold"
+msgstr "Szögküszöb"
 
 msgid "Jet tool"
 msgstr "Sugaras szerszám"
@@ -2249,6 +2250,9 @@ msgid ""
 msgstr ""
 "Ha nem vagy biztos milyen vezérlőt használsz, semmi gond, később bármikor "
 "megváltoztatható"
+
+msgid "Unknown"
+msgstr "Ismeretlen"
 
 msgid "Lead in"
 msgstr "Bevezetés"
@@ -3060,6 +3064,9 @@ msgstr "Kezdőpontok"
 
 msgid "Deep"
 msgstr "Mélység"
+
+msgid "Loop size"
+msgstr "Hurok méret"
 
 msgid "Loop corners"
 msgstr "Sarkok hurok"
