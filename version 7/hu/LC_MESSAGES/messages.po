@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-19 12:45+0000\n"
-"PO-Revision-Date: 2021-03-19 16:34+0100\n"
+"POT-Creation-Date: 2021-03-24 18:14+0000\n"
+"PO-Revision-Date: 2021-03-26 19:21+0100\n"
 "Last-Translator: Szabó Károly\n"
 "Language-Team: \n"
 "Language: hu\n"
@@ -1847,7 +1847,7 @@ msgid "On all corners"
 msgstr "Minden saroknál"
 
 msgid "On small shapes"
-msgstr "Kis méretű saroknál"
+msgstr "Kis méretű formáknál"
 
 msgid "On small circles"
 msgstr "Kis méretű körnél"
@@ -1961,7 +1961,7 @@ msgstr " aztán %s a furat után"
 
 #, c-format
 msgid "On shapes smaller than %s %s"
-msgstr "A formák kisebbek mint  %s %s"
+msgstr "A formák kisebbek mint %s %s"
 
 #, c-format
 msgid " then %s after the circle"
@@ -4067,15 +4067,12 @@ msgstr "Forgatás"
 msgid "Demo plugin"
 msgstr "Bemutató bővítmény"
 
-msgid "DG NestPro V"
-msgstr "DG NestPro V"
-
 msgid ""
-" plugin\n"
+"DG NestPro plugin\n"
 "\n"
 "Adds nesting facilities to SheetCam"
 msgstr ""
-" bővítmény\n"
+"DG NestPro bővítmény\n"
 "\n"
 "Teríték készítő hozzáadása a SheetCam-hez"
 
@@ -4344,6 +4341,15 @@ msgstr "Anyag méret"
 msgid "MyNesting V"
 msgstr "MyNesting V"
 
+msgid ""
+" plugin\n"
+"\n"
+"Adds nesting facilities to SheetCam"
+msgstr ""
+" bővítmény\n"
+"\n"
+"Teríték készítő hozzáadása a SheetCam-hez"
+
 msgid "OneLayer"
 msgstr "Egy réteg"
 
@@ -4563,19 +4569,22 @@ msgid "Run the sample"
 msgstr "Minta futtatása"
 
 msgid "Shape cutting plugin\n"
-msgstr "Alakvágó bővítmény\n"
-
-msgid " line"
-msgstr " vonal"
+msgstr "Népszerű formákat vágó bővítmény\n"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shape.lua:534
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\backups\shape.lua~0:492
 #: tmp.cpp:20
 msgid "Shape"
-msgstr "Alak"
+msgstr "Népszerű formák"
+
+msgid " line"
+msgstr " vonal"
 
 msgid "New line"
 msgstr "Új vonal"
+
+msgid "Shape cutting library"
+msgstr "Népszerű formák"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Basic Shapes\Convex rectangle\main.lua:24
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Basic Shapes\Parallelogram\main.lua:22
@@ -5223,6 +5232,9 @@ msgstr "eltolás"
 msgid "Raster engraving"
 msgstr "Raszter gravírozó"
 
+msgid "laser"
+msgstr "lézer"
+
 msgid "Acceleration distance"
 msgstr "Gyorsulási távolság"
 
@@ -5342,7 +5354,7 @@ msgid "Torch configuration"
 msgstr "Fáklya beállítás"
 
 msgid "Manage custom shapes"
-msgstr "Egyedi alakok kezelése"
+msgstr "Egyedi formák kezelése"
 
 msgid "Calculate diameter from drawing"
 msgstr "Átmérő számítás a rajz alapján"
@@ -5367,13 +5379,16 @@ msgid "I beam"
 msgstr "Sugárzom"
 
 msgid "Custom shape"
-msgstr "Egyedi alak"
+msgstr "Egyedi forma"
 
 msgid "Save dxf"
 msgstr "DXF mentés"
 
 msgid "Rotary line drawing"
 msgstr "Elforgatás vonal rajzolás"
+
+msgid "RotaryPlasma"
+msgstr "Forgó plazma"
 
 msgid "The custom tube profile does not exist"
 msgstr "Ez az egyedi cső profil nem létezik"
@@ -5621,6 +5636,9 @@ msgstr "Új huzalvágó szerszám készítés"
 #: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\Wireplugin.cpp:924
 msgid "Link paths"
 msgstr "Link paths"
+
+#~ msgid "DG NestPro V"
+#~ msgstr "DG NestPro V"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\Tools.cpp:1201
 #~ msgid ""
