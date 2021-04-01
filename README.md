@@ -2,7 +2,7 @@
 
 A version 6 a Sheetcam v6.x.x verziókhoz való magyarítást tartalmazza.
 
-A version 7 a Sheetcam v7.x.x verziókhoz való magyarítást tartalmazza. Ez elkészülte után hivatalosan is bekerül a programba, tehát nem lesz szükség külön telepíteni.
+A version 7 a Sheetcam v7.x.x verziókhoz való magyarítást tartalmazza. Ez már hivatalosan is része a programnak, tehát nem szükség külön telepíteni. Viszont a folyamatos program javítások miatt ez a verzió frissebb, mint az aktuálisan a programban lévő, tehát érdemes innen frissíteni.
 
 
 ## Telepítés
