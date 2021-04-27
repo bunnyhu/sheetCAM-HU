@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-31 17:20+0100\n"
-"PO-Revision-Date: 2021-04-22 12:45+0200\n"
+"PO-Revision-Date: 2021-04-26 21:59+0200\n"
 "Last-Translator: Szabó Károly\n"
 "Language-Team: \n"
 "Language: hu\n"
@@ -3603,7 +3603,7 @@ msgstr "Támaszték"
 
 #: ShapeNames:5
 msgid "Specialty Shapes"
-msgstr "Speciális alakzatok"
+msgstr "Speciális formák"
 
 #: ShapeNames:6
 msgid "Circle"
@@ -4477,7 +4477,7 @@ msgstr "Minimum méret"
 
 #: tmp.cpp:24 tmp.cpp:16
 msgid "New shape"
-msgstr "Új alak"
+msgstr "Új forma"
 
 #: tmp.cpp:26 tmp.cpp:19
 msgid "Create bitmap"
@@ -4576,13 +4576,13 @@ msgid "Run the sample"
 msgstr "Minta futtatása"
 
 msgid "Shape cutting plugin\n"
-msgstr "Alakvágó bővítmény\n"
+msgstr "Forma vágó bővítmény\n"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shape.lua:534
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\backups\shape.lua~0:492
 #: tmp.cpp:20
 msgid "Shape"
-msgstr "Alak"
+msgstr "Formák"
 
 msgid " line"
 msgstr " vonal"
@@ -4591,7 +4591,7 @@ msgid "New line"
 msgstr "Új vonal"
 
 msgid "Shape cutting library"
-msgstr "Alakvágó könyvtár"
+msgstr "Forma vágó könyvtár"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Basic Shapes\Convex rectangle\main.lua:24
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Basic Shapes\Parallelogram\main.lua:22
@@ -5336,7 +5336,7 @@ msgstr "Új lyukasztó művelet készítés"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\RotaryPlasma\CustomShape.cpp:46
 msgid "&New shape from part"
-msgstr "Új alak a termékből"
+msgstr "Új forma a termékből"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\RotaryPlasma\CustomShape.cpp:105
 msgid "Unusable: The part must contain only one closed outline"
@@ -5361,7 +5361,7 @@ msgid "Torch configuration"
 msgstr "Fáklya beállítás"
 
 msgid "Manage custom shapes"
-msgstr "Egyedi alakok kezelése"
+msgstr "Egyedi formák kezelése"
 
 msgid "Calculate diameter from drawing"
 msgstr "Átmérő számítás a rajz alapján"
@@ -5386,7 +5386,7 @@ msgid "I beam"
 msgstr "Sugárzom"
 
 msgid "Custom shape"
-msgstr "Egyedi alak"
+msgstr "Egyedi forma"
 
 msgid "Save dxf"
 msgstr "DXF mentés"
