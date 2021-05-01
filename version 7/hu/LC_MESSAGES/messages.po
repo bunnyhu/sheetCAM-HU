@@ -7,15 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-31 17:20+0100\n"
-"PO-Revision-Date: 2021-04-26 21:59+0200\n"
+"POT-Creation-Date: 2021-04-30 15:07+0100\n"
+"PO-Revision-Date: 2021-05-01 09:36+0200\n"
 "Last-Translator: Szabó Károly\n"
 "Language-Team: \n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Poedit 2.4.3\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "The new generation of CAM."
@@ -658,10 +658,10 @@ msgid "Align"
 msgstr "Igazítás"
 
 msgid "&Mode"
-msgstr "&Művelet"
+msgstr "Üzem&mód"
 
 msgid "Mode"
-msgstr "Művelet"
+msgstr "Üzemmód"
 
 msgid "Code"
 msgstr "Kód"
@@ -1036,7 +1036,7 @@ msgid "Save/load"
 msgstr "Mentés/Betöltés"
 
 msgid "Machine"
-msgstr "Gép"
+msgstr "Szerszámgép beállítás"
 
 msgid "You need to select at least one machine type"
 msgstr "Legalább egy géptípust ki kell választani"
@@ -1847,7 +1847,7 @@ msgid "On all corners"
 msgstr "Minden saroknál"
 
 msgid "On small shapes"
-msgstr "Kis méretű saroknál"
+msgstr "Kis méretű formáknál"
 
 msgid "On small circles"
 msgstr "Kis méretű körnél"
@@ -2796,7 +2796,7 @@ msgid "Machine table"
 msgstr "Gép asztal"
 
 msgid "Work"
-msgstr "Munkaterület"
+msgstr "Munkálat"
 
 msgid "Material extents"
 msgstr "Anyag kibővítés"
@@ -3259,10 +3259,10 @@ msgstr "Hiba a munka konfiguráció mentésében."
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\Languages\..\camlib\PluginServer.cpp:529
 msgid "Plugin is unlicensed"
-msgstr "A plugin nincs megvásárolva"
+msgstr "Pluginhez nincs licensz"
 
 msgid "Plugin is not valid"
-msgstr "A Bővítmény nem érvényes"
+msgstr "A bővítmény nem érvényes"
 
 #, c-format
 msgid ""
@@ -4389,11 +4389,11 @@ msgstr "Plazma szerszám készítő futtatás"
 msgid "Create plasma tool"
 msgstr "Plazma szerszám készítés"
 
-#: tmp.cpp:2 tmp.cpp:21
+#: tmp.cpp:2 tmp.cpp:22
 msgid "TreeCtrl1"
 msgstr "TreeCtrl1"
 
-#: tmp.cpp:3 tmp.cpp:22
+#: tmp.cpp:3 tmp.cpp:23
 msgid "<none>"
 msgstr "<nincs>"
 
@@ -4479,7 +4479,7 @@ msgstr "Minimum méret"
 msgid "New shape"
 msgstr "Új forma"
 
-#: tmp.cpp:26 tmp.cpp:19
+#: tmp.cpp:26 tmp.cpp:20
 msgid "Create bitmap"
 msgstr "Bittérkép létrehozás"
 
@@ -4576,13 +4576,13 @@ msgid "Run the sample"
 msgstr "Minta futtatása"
 
 msgid "Shape cutting plugin\n"
-msgstr "Forma vágó bővítmény\n"
+msgstr "Forma bővítmény\n"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shape.lua:534
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\backups\shape.lua~0:492
-#: tmp.cpp:20
+#: tmp.cpp:21
 msgid "Shape"
-msgstr "Formák"
+msgstr "Forma"
 
 msgid " line"
 msgstr " vonal"
@@ -4591,7 +4591,7 @@ msgid "New line"
 msgstr "Új vonal"
 
 msgid "Shape cutting library"
-msgstr "Forma vágó könyvtár"
+msgstr "Forma könyvtár"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Basic Shapes\Convex rectangle\main.lua:24
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shapes\Basic Shapes\Parallelogram\main.lua:22
@@ -4828,6 +4828,10 @@ msgstr "Nyitó szög"
 msgid "Add to current part"
 msgstr "Aktuális termékhez hozzáad"
 
+#: tmp.cpp:19
+msgid "Add to new part"
+msgstr "Új termék hozzáadás"
+
 msgid "Sim"
 msgstr "Szim"
 
@@ -4854,6 +4858,17 @@ msgstr ""
 "SVG import szűrő\n"
 "\n"
 "Megjegyzés: Jelenleg nem kezeli a szöveges egységeket"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\svg\options.lua:33
+msgid "90DPI"
+msgstr "90DPI"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\svg\options.lua:34
+msgid "96DPI"
+msgstr "96DPI"
+
+msgid "Pixel size"
+msgstr "Pixel méret"
 
 msgid ""
 "Text Creation plugin\n"
@@ -5597,12 +5612,12 @@ msgstr "Huzal"
 msgid "Wire cut"
 msgstr "Huzal vágás"
 
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireOperation.cpp:252
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireOperation.cpp:268
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireOperation.cpp:253
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireOperation.cpp:269
 msgid "Cut route is not complete."
 msgstr "Vágás útvonal nem teljes."
 
-#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireOperation.cpp:319
+#: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\WireOperation.cpp:320
 msgid "Cut route is impossible."
 msgstr "A vágás útvonal lehetetlen."
 
