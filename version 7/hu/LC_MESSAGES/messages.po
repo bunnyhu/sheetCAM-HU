@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-05-07 21:32+0100\n"
-"PO-Revision-Date: 2021-05-14 06:54+0200\n"
+"POT-Creation-Date: 2021-08-02 18:34+0100\n"
+"PO-Revision-Date: 2021-08-03 12:16+0200\n"
 "Last-Translator: Szabó Károly\n"
 "Language-Team: \n"
 "Language: hu\n"
@@ -344,7 +344,7 @@ msgid "Drawing options"
 msgstr "Rajz beállítások"
 
 msgid "Scaling"
-msgstr "Méretarány"
+msgstr "Átméretezés"
 
 #: tmp.cpp:4
 msgid "Metric"
@@ -585,6 +585,9 @@ msgstr "Többszörös duplikálás"
 
 msgid "Array parts"
 msgstr "Tömb termékek"
+
+msgid "Scale"
+msgstr "Átméretez"
 
 msgid "Disable"
 msgstr "Letiltás"
@@ -1766,6 +1769,12 @@ msgstr "Nullpont"
 msgid "Enter coordinates"
 msgstr "Megadott koordináták"
 
+msgid "Enable locked"
+msgstr "Rögzítés engedélyezés"
+
+msgid "Disable locked"
+msgstr "Lezárás Letiltás"
+
 msgid "Lock part and duplicates"
 msgstr "Termék lezárás és duplikálás"
 
@@ -2049,12 +2058,15 @@ msgstr "Sugaras vágó"
 msgid "Loop sharp corners"
 msgstr "Éles sarkoknál hurok"
 
-#: ShapeNames:13
+#: ShapeNames:14
 msgid "Triangle"
 msgstr "Háromszög"
 
 msgid "Arc"
 msgstr "Ív"
+
+msgid "Overcut scale"
+msgstr "Túlvágás méretaránya"
 
 msgid "Angle threshold"
 msgstr "Szögküszöb"
@@ -2227,6 +2239,12 @@ msgstr "Ki"
 
 msgid "Spindle rotation"
 msgstr "Orsó forgás"
+
+msgid "Scale part"
+msgstr "Termék átméretezés"
+
+msgid "Scale factor"
+msgstr "Méretarány"
 
 msgid "Sequence number"
 msgstr "Sorozat szám"
@@ -3424,10 +3442,6 @@ msgstr "Esemény fül váltás"
 msgid "Modify tool"
 msgstr "Szerszám módosítás"
 
-#, c-format
-msgid "This file format does not support %s"
-msgstr "Ez a fájl formátum nem támogatott %s"
-
 msgid "Diameter"
 msgstr "Átmérő"
 
@@ -3610,90 +3624,94 @@ msgid "Circle"
 msgstr "Kör"
 
 #: ShapeNames:7
+msgid "Circle - Copy"
+msgstr "Kör - Másolat"
+
+#: ShapeNames:8
 msgid "Convex rectangle"
 msgstr "Konvex téglalap"
 
-#: ShapeNames:8
+#: ShapeNames:9
 msgid "Donut"
 msgstr "Fánk"
 
-#: ShapeNames:9
+#: ShapeNames:10
 msgid "Parallelogram"
 msgstr "Paralelogramma"
 
-#: ShapeNames:10
+#: ShapeNames:11
 msgid "Polygon"
 msgstr "Sokszög"
 
-#: ShapeNames:11
+#: ShapeNames:12
 msgid "Rectangle"
 msgstr "Téglalap"
 
-#: ShapeNames:12
+#: ShapeNames:13
 msgid "Trapezoid"
 msgstr "Trapezoid"
 
-#: ShapeNames:14
+#: ShapeNames:15
 msgid "Lap Joint"
 msgstr "Szárny csatlakozás"
 
-#: ShapeNames:15
+#: ShapeNames:16
 msgid "Lifting Lug"
 msgstr "Emelő fül"
 
-#: ShapeNames:16
+#: ShapeNames:17
 msgid "Pipe Flange"
 msgstr "Csőperem"
 
-#: ShapeNames:17
+#: ShapeNames:18
 msgid "Pipe Saddle"
 msgstr "Csőnyereg"
 
-#: ShapeNames:18
+#: ShapeNames:19
 msgid "Rectangle 4 Holes"
 msgstr "Téglalap 4 furat"
 
-#: ShapeNames:19
+#: ShapeNames:20
 msgid "Rectangle Mount Plate"
 msgstr "Téglalap rögzítő lemez"
 
-#: ShapeNames:20
+#: ShapeNames:21
 msgid "Rectangle Multiple Holes"
 msgstr "Téglalap több furat"
 
-#: ShapeNames:21
+#: ShapeNames:22
 msgid "Straight Lug"
 msgstr "Egyenes fül"
 
-#: ShapeNames:22
+#: ShapeNames:23
 msgid "U Lug"
 msgstr "U fül"
 
-#: ShapeNames:23
+#: ShapeNames:24
 msgid "L Gusset"
 msgstr "L támaszték"
 
-#: ShapeNames:24
+#: ShapeNames:25
 msgid "Triangular Gusset"
 msgstr "Háromszög betoldás"
 
-#: ShapeNames:25
+#: ShapeNames:26
 msgid "Truss Support"
 msgstr "Csomópont támaszték"
 
-#: ShapeNames:26
+#: ShapeNames:27
 msgid "Web Stiffener"
 msgstr "Háló merevítés"
 
-#: ShapeNames:27
+#: ShapeNames:28
 msgid "Cam Link"
 msgstr "Tengely kapcsolat"
 
-#: ShapeNames:28
+#: ShapeNames:29
 msgid "Slotted Plate"
 msgstr "Réselt lemez"
 
-#: ShapeNames:29
+#: ShapeNames:30
 msgid "Split Ring"
 msgstr "Hasított gyűrű"
 
@@ -4068,7 +4086,7 @@ msgstr "Betűköz"
 
 #: tmp.cpp:6 tmp.cpp:16
 msgid "Line spacing"
-msgstr "Sortávolság"
+msgstr "Sor távolság"
 
 #: tmp.cpp:7
 msgid "Rotate"
@@ -4472,7 +4490,7 @@ msgstr "Szerszám átmérő"
 
 #: tmp.cpp:21 tmp.cpp:13 tmp.cpp:16
 msgid "Scale size"
-msgstr "Méretarány"
+msgstr "Méretarány mértéke"
 
 #: tmp.cpp:22 tmp.cpp:14 tmp.cpp:17
 msgid "Minimum size"
@@ -5294,8 +5312,8 @@ msgstr "Raszter"
 msgid "Create a new raster engraving operation"
 msgstr "Új raszter gravírozó művelet készítés"
 
-msgid "Fixed angle"
-msgstr "Rögzített szög"
+msgid "Edge spacing"
+msgstr "Él távolság"
 
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Paint\painteditor.cpp:36
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Paint\Paintplugin.cpp:46
@@ -5661,6 +5679,13 @@ msgstr "Új huzalvágó szerszám készítés"
 #: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\Wireplugin.cpp:924
 msgid "Link paths"
 msgstr "Link paths"
+
+#, c-format
+#~ msgid "This file format does not support %s"
+#~ msgstr "Ez a fájl formátum nem támogatott %s"
+
+#~ msgid "Fixed angle"
+#~ msgstr "Rögzített szög"
 
 #~ msgid "DG NestPro V"
 #~ msgstr "DG NestPro V"
