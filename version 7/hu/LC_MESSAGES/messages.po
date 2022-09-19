@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-20 11:35+0000\n"
-"PO-Revision-Date: 2022-01-30 07:41+0100\n"
+"POT-Creation-Date: 2022-04-01 13:29+0100\n"
+"PO-Revision-Date: 2022-09-19 23:04+0200\n"
 "Last-Translator: Szabó Károly\n"
 "Language-Team: \n"
 "Language: hu\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.1.1\n"
 
 msgid "The new generation of CAM."
 msgstr "Az új generációs CAM."
@@ -461,7 +461,7 @@ msgstr "Start pont másolása innen"
 msgid "Enter the snap distance"
 msgstr "Kapocs távolsága"
 
-#: tmp.cpp:25 tmp.cpp:18 tmp.cpp:3
+#: tmp.cpp:25 tmp.cpp:3 tmp.cpp:18
 #: C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Wire\Wireplugin.cpp:618
 msgid "Delete"
 msgstr "Törlés"
@@ -1024,7 +1024,7 @@ msgstr "Gép betöltés"
 msgid "Save machine"
 msgstr "Gép mentés"
 
-#: tmp.cpp:23 tmp.cpp:6 tmp.cpp:15 tmp.cpp:18
+#: tmp.cpp:23 tmp.cpp:6 tmp.cpp:18 tmp.cpp:15
 msgid "Machine type"
 msgstr "Gép típus"
 
@@ -1690,6 +1690,9 @@ msgstr "Ív illesztés toleranciája"
 msgid "Minumum segments for arc fitting"
 msgstr "Minimum szakaszok az ív illesztéshez"
 
+msgid "Angle threshold"
+msgstr "Szögküszöb"
+
 msgid "Remove duplicate lines"
 msgstr "Duplikált vonalak eltávolítása"
 
@@ -2066,9 +2069,6 @@ msgstr "Ív"
 
 msgid "Overcut scale"
 msgstr "Túlvágás méretaránya"
-
-msgid "Angle threshold"
-msgstr "Szögküszöb"
 
 msgid "Jet tool"
 msgstr "Sugaras szerszám"
@@ -4341,26 +4341,6 @@ msgstr "Vezérlő 3"
 msgid "Post 4"
 msgstr "Vezérlő 4"
 
-#: tmp.cpp:5
-msgid "Move"
-msgstr "Mozgás"
-
-#: tmp.cpp:1
-msgid "Move amount"
-msgstr "Mozgás mennyisége"
-
-#: tmp.cpp:4
-msgid "All parts"
-msgstr "Minden termékek"
-
-#: tmp.cpp:7
-msgid "Material height"
-msgstr "Anyag magasság"
-
-#: tmp.cpp:8
-msgid "Material size"
-msgstr "Anyag méret"
-
 msgid "MyNesting V"
 msgstr "MyNesting V"
 
@@ -4378,6 +4358,26 @@ msgstr "Egy réteg"
 
 msgid "Move everything onto one layer"
 msgstr "Mozgatás mindent egy rétegre"
+
+#: tmp.cpp:1
+msgid "Move amount"
+msgstr "Mozgás mennyisége"
+
+#: tmp.cpp:4
+msgid "All parts"
+msgstr "Minden termékek"
+
+#: tmp.cpp:5
+msgid "Move"
+msgstr "Mozgás"
+
+#: tmp.cpp:7
+msgid "Material height"
+msgstr "Anyag magasság"
+
+#: tmp.cpp:8
+msgid "Material size"
+msgstr "Anyag méret"
 
 msgid "This file already exists. Overwrite it?"
 msgstr ""
@@ -4405,11 +4405,11 @@ msgstr "Plazma szerszám készítő futtatás"
 msgid "Create plasma tool"
 msgstr "Plazma szerszám készítés"
 
-#: tmp.cpp:2 tmp.cpp:22
+#: tmp.cpp:2 tmp.cpp:7 tmp.cpp:22
 msgid "TreeCtrl1"
 msgstr "TreeCtrl1"
 
-#: tmp.cpp:3 tmp.cpp:23
+#: tmp.cpp:3 tmp.cpp:8 tmp.cpp:23
 msgid "<none>"
 msgstr "<nincs>"
 
@@ -4463,39 +4463,39 @@ msgstr ""
 "körvonalat simábbá teszi, de\n"
 "több processzor teljesítményt igényel."
 
-#: tmp.cpp:16 tmp.cpp:8 tmp.cpp:9
+#: tmp.cpp:16 tmp.cpp:9 tmp.cpp:8
 msgid "Tool colours"
 msgstr "Szerszámpálya színek"
 
-#: tmp.cpp:17 tmp.cpp:9 tmp.cpp:10
+#: tmp.cpp:17 tmp.cpp:10 tmp.cpp:9
 msgid "Spindle off/jet off"
 msgstr "Orsó ki / sugár ki"
 
-#: tmp.cpp:18 tmp.cpp:10 tmp.cpp:11
+#: tmp.cpp:18 tmp.cpp:11 tmp.cpp:10
 msgid "Spindle CW/jet preheat"
 msgstr "Orsó órairány / sugár előmelegít"
 
-#: tmp.cpp:19 tmp.cpp:11 tmp.cpp:12
+#: tmp.cpp:19 tmp.cpp:12 tmp.cpp:11
 msgid "Spindle CCW/jet cutting"
 msgstr "Orsó óraellen / sugaras vágás"
 
-#: tmp.cpp:20 tmp.cpp:12 tmp.cpp:15
+#: tmp.cpp:20 tmp.cpp:15 tmp.cpp:12
 msgid "Tool diameter"
 msgstr "Szerszám átmérő"
 
-#: tmp.cpp:21 tmp.cpp:13 tmp.cpp:16
+#: tmp.cpp:21 tmp.cpp:16 tmp.cpp:13
 msgid "Scale size"
 msgstr "Méretarány mértéke"
 
-#: tmp.cpp:22 tmp.cpp:14 tmp.cpp:17
+#: tmp.cpp:22 tmp.cpp:17 tmp.cpp:14
 msgid "Minimum size"
 msgstr "Minimum méret"
 
-#: tmp.cpp:24 tmp.cpp:16
+#: tmp.cpp:24 tmp.cpp:1 tmp.cpp:16
 msgid "New shape"
 msgstr "Új forma"
 
-#: tmp.cpp:26 tmp.cpp:20
+#: tmp.cpp:26 tmp.cpp:5 tmp.cpp:20
 msgid "Create bitmap"
 msgstr "Bittérkép létrehozás"
 
@@ -4591,9 +4591,20 @@ msgstr "&Minta"
 msgid "Run the sample"
 msgstr "Minta futtatása"
 
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\SCJobCost\ScJobCost.lua:233
+msgid "SCJobCost"
+msgstr "SCJobCost"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\SCJobCost\ScJobCost.lua:234
+msgid "&ScJobCost"
+msgstr "&ScJobCost"
+
+msgid "Job Costing"
+msgstr "Munkadíj"
+
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\shape.lua:534
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\plugins\shape\backups\shape.lua~0:492
-#: tmp.cpp:21
+#: tmp.cpp:6 tmp.cpp:21
 msgid "Shape"
 msgstr "Forma"
 
@@ -4840,11 +4851,11 @@ msgstr "Rés térköz"
 msgid "Opening Angle"
 msgstr "Nyitó szög"
 
-#: tmp.cpp:17 tmp.cpp:2
+#: tmp.cpp:2 tmp.cpp:17
 msgid "Add to current part"
 msgstr "Aktuális termékhez hozzáad"
 
-#: tmp.cpp:19
+#: tmp.cpp:4 tmp.cpp:19
 msgid "Add to new part"
 msgstr "Új termék hozzáadás"
 
@@ -5596,6 +5607,12 @@ msgstr "Geometria"
 # C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\TurnToolEditor.cpp:66
 msgid "Feeds and speeds"
 msgstr "Tolások és sebességek"
+
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\temp\GrooveEditor.cpp:59
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\temp\PartingEditor.cpp:62
+# C:\Users\gw\Documents\SheetCam\SheetCamTNG\SDK\Turn\temp\ProfileEditor.cpp:69
+msgid "Passes"
+msgstr "Átadások"
 
 msgid "V carve"
 msgstr "V carve"
